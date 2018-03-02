@@ -1,0 +1,994 @@
+_ <DET> a _ <NOUN> p i z z a _ <NOUN> p i e _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> b o a r d _ <ADP> o n _ <DET> a _ <NOUN> t a b l e _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <ADP> i n _ <DET> a _ <NOUN> s w i m s u i t _ <ADP> w i t h _ <DET> a _ <NOUN> r a c k e t _ <ADP> i n _ <PRON> h e r _ <NOUN> h a n d s _ <ADP> o n _ <DET> a _ <NOUN> t e n n i s _ <NOUN> c o u r t _ <PUNCT> 
+_ <DET> a _ <NOUN> l a d y _ <PRON> t h a t _ <VERB> i s _ <ADP> o n _ <DET> a _ <NOUN> t e n n i s _ <NOUN> c o u r t _ <ADP> w i t h _ <DET> a _ <NOUN> r a c k e t _ <PUNCT> 
+_ <PRON> t h e r e _ <VERB> i s _ <DET> a _ <NOUN> w o m a n _ <PRON> t h a t _ <VERB> i s _ <VERB> p l a y i n g _ <NOUN> t e n n i s _ <VERB> w e a r i n g _ <DET> a _ <NOUN> b a t h i n g _ <NOUN> s u i t _ <PUNCT> 
+_ <DET> a _ <NOUN> t e n n i s _ <NOUN> p l a y e r _ <ADP> i n _ <NOUN> a c t i o n _ <ADP> o n _ <DET> t h e _ <NOUN> c o u r t _ <PUNCT> 
+_ <DET> a _ <NOUN> g i r l _ <VERB> w e a r i n g _ <DET> a _ <NOUN> b a t h i n g _ <NOUN> s u i t _ <VERB> p l a y i n g _ <NOUN> t e n n i s _ <PUNCT> 
+_ <DET> a _ <NOUN> v a n _ <VERB> m o v e s _ <ADP> t h r o u g h _ <DET> a n _ <NOUN> i n t e r s e c t i o n _ <ADP> o n _ <DET> a n _ <ADJ> e m p t y _ <NOUN> r o a d _ <PUNCT> 
+_ <DET> a _ <ADJ> w h i t e _ <NOUN> v a n _ <VERB> g o e s _ <ADP> t h r o u g h _ <DET> a n _ <NOUN> i n t e r s e c t i o n _ <ADP> o n _ <DET> a _ <ADJ> g r e e n _ <NOUN> l i g h t _ <PUNCT> 
+_ <DET> a _ <NOUN> v a n _ <VERB> i s _ <VERB> t r a v e l i n g _ <ADP> t h r o u g h _ <DET> a _ <ADJ> g r e e n _ <NOUN> l i g h t _ <ADP> o f _ <DET> a n _ <NOUN> i n t e r s e c t i o n _ <PUNCT> 
+_ <DET> a _ <ADJ> w h i t e _ <NOUN> v a n _ <VERB> i s _ <VERB> d r i v i n g _ <ADP> d o w n _ <DET> t h e _ <NOUN> s t r e e t _ <ADP> o n _ <DET> a _ <ADJ> r a i n y _ <NOUN> d a y _ <PUNCT> 
+_ <DET> a _ <NOUN> p i c t u r e _ <ADP> o f _ <DET> a _ <NOUN> p a n e l _ <NOUN> v a n _ <VERB> g o i n g _ <ADP> t h r o u g h _ <DET> a _ <ADJ> b u s y _ <NOUN> i n t e r s e c t i o n _ <ADP> i n _ <DET> a _ <ADJ> s m a l l _ <NOUN> t o w n _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <VERB> r i d i n g _ <NOUN> s k i s _ <ADP> d o w n _ <DET> a _ <NOUN> h i l l _ <ADP> o n _ <DET> a _ <NOUN> c o u r s e _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> r i d i n g _ <NOUN> s k i s _ <ADP> d o w n _ <DET> a _ <NOUN> s n o w _ <VERB> c o v e r e d _ <ADJ> s k i _ <NOUN> s l o p e _ <PUNCT> 
+_ <DET> a _ <NOUN> s l a l o m _ <NOUN> s k i e r _ <NOUN> s k i s _ <ADP> d o w n _ <DET> a _ <ADJ> s n o w y _ <NOUN> s l o p e _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <PRON> t h a t _ <VERB> i s _ <VERB> s t a n d i n g _ <ADP> o n _ <NOUN> s k i _ <PART> ' s _ <ADP> i n _ <DET> t h e _ <NOUN> s n o w _ <PUNCT> 
+_ <DET> t h e _ <NOUN> s k i i n g _ <NOUN> r a c e r _ <ADP> i n _ <NOUN> g o g g l e s _ <VERB> t u c k s _ <DET> t h e _ <NOUN> p o l e s _ <ADP> u n d e r _ <PRON> h i s _ <NOUN> a r m s _ <PUNCT> 
+_ <DET> a _ <NOUN> s t r e e t _ <NOUN> s i g n _ <PUNCT> , _ <PUNCT> * _ <PROPN> c h e m i n _ <PROPN> d u _ <PROPN> c r o z e t _ <PUNCT> ' ' _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a _ <ADJ> b e i g e _ <NOUN> b u i l d i n g _ <PUNCT> 
+_ <DET> a _ <NOUN> s t r e e t _ <NOUN> s i g n _ <VERB> s e t _ <ADP> o n _ <DET> a _ <NOUN> s t e e l _ <NOUN> p o l e _ <PUNCT> 
+_ <DET> a _ <ADJ> b l u e _ <NOUN> s t r e e t _ <NOUN> s i g n _ <VERB> h a n g i n g _ <ADP> f r o m _ <DET> a _ <NOUN> m e t a l _ <NOUN> p o l e _ <PUNCT> 
+_ <ADJ> b l u e _ <NOUN> s t r e e t _ <NOUN> s i g n _ <ADP> w i t h _ <ADJ> b r o w n _ <CCONJ> a n d _ <ADJ> g r e e n _ <NOUN> b u i l d i n g _ <ADP> b e h i n d _ <PRON> i t _ <PUNCT> 
+_ <DET> a n _ <ADV> u p _ <ADJ> c l o s e _ <NOUN> p h o t o _ <ADP> o f _ <DET> a _ <NOUN> s t r e e t _ <NOUN> s i g n _ <ADP> n e a r _ <DET> a _ <NOUN> p l a n t _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> s i t t i n g _ <ADP> a t _ <DET> a _ <NOUN> t a b l e _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a _ <NOUN> l a p t o p _ <VERB> t a l k i n g _ <ADP> o n _ <DET> t h e _ <NOUN> p h o n e _ <PUNCT> 
+_ <PROPN> w o m a n _ <VERB> t a l k i n g _ <ADP> o n _ <NOUN> c e l l p h o n e _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <ADJ> p e r s o n a l _ <NOUN> c o m p u t e r _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> i s _ <VERB> t a l k i n g _ <ADP> o n _ <DET> t h e _ <NOUN> p h o n e _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a _ <NOUN> l a p t o p _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> s i t t i n g _ <ADP> a t _ <DET> a _ <NOUN> c o m p u t e r _ <NOUN> d e s k _ <VERB> t a l k i n g _ <ADP> o n _ <DET> a _ <NOUN> p h o n e _ <PUNCT> 
+_ <DET> a _ <NOUN> l a d y _ <ADP> a t _ <DET> a _ <NOUN> t a b l e _ <ADP> w i t h _ <DET> a _ <ADJ> l a p t o p _ <NOUN> c o m p u t e r _ <VERB> t a l k i n g _ <ADP> o n _ <PRON> h e r _ <NOUN> t e l e p h o n e _ <PUNCT> 
+_ <DET> a _ <ADJ> l i t t l e _ <NOUN> g i r l _ <VERB> h o l d i n g _ <DET> a _ <NOUN> c u p _ <ADP> w i t h _ <NOUN> f o o d _ <ADP> i n _ <NOUN> d i s h e s _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <PRON> h e r _ <PUNCT> 
+_ <DET> a _ <ADJ> y o u n g _ <NOUN> c h i l d _ <VERB> h o l d s _ <ADP> u p _ <PRON> h e r _ <NOUN> b o w l _ <ADP> w i t h _ <DET> a _ <NOUN> s p o o n _ <ADP> i n _ <PRON> i t _ <PUNCT> 
+_ <PRON> t h e r e _ <VERB> i s _ <DET> a _ <ADJ> y o u n g _ <NOUN> g i r l _ <VERB> s i t t i n g _ <ADP> a t _ <DET> a _ <NOUN> t a b l e _ <NOUN> e a t i n g _ <PUNCT> 
+_ <DET> a _ <ADJ> y o u n g _ <NOUN> g i r l _ <VERB> h o l d i n g _ <ADP> u p _ <PRON> h e r _ <NOUN> f o o d _ <NOUN> b o w l _ <PUNCT> 
+_ <DET> a _ <ADJ> y o u n g _ <NOUN> c h i l d _ <NOUN> s t a n d i n g _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a _ <NOUN> t a b l e _ <ADP> w i t h _ <NOUN> p l a t e s _ <ADP> o f _ <NOUN> f o o d _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> s i t t i n g _ <ADP> a t _ <DET> a _ <NOUN> t a b l e _ <VERB> u s i n g _ <DET> a _ <ADJ> s m a r t _ <NOUN> p h o n e _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> s i t t i n g _ <ADP> d o w n _ <ADP> a t _ <DET> a _ <NOUN> t a b l e _ <VERB> h o l d i n g _ <DET> a _ <NOUN> c e l l _ <NOUN> p h o n e _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> l o o k i n g _ <ADP> a t _ <DET> a _ <NOUN> c e l l p h o n e _ <ADP> i n _ <DET> a _ <NOUN> k i t c h e n _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <ADP> a t _ <DET> a _ <NOUN> t a b l e _ <VERB> i s _ <VERB> l o o k i n g _ <ADP> a t _ <PRON> h i s _ <NOUN> c e l l _ <NOUN> p h o n e _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> s m i l e s _ <ADP> a s _ <PRON> h e _ <VERB> l o o k s _ <ADP> a t _ <NOUN> s o m e t h i n g _ <ADP> o n _ <PRON> h i s _ <NOUN> p h o n e _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> h o r s e s _ <VERB> a r e _ <NOUN> g r a z i n g _ <ADP> i n _ <DET> a _ <NOUN> f i e l d _ <PUNCT> 
+_ <NOUN> g r o u p _ <ADP> o f _ <NOUN> h o r s e s _ <ADP> i n _ <DET> a _ <NOUN> f i e l d _ <ADP> w i t h _ <DET> a _ <NOUN> p i n t o _ <ADP> i n _ <DET> t h e _ <NOUN> f o r e g r o u n d _ <PUNCT> 
+_ <DET> a _ <NOUN> c o u p l e _ <ADP> o f _ <NOUN> h o r s e _ <PRON> t h a t _ <VERB> a r e _ <VERB> e a t i n g _ <DET> s o m e _ <NOUN> g r a s s _ <PUNCT> 
+_ <DET> a _ <ADJ> l u s h _ <ADJ> g r e e n _ <NOUN> f i e l d _ <ADP> w i t h _ <NOUN> h o r s e s _ <VERB> s t a n d i n g _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <NOUN> p a i n t _ <NOUN> h o r s e _ <CCONJ> a n d _ <ADJ> o t h e r _ <NOUN> b r e e d s _ <ADP> i n _ <DET> t h e _ <NOUN> b a c k g r o u n d _ <NOUN> g r a z i n g _ <ADP> i n _ <DET> a _ <ADJ> g r e e n _ <NOUN> f i e l d _ <PUNCT> 
+_ <DET> a _ <NOUN> v a s e _ <ADJ> f u l l _ <ADP> o f _ <ADJ> r e d _ <NOUN> f l o w e r s _ <VERB> s i t s _ <ADP> i n _ <DET> a _ <NOUN> r o o m _ <ADP> w i t h _ <ADJ> r e d _ <NOUN> w a l l s _ <CCONJ> a n d _ <ADJ> r e d _ <NOUN> d e c o r a t i o n s _ <PUNCT> 
+_ <DET> a _ <NOUN> v a s e _ <ADJ> f u l l _ <ADP> o f _ <NOUN> f l o w e r s _ <ADP> o n _ <DET> a _ <NOUN> b a t h r o o m _ <NOUN> s i n k _ <NOUN> c o u n t e r _ <PUNCT> 
+_ <DET> t h e _ <NOUN> v a n i t y _ <VERB> i s _ <VERB> d e c o r a t e d _ <ADP> w i t h _ <DET> a _ <ADJ> r e d _ <NOUN> f l o w e r _ <NOUN> a r r a n g e m e n t _ <CCONJ> a n d _ <NOUN> g l a s s _ <NOUN> c a n d l e s _ <CCONJ> a n d _ <NOUN> p e r f u m e _ <NOUN> b o t t l e s _ <PUNCT> 
+_ <ADJ> r e d _ <NOUN> f l o w e r s _ <VERB> s i t t i n g _ <ADP> i n _ <DET> a _ <NOUN> v a s e _ <ADP> w i t h _ <DET> a _ <ADJ> r e d _ <NOUN> w a l l _ <ADP> b e h i n d _ <PRON> t h e m _ <PUNCT> 
+_ <DET> a _ <NOUN> v a s e _ <ADP> o f _ <ADJ> r e d _ <NOUN> f l o w e r s _ <VERB> s i t s _ <ADP> o n _ <DET> a _ <NOUN> b a t h r o o m _ <NOUN> c o u n t e r t o p _ <PUNCT> 
+_ <DET> a _ <NOUN> b u n c h _ <ADP> o f _ <NOUN> t r a f f i c _ <NOUN> c l u t t e r _ <DET> a _ <NOUN> c i t y _ <NOUN> s t r e e t _ <PUNCT> 
+_ <DET> a _ <ADJ> b u s y _ <NOUN> c i t y _ <NOUN> s t r e e t _ <VERB> f i l l e d _ <ADP> w i t h _ <NOUN> c a r s _ <ADP> a t _ <NOUN> n i g h t _ <PUNCT> 
+_ <ADJ> l a r g e _ <NOUN> b u s _ <ADP> w i t h _ <DET> a _ <ADJ> b u s y _ <NOUN> i n t e r s e c t i o n _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <PRON> i t _ <PUNCT> 
+_ <DET> t h e _ <NOUN> r o a d _ <VERB> i s _ <VERB> f i l l e d _ <ADP> w i t h _ <NOUN> l o t s _ <ADP> o f _ <NOUN> c a r s _ <CCONJ> a n d _ <NOUN> b u s s e s _ <PUNCT> 
+_ <DET> a _ <ADJ> b u s y _ <NOUN> s t r e e t _ <ADP> w i t h _ <ADJ> s e v e r a l _ <NOUN> c a r s _ <CCONJ> a n d _ <NOUN> b u s e s _ <VERB> d r i v i n g _ <ADP> o n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o s e - u p _ <ADP> o f _ <DET> a _ <NOUN> c o m p u t e r _ <NOUN> k e y b o a r d _ <ADP> w i t h _ <DET> a _ <ADJ> s m a l l _ <NOUN> d e v i c e _ <ADP> o v e r _ <PRON> i t _ <PUNCT> 
+_ <DET> t h e _ <VERB> i s _ <DET> a _ <ADJ> r e m o t e _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <DET> t h e _ <NOUN> k e y b o a r d _ <PUNCT> 
+_ <DET> a _ <NOUN> t h i n g _ <VERB> i s _ <NOUN> c a t c h _ <ADV> h e r e _ <ADP> i n _ <DET> t h e _ <NOUN> p h o t o g r a p h _ <PUNCT> 
+_ <DET> a _ <ADJ> r e m o t e _ <DET> t h a t _ <VERB> i s _ <VERB> s i t t i n g _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <DET> a _ <NOUN> k e y b o a r d _ <PUNCT> 
+_ <DET> a _ <ADJ> l i t t l e _ <NOUN> r e c o r d e r _ <VERB> s i t t i n g _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <DET> a _ <NOUN> m i c r o p h o n e _ <PUNCT> 
+_ <DET> a _ <NOUN> m o n o r a i l _ <VERB> i s _ <VERB> g o i n g _ <ADP> d o w n _ <DET> t h e _ <NOUN> t r a c k _ <ADP> w i t h _ <NOUN> p e o p l e _ <ADP> o n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <NOUN> t r a i n _ <VERB> i s _ <ADP> o n _ <DET> t h e _ <NOUN> t r a c k s _ <ADP> n e a r _ <DET> s o m e _ <NOUN> t r e e s _ <PUNCT> 
+_ <DET> a _ <NUM> t h r e e _ <NOUN> c a r _ <NOUN> p a s s e n g e r _ <NOUN> t r a i n _ <ADP> o n _ <DET> t h e _ <NOUN> t r a i n _ <NOUN> t r a c k s _ <PUNCT> 
+_ <DET> a _ <NOUN> p a s s e n g e r _ <NOUN> t r a i n _ <NOUN> d r i v e s _ <VERB> p a s s e d _ <DET> a _ <NOUN> s t a t i o n _ <ADP> o n _ <DET> a _ <ADJ> c l o u d y _ <NOUN> d a y _ <PUNCT> 
+_ <DET> t h e _ <NOUN> t r a n s i t _ <NOUN> t r a i n _ <VERB> s t r e t c h e s _ <ADP> d o w n _ <DET> t h e _ <NOUN> t r a c k _ <ADP> u n d e r _ <DET> t h e _ <NOUN> p o w e r _ <NOUN> l i n e s _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <PART> ' s _ <NOUN> f a c e _ <VERB> s i t t i n g _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a n _ <NOUN> o v e n _ <PRON> t h a t _ <VERB> h a s _ <DET> a _ <NOUN> p a n _ <ADP> o f _ <NOUN> f o o d _ <ADP> i n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <NOUN> g i r l _ <VERB> i s _ <ADJ> c o o k i n g _ <NOUN> f o o d _ <ADP> i n _ <DET> t h e _ <NOUN> o v e n _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <PART> ' s _ <NOUN> f a c e _ <ADP> n e x t _ <ADP> t o _ <DET> a n _ <NOUN> o v e n _ <NOUN> c o o k i n g _ <NOUN> f o o d _ <PUNCT> 
+_ <DET> t h e _ <NOUN> w o m a n _ <NOUN> c o o k s _ <DET> t h e _ <NOUN> f o o d _ <ADP> i n _ <DET> t h e _ <NOUN> o v e n _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> l e a n s _ <ADV> s l i g h t l y _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a n _ <NOUN> o v e n _ <ADP> w i t h _ <NOUN> f o o d _ <ADV> i n s i d e _ <PUNCT> 
+_ <DET> a _ <NOUN> s t o p _ <NOUN> s i g n _ <ADP> o n _ <DET> a _ <NOUN> r o a d _ <VERB> b o u n d e d _ <ADP> b y _ <DET> a _ <ADJ> c o n c r e t e _ <NOUN> w a l l _ <PUNCT> 
+_ <DET> a _ <ADJ> r e d _ <NOUN> s t o p _ <NOUN> s i g n _ <PRON> t h a t _ <VERB> i s _ <ADP> o n _ <DET> a _ <NOUN> p o l e _ <PUNCT> 
+_ <DET> a _ <ADJ> r e d _ <NOUN> s t o p _ <NOUN> s i g n _ <VERB> s i t s _ <ADP> o n _ <DET> t h e _ <NOUN> c u r b _ <ADP> o f _ <DET> a _ <ADJ> d u s t y _ <NOUN> s t r e e t _ <PUNCT> 
+_ <PROPN> f o r e i g n _ <PUNCT> * _ <VERB> s t o p _ <PUNCT> ' ' _ <NOUN> s i g n _ <VERB> s t a t i o n e d _ <ADP> n e a r _ <DET> t h e _ <NOUN> b e n d _ <ADP> o f _ <DET> t h e _ <NOUN> r o a d _ <PUNCT> 
+_ <PROPN> s t r e e t _ <NOUN> i n t e r s e c t i o n _ <ADP> w i t h _ <NOUN> s t o p _ <NOUN> s i g n _ <ADP> n e a r _ <NOUN> c e m e n t _ <NOUN> w a l l _ <PUNCT> 
+_ <DET> a _ <ADJ> b r i g h t _ <NOUN> d a y _ <ADP> o n _ <DET> t h e _ <NOUN> b e a c h _ <ADP> w i t h _ <NUM> t h r e e _ <NOUN> p e o p l e _ <VERB> r e l a x i n g _ <ADP> i n _ <NOUN> l o u n g e _ <NOUN> c h a i r s _ <PUNCT> 
+_ <NOUN> p e o p l e _ <VERB> a r e _ <VERB> e n j o y i n g _ <PRON> t h e i r _ <NOUN> t i m e _ <ADP> o n _ <DET> t h e _ <NOUN> b e a c h _ <PUNCT> 
+_ <DET> a _ <NOUN> l a w n _ <NOUN> c h a i r _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> b e a c h _ <VERB> c o v e r e d _ <ADP> b y _ <DET> a n _ <NOUN> u m b r e l l a _ <PUNCT> 
+_ <NOUN> p e o p l e _ <VERB> s i t t i n g _ <ADP> o n _ <DET> t h e _ <NOUN> b e a c h _ <VERB> l o o k i n g _ <ADP> a t _ <DET> t h e _ <NOUN> o c e a n _ <PUNCT> 
+_ <DET> a _ <ADJ> q u i e t _ <NOUN> b e a c h _ <ADP> w i t h _ <DET> a _ <ADJ> f e w _ <NOUN> p e o p l e _ <VERB> e n j o y i n g _ <DET> t h e _ <NOUN> s u n _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <VERB> i s _ <VERB> r i d i n g _ <DET> a _ <NOUN> s u r f b o a r d _ <ADP> o n _ <DET> t h e _ <NOUN> w a t e r _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <ADP> i n _ <DET> t h e _ <NOUN> w a t e r _ <ADP> o n _ <DET> a _ <NOUN> s u r f _ <NOUN> b o a r d _ <PUNCT> 
+_ <DET> a _ <NOUN> s u r f e r _ <VERB> r i d i n g _ <DET> a _ <NOUN> w a v e _ <ADP> u n d e r _ <DET> a _ <NOUN> p i e r _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <NOUN> s u r f i n g _ <ADP> n e a r _ <DET> a _ <NOUN> d o c k _ <ADP> i n _ <DET> t h e _ <NOUN> o c e a n _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <VERB> w e a r i n g _ <DET> a _ <ADJ> b l a c k _ <NOUN> w a t e r _ <NOUN> s u i t _ <VERB> s u r f s _ <ADP> i n _ <DET> t h e _ <NOUN> o c e a n _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <NOUN> s h o w e r _ <ADP> b e h i n d _ <DET> a _ <ADJ> s m a l l _ <NOUN> b a t h r o o m _ <NOUN> s i n k _ <PUNCT> 
+_ <DET> a _ <ADJ> w h i t e _ <NOUN> b a t h r o o m _ <NOUN> s i n k _ <VERB> s i t t i n g _ <ADP> u n d e r _ <DET> a _ <NOUN> m i r r o r _ <PUNCT> 
+_ <DET> a _ <ADJ> f u l l _ <NOUN> p e r s p e c t i v e _ <ADP> o f _ <DET> a _ <NOUN> w a s h r o o m _ <ADP> w i t h _ <DET> a _ <NOUN> s i n k _ <PUNCT> 
+_ <DET> a _ <NOUN> s h o w e r _ <VERB> s t a l l _ <ADP> w i t h _ <ADJ> i n t e r e s t i n g _ <NOUN> t i l e _ <VERB> i s _ <DET> t h e _ <ADJ> f o c a l _ <NOUN> p o i n t _ <PUNCT> 
+_ <PRON> i _ <NOUN> p i c t u r e _ <ADP> o f _ <DET> a _ <NOUN> b a t h r o o m _ <ADP> w i t h _ <DET> a _ <NOUN> s t a n d _ <ADP> u p _ <NOUN> s h o w e r _ <VERB> s t a l l _ <CCONJ> a n d _ <DET> a _ <NOUN> p e r s o n _ <PART> ' s _ <NOUN> r e f l e c t i o n _ <ADP> i n _ <DET> t h e _ <NOUN> m i r r o r _ <PUNCT> 
+_ <DET> a _ <ADV> v e r y _ <ADJ> c u t e _ <NOUN> c a t _ <VERB> l a y i n g _ <ADP> i n _ <DET> a _ <ADV> v e r y _ <ADJ> s m a l l _ <NOUN> s i n k _ <PUNCT> 
+_ <DET> a _ <NOUN> c a t _ <VERB> l y i n g _ <ADP> i n _ <DET> a _ <ADJ> s m a l l _ <NOUN> s i n k _ <ADP> o f _ <DET> a _ <NOUN> b a t h r o o m _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o s e _ <ADP> u p _ <ADP> o f _ <DET> a _ <NOUN> c a t _ <ADP> i n _ <DET> a _ <NOUN> b a t h _ <NOUN> r o o m _ <NOUN> s i n k _ <PUNCT> 
+_ <DET> a _ <NOUN> c a t _ <VERB> l a y i n g _ <ADP> i n _ <DET> a _ <ADJ> w h i t e _ <NOUN> s i n k _ <ADP> i n _ <DET> a _ <NOUN> r o o m _ <PUNCT> 
+_ <DET> a _ <NOUN> c a t _ <PRON> t h a t _ <VERB> l a y i n g _ <ADP> d o w n _ <ADP> i n _ <DET> a _ <NOUN> s i n k _ <PUNCT> 
+_ <PROPN> c l o s e u p _ <ADP> o f _ <DET> a _ <ADJ> b l a c k _ <CCONJ> a n d _ <ADJ> g r e y _ <NOUN> c e l l p h o n e _ <ADP> a t o p _ <DET> a _ <NOUN> n e w s p a p e r _ <PUNCT> 
+_ <DET> a _ <NOUN> c e l l _ <NOUN> p h o n e _ <VERB> i s _ <VERB> l a y i n g _ <ADP> o n _ <DET> a _ <ADJ> c r o s s w o r d _ <NOUN> p a g e _ <ADP> f r o m _ <DET> a _ <NOUN> n e w s p a p e r _ <PUNCT> 
+_ <DET> a _ <NOUN> c e l l p h o n e _ <VERB> s i t t i n g _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <DET> a _ <NOUN> n e w s p a p e r _ <PUNCT> 
+_ <DET> a _ <ADJ> c e l l u l a r _ <NOUN> p h o n e _ <VERB> s i t t i n g _ <ADP> o n _ <DET> t h e _ <NOUN> c o m i c s _ <NOUN> s e c t i o n _ <ADP> o f _ <DET> a _ <NOUN> n e w s p a p e r _ <PUNCT> 
+_ <DET> a n _ <ADJ> o l d _ <NOUN> c e l l p h o n e _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <DET> a _ <NOUN> t a b l e _ <PUNCT> 
+_ <DET> a _ <ADJ> d o u b l e _ <NOUN> d e c k e r _ <NOUN> b u s _ <VERB> i s _ <VERB> d r i v i n g _ <ADP> p a s t _ <DET> s o m e _ <NOUN> s k y s c r a p e r s _ <PUNCT> 
+_ <DET> a _ <ADJ> r e d _ <NOUN> b u s _ <ADP> w i t h _ <DET> a n _ <ADJ> o p e n _ <ADJ> u p p e r _ <NOUN> d e c k _ <PUNCT> 
+_ <DET> a _ <ADJ> r e d _ <ADJ> d o u b l e - d e c k e r _ <NOUN> b u s _ <ADP> o n _ <DET> t h e _ <NOUN> s t r e e t _ <ADP> w i t h _ <ADJ> t a l l _ <NOUN> b u i l d i n g s _ <ADP> i n _ <DET> t h e _ <NOUN> b a c k g r o u n d _ <PUNCT> 
+_ <DET> a _ <ADJ> d o u b l e _ <NOUN> d e c k e r _ <NOUN> b u s _ <NOUN> t o u r _ <ADP> o f _ <DET> t h e _ <NOUN> c i t y _ <PUNCT> 
+_ <DET> a _ <ADJ> d o u b l e _ <NOUN> d e c k _ <NOUN> t o u r _ <NOUN> b u s _ <VERB> r i d i n g _ <ADP> t h r o u g h _ <DET> a _ <NOUN> c i t y _ <PUNCT> 
+_ <DET> a _ <ADJ> h i g h _ <NOUN> s t a t u e _ <ADP> w i t h _ <DET> a _ <NOUN> c l o c k _ <ADP> i n s i d e _ <ADP> o n _ <DET> a _ <ADV> v e r y _ <ADJ> n i c e _ <NOUN> d a y _ <PUNCT> 
+_ <DET> a _ <ADJ> t a l l _ <NOUN> c l o c k _ <NOUN> t o w e r _ <ADP> b e h i n d _ <DET> a _ <ADJ> b l u e _ <NOUN> s t a t u e _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o c k _ <NOUN> t o w e r _ <ADP> w i t h _ <DET> a _ <ADJ> b l u e _ <NOUN> s c u l p t u r e _ <ADP> i n _ <DET> t h e _ <NOUN> f o r e g r o u n d _ <PUNCT> 
+_ <DET> a _ <ADJ> l a r g e _ <NOUN> c l o c k _ <NOUN> t o w e r _ <VERB> s t a n d s _ <ADJ> h i g h _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> t h e _ <ADJ> b l u e _ <NOUN> s k y _ <PUNCT> 
+_ <DET> a _ <ADJ> p u r p l e _ <NOUN> m o h a w k _ <VERB> s i t t i n g _ <ADP> b e l o w _ <DET> a _ <ADV> v e r y _ <ADJ> t a l l _ <NOUN> c l o c k _ <NOUN> t o w e r _ <PUNCT> 
+_ <DET> a _ <NOUN> b o y _ <ADP> i n _ <ADJ> y e l l o w _ <NOUN> s h i r t _ <VERB> s w i n g i n g _ <DET> a _ <NOUN> b a s e b a l l _ <NOUN> b a t _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <NOUN> b a t h i n g _ <ADP> i n _ <DET> t h e _ <NOUN> b l o o d _ <ADP> o f _ <PRON> h i s _ <NOUN> v i c t i m s _ <ADP> a s _ <PRON> h e _ <VERB> s w i n g s _ <PRON> h i s _ <NOUN> b a t t l e _ <NOUN> b a t _ <PUNCT> 
+_ <DET> t h e _ <ADJ> y o u n g _ <NOUN> m a n _ <VERB> h a s _ <VERB> h i t _ <DET> t h e _ <NOUN> g l a s s _ <CCONJ> a n d _ <DET> t h e _ <NOUN> d r i n k _ <VERB> h a s _ <VERB> e x p l o d e d _ <ADV> e v e r y w h e r e _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> h i t _ <NOUN> s o m e t h i n g _ <PRON> t h a t _ <VERB> e x p l o d e d _ <ADP> w i t h _ <DET> a _ <NOUN> b a t _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <VERB> b r e a d k i n g _ <DET> a _ <NOUN> b o t t l e _ <ADP> w i t h _ <DET> a _ <NOUN> b a s e b a l l _ <NOUN> b a t _ <PUNCT> 
+_ <DET> a _ <NOUN> t e n n i s _ <NOUN> p l a y e r _ <VERB> s w i n g s _ <DET> t h e _ <NOUN> r a c q u e t _ <ADP> d u r i n g _ <DET> a _ <NOUN> g a m e _ <ADP> o f _ <NOUN> t e n n i s _ <PUNCT> 
+_ <DET> a _ <ADJ> m a l e _ <NOUN> t e n n i s _ <NOUN> p l a y e r _ <VERB> i s _ <ADV> j u s t _ <ADV> a b o u t _ <ADP> t o _ <VERB> h i t _ <DET> t h e _ <NOUN> b a l l _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <PRON> t h a t _ <VERB> i s _ <VERB> p l a y i n g _ <ADP> i n _ <DET> a _ <NOUN> t e n n i s _ <NOUN> g a m e _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> h i t s _ <DET> a _ <NOUN> t e n n i s _ <NOUN> b a l l _ <ADP> w i t h _ <DET> a _ <NOUN> r a c k e t _ <PUNCT> 
+_ <NOUN> m a n _ <VERB> i s _ <ADP> a b o u t _ <ADP> t o _ <VERB> h i t _ <DET> a _ <NOUN> t e n n i s _ <NOUN> b a l l _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <VERB> s i t t i n g _ <ADP> a t _ <DET> a _ <NOUN> t a b l e _ <ADP> w i t h _ <ADJ> m a n y _ <ADJ> s m a l l _ <NOUN> s i p _ <NOUN> c u p s _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> f r i e n d s _ <VERB> s i t t i n g _ <ADP> a r o u n d _ <DET> a _ <ADJ> w o o d e n _ <NOUN> t a b l e _ <ADV> t o g e t h e r _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <VERB> s i t t i n g _ <ADP> a r o u n d _ <DET> a _ <NOUN> t a b l e _ <PUNCT> 
+_ <NUM> f i v e _ <NOUN> p e o p l e _ <VERB> s i t t i n g _ <ADV> t o g e t h e r _ <ADP> a t _ <DET> a _ <NOUN> t a b l e _ <ADP> w i t h _ <PROPN> d i x i e _ <NOUN> c u p s _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <VERB> g a t h e r e d _ <ADP> a r o u n d _ <DET> t h e _ <NOUN> t a b l e _ <PUNCT> 
+_ <DET> a _ <ADJ> y o u n g _ <NOUN> m a n _ <VERB> w e a r i n g _ <DET> a _ <ADJ> p i n k _ <NOUN> s h i r t _ <VERB> w a l k i n g _ <ADP> p a s t _ <DET> a _ <ADV> v e r y _ <ADJ> t a l l _ <NOUN> w a l l _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> i s _ <VERB> w a l k i n g _ <ADV> a w a y _ <ADP> f r o m _ <DET> a _ <NOUN> w a l l _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> s t a n d s _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <ADJ> c o n c r e t e _ <NOUN> w a l l _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <ADP> i n _ <DET> a _ <NOUN> s o c c e r _ <NOUN> j e r s e y _ <VERB> w a l k i n g _ <ADP> w i t h _ <DET> a _ <NOUN> p a d d l e _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <ADJ> l a r g e _ <NOUN> w a l l _ <VERB> h o l d i n g _ <DET> a _ <NOUN> p a d d l e _ <PUNCT> 
+_ <NUM> f o u r _ <NOUN> s k i e r s _ <VERB> r i d i n g _ <DET> a _ <NOUN> s k i _ <NOUN> l i f t _ <ADP> t o _ <DET> t h e _ <NOUN> t o p _ <ADP> o f _ <DET> t h e _ <NOUN> m o u n t a i n _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <VERB> r i d i n g _ <ADP> i n _ <DET> a _ <NOUN> s k i _ <NOUN> l i f t _ <ADP> a b o v e _ <DET> a _ <NOUN> m o u n t a i n _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NUM> f o u r _ <NOUN> p e o p l e _ <VERB> a r e _ <VERB> r i d i n g _ <DET> a _ <NOUN> s k i _ <NOUN> l i f t _ <ADP> a s _ <PRON> t h e y _ <VERB> r i d e _ <ADP> o v e r _ <DET> t h e _ <ADJ> s n o w y _ <NOUN> m o u n t a i n _ <PUNCT> 
+_ <NUM> f o u r _ <NOUN> p e o p l e _ <ADP> o n _ <DET> a _ <NOUN> s k i _ <NOUN> l i f t _ <VERB> g o i n g _ <ADP> u p _ <DET> a _ <NOUN> m o u n t a i n _ <PUNCT> 
+_ <NUM> f o u r _ <NOUN> p e o p l e _ <VERB> r i d i n g _ <DET> a _ <NOUN> s k i _ <NOUN> l i f t _ <ADP> u p _ <DET> a _ <NOUN> m o u n t a i n _ <PUNCT> 
+_ <ADJ> s m a l l _ <NOUN> p l a t e _ <ADP> o f _ <NOUN> f o o d _ <PRON> w h i c h _ <VERB> i n c l u d e s _ <ADJ> s m a l l _ <NOUN> p i e c e s _ <ADP> o f _ <NOUN> b r o c c o l i _ <PUNCT> 
+_ <DET> a _ <NOUN> p l a t e _ <ADP> o f _ <NOUN> b r o c c o l i _ <CCONJ> a n d _ <NOUN> m e a t _ <ADP> o n _ <DET> a _ <NOUN> t a b l e _ <PUNCT> 
+_ <DET> a _ <ADJ> c l o s e _ <ADP> u p _ <NOUN> p i c t u r e _ <ADP> o f _ <DET> s o m e _ <NOUN> f o o d _ <ADP> o n _ <DET> a _ <NOUN> p l a t e _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o s e _ <ADP> u p _ <ADP> o f _ <DET> a _ <NOUN> p l a t e _ <ADP> o f _ <NOUN> f o o d _ <ADP> w i t h _ <NOUN> b r o c c o l i _ <PUNCT> 
+_ <DET> s o m e _ <ADJ> g r e e n _ <NOUN> b r o c c o l i _ <CCONJ> a n d _ <NOUN> h a m s _ <VERB> a r e _ <ADP> o n _ <DET> t h e _ <NOUN> p l a t e _ <PUNCT> 
+_ <ADJ> l e a f y _ <NOUN> b a t h _ <NOUN> m a t s _ <VERB> a r e _ <ADP> o n _ <DET> t h e _ <NOUN> f l o o r _ <ADP> i n _ <DET> t h e _ <NOUN> b a t h r o o m _ <PUNCT> 
+_ <DET> a _ <NOUN> b a t h r o o m _ <PRON> t h a t _ <VERB> h a s _ <DET> a _ <NOUN> s i n k _ <CCONJ> a n d _ <DET> a _ <NOUN> t o i l e t _ <ADP> i n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <ADJ> w h i t e _ <NOUN> b a t h r o o m _ <NOUN> s i n k _ <VERB> s i t t i n g _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <DET> a _ <NOUN> c o u n t e r _ <PUNCT> 
+_ <DET> t h i s _ <VERB> i s _ <ADJ> s o m e o n e s _ <NOUN> b a t h r o o m _ <ADP> i n s i d e _ <ADP> o f _ <PRON> t h e i r _ <NOUN> h o m e _ <PUNCT> 
+_ <DET> a _ <NOUN> b a t h r o o m _ <ADP> w i t h _ <DET> a _ <ADJ> l o n g _ <NOUN> c o u n t e r _ <CCONJ> a n d _ <NOUN> r u g s _ <ADP> o n _ <DET> t h e _ <NOUN> f l o o r _ <PUNCT> 
+_ <DET> a _ <ADJ> r e d _ <CCONJ> a n d _ <ADJ> b l u e _ <NOUN> p l a n _ <ADP> o n _ <DET> t h e _ <NOUN> r u n w a y _ <VERB> g e t t i n g _ <ADJ> r e a d y _ <ADP> t o _ <VERB> g e t _ <NOUN> p a s s e n g e r s _ <PUNCT> 
+_ <DET> t h e _ <NOUN> a i r p l a n e _ <VERB> i s _ <VERB> p a r k e d _ <ADP> o n _ <DET> t h e _ <NOUN> r u n w a y _ <ADP> i n _ <DET> t h e _ <NOUN> a i r p o r t _ <PUNCT> 
+_ <DET> a _ <PROPN> s o u t h w e s t _ <PROPN> a i r l i n e s _ <NOUN> j e t _ <VERB> p u l l e d _ <ADP> u p _ <ADP> t o _ <DET> t h e _ <ADJ> t e r m i n a l _ <ADP> f o r _ <VERB> l o a d i n g _ <PUNCT> 
+_ <DET> a _ <ADJ> b l u e _ <CCONJ> a n d _ <ADJ> r e d _ <NOUN> p l a n e _ <ADP> o n _ <DET> a _ <NOUN> r u n w a y _ <PUNCT> 
+_ <DET> a _ <ADJ> r e d _ <ADJ> y e l l o w _ <CCONJ> a n d _ <ADJ> b l u e _ <NOUN> a i r p l a n e _ <VERB> i s _ <VERB> s i t t i n g _ <ADP> o n _ <DET> t h e _ <NOUN> r u n w a y _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> p i c t u r e s _ <ADJ> w i d e _ <ADP> b y _ <NOUN> s i d e _ <VERB> s h o w s _ <DET> a _ <NOUN> m a n _ <VERB> w a l k i n g _ <ADP> t o _ <DET> a _ <NOUN> s n o w b o a r d _ <CCONJ> a n d _ <NOUN> s t a n d i n g _ <ADP> o n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> r i d i n g _ <DET> a _ <NOUN> s k i _ <ADP> d o w n _ <DET> a _ <NOUN> d i r t _ <VERB> c o v e r e d _ <NOUN> h i l l s i d e _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> i s _ <VERB> b a l a n c i n g _ <ADP> o n _ <DET> a _ <ADJ> b r o k e n _ <NOUN> s i g n _ <ADP> i n _ <DET> t h e _ <NOUN> d i r t _ <PUNCT> 
+_ <DET> a _ <NOUN> m a l e _ <ADP> i n _ <DET> a _ <ADJ> w h i t e _ <NOUN> s h i r t _ <VERB> i s _ <VERB> s u r f i n g _ <ADP> i n _ <DET> s o m e _ <NOUN> d i r t _ <PUNCT> 
+_ <DET> t h e _ <ADJ> d u a l _ <NOUN> i m a g e _ <VERB> s h o w s _ <DET> a _ <NOUN> m a n _ <VERB> w a l k i n g _ <ADP> t o _ <DET> a _ <ADJ> s t r i p e d _ <NOUN> l i n e _ <ADV> t h e n _ <VERB> s t a n d i n g _ <ADP> o n _ <PRON> i t _ <PUNCT> 
+_ <DET> a n _ <NOUN> a p p l e _ <VERB> i s _ <VERB> s l i t _ <ADP> b y _ <DET> a _ <ADJ> b l o o d y _ <NOUN> k n i f e _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a n _ <PROPN> a p p l e _ <NOUN> d e v i c e _ <PUNCT> 
+_ <DET> a n _ <NOUN> a p p l e _ <PUNCT> , _ <DET> t h e _ <NOUN> f r u i t _ <PUNCT> , _ <VERB> s i t s _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a n _ <NOUN> a p p l e _ <NOUN> c o m p u t e r _ <PUNCT> 
+_ <DET> a n _ <NOUN> a p p l e _ <VERB> i s _ <ADP> o n _ <DET> t h e _ <NOUN> t a b l e _ <ADP> w i t h _ <DET> a n _ <NOUN> a p p l e _ <NOUN> c o m p u t e r _ <PUNCT> 
+_ <DET> a n _ <NOUN> a p p l e _ <VERB> h a s _ <DET> a _ <NOUN> k n i f e _ <ADP> i n _ <PRON> i t _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a _ <NOUN> l a p t o p _ <PUNCT> 
+_ <DET> a _ <NOUN> k n i f e _ <ADP> w i t h _ <DET> a n _ <NOUN> a p p l e _ <VERB> e n g a g e d _ <ADP> i n _ <PRON> i t _ <ADJ> n e x t _ <ADP> t o _ <DET> a n _ <NOUN> a p p l e _ <NOUN> c o m p u t e r _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o c k _ <ADP> w i t h _ <ADJ> r e l i g i o u s _ <NOUN> i c o n s _ <VERB> p a i n t e d _ <ADP> o n _ <DET> a _ <NOUN> w a l l _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o c k _ <ADP> o n _ <DET> a _ <NOUN> b u i l d i n g _ <ADP> w i t h _ <NOUN> p e o p l e _ <VERB> p a i n t e d _ <ADP> a r o u n d _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <ADJ> l a r g e _ <NOUN> c l o c k _ <ADP> o n _ <DET> t h e _ <NOUN> s i d e _ <ADP> o f _ <DET> a _ <NOUN> b u i l d i n g _ <VERB> h a s _ <ADJ> b i b l i c a l _ <NOUN> p i c t u r e s _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o c k _ <VERB> m o u n t e d _ <ADP> t o _ <DET> t h e _ <NOUN> s i d e _ <ADP> o f _ <DET> a _ <NOUN> b u i l d i n g _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o c k _ <ADP> w i t h _ <ADJ> l a t i n _ <NOUN> w r i t i n g _ <CCONJ> a n d _ <NOUN> p a i n t i n g s _ <ADP> o n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> m e n _ <ADP> o n _ <DET> a _ <NOUN> f i e l d _ <VERB> p l a y i n g _ <NOUN> b a s e b a l l _ <PUNCT> 
+_ <DET> a _ <NOUN> b a s e b a l l _ <NOUN> p l a y e r _ <VERB> s t a n d i n g _ <ADJ> n e x t _ <ADP> t o _ <NOUN> h o m e _ <NOUN> p l a t e _ <PUNCT> 
+_ <DET> a _ <NOUN> b a t t e r _ <ADP> o n _ <DET> t h e _ <NOUN> f i e l d _ <ADP> a t _ <DET> a _ <NOUN> b a s e b a l l _ <NOUN> g a m e _ <PUNCT> 
+_ <DET> a _ <NOUN> b a s e b a l l _ <NOUN> p l a y e r _ <VERB> h o l d i n g _ <DET> a _ <NOUN> b a t _ <ADP> w i t h _ <NOUN> c a t c h e r _ <CCONJ> a n d _ <NOUN> u m p i r e _ <PUNCT> 
+_ <DET> a _ <NOUN> b a t t e r _ <PUNCT> , _ <NOUN> c a t c h e r _ <CCONJ> a n d _ <NOUN> u m p i r e _ <ADP> i n _ <DET> a _ <NOUN> b a s e b a l l _ <NOUN> g a m e _ <PUNCT> 
+_ <DET> t h i s _ <VERB> i s _ <DET> a _ <ADJ> l a r g e _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> b u s i n e s s _ <NOUN> p r o f e s s i o n a l s _ <VERB> g e t t i n g _ <NOUN> l u n c h _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <VERB> s i t t i n g _ <ADP> a t _ <DET> a _ <NOUN> t a b l e _ <ADV> t o g e t h e r _ <PUNCT> 
+_ <NOUN> l o t s _ <ADP> o f _ <NOUN> p e o p l e _ <VERB> a r e _ <VERB> s i t t i n g _ <ADP> a t _ <DET> a _ <ADJ> l o n g _ <NOUN> t a b l e _ <VERB> s h a r i n g _ <DET> a _ <NOUN> m e a l _ <PUNCT> 
+_ <NOUN> p e o p l e _ <VERB> s i t t i n g _ <ADP> a t _ <DET> a _ <NOUN> r e s t a u r a n t _ <NOUN> t a b l e _ <VERB> t a l k i n g _ <ADP> t o _ <DET> e a c h _ <ADJ> o t h e r _ <PUNCT> 
+_ <DET> a _ <ADJ> l a r g e _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <VERB> s e a t e d _ <ADP> a t _ <DET> a _ <ADJ> l o n g _ <NOUN> d i n i n g _ <NOUN> t a b l e _ <ADP> w i t h _ <NOUN> f o o d _ <CCONJ> a n d _ <NOUN> d r i n k s _ <ADP> i n _ <DET> a _ <NOUN> r o o m _ <PUNCT> 
+_ <DET> a _ <NOUN> s t r e e t _ <NOUN> s i g n _ <VERB> r e a d s _ <PUNCT> * _ <PROPN> j a c k _ <PROPN> k e r o u a c _ <PUNCT> ' ' _ <ADP> o n _ <DET> a _ <NOUN> s t r e e t _ <NOUN> c o r n e r _ <PUNCT> 
+_ <DET> a _ <NOUN> s t r e e t _ <NOUN> s i g n _ <ADP> o n _ <DET> a _ <ADJ> c o l o r f u l _ <CCONJ> a n d _ <VERB> d e c o r a t e d _ <NOUN> s t r e e t _ <NOUN> p o s t _ <PUNCT> 
+_ <ADJ> s e v e r a l _ <NOUN> s t r e e t _ <NOUN> s i g n s _ <VERB> a r e _ <VERB> h a n g i n g _ <ADP> f r o m _ <DET> a _ <NOUN> t u r q u o i s e _ <NOUN> p o l e _ <ADP> i n _ <DET> a _ <NOUN> c i t y _ <PUNCT> 
+_ <DET> a _ <NOUN> s t r e e t _ <NOUN> s i g n _ <VERB> m o u n t e d _ <ADP> t o _ <DET> t h e _ <NOUN> s i d e _ <ADP> o f _ <DET> a _ <NOUN> t r a f f i c _ <NOUN> l i g h t _ <PUNCT> 
+_ <DET> t h e _ <NOUN> s t r e e t _ <NOUN> s i g n _ <ADP> f o r _ <PROPN> j a c k _ <PROPN> k e r o u a c _ <PUNCT> - l r b - _ <PROPN> a d l e r _ <PUNCT> 
+_ <DET> a n _ <ADJ> o p e n _ <NOUN> o v e n _ <VERB> d i s p l a y s _ <NOUN> f o o d _ <ADP> i n _ <NOUN> l o a f _ <NOUN> p a n s _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> l o a v e s _ <ADP> o f _ <NOUN> b r e a d _ <ADP> i n _ <NOUN> p a n s _ <ADP> i n s i d e _ <DET> a n _ <NOUN> o v e n _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> l o a v e s _ <ADP> o f _ <NOUN> b r e a d _ <VERB> b a k i n g _ <ADP> i n _ <DET> a n _ <NOUN> o v e n _ <PUNCT> 
+_ <PROPN> f o o d _ <ADP> i n _ <NOUN> p a n s _ <VERB> b e i n g _ <ADJ> b a k e d _ <ADP> i n _ <DET> t h e _ <NOUN> o v e n _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> l o a f _ <ADP> o f _ <NOUN> b r e a d _ <VERB> b a k i n g _ <ADP> i n s i d e _ <ADP> o f _ <DET> a n _ <NOUN> o v e n _ <PUNCT> 
+_ <NOUN> s c o o t e r s _ <VERB> p a r k e d _ <ADP> i n _ <NOUN> a i s l e _ <ADP> a t _ <ADJ> l a r g e _ <ADJ> o u t d o o r _ <NOUN> m a r k e t _ <ADP> u n d e r _ <NOUN> s h e l t e r _ <PUNCT> 
+_ <DET> a _ <NOUN> m a r k e t _ <NOUN> p e o p l e _ <VERB> b u y i n g _ <ADJ> m a n y _ <NOUN> f r u i t s _ <CCONJ> a n d _ <NOUN> v e g e t a b l e s _ <PUNCT> 
+_ <DET> a _ <ADJ> l a r g e _ <NOUN> s t o r e _ <VERB> f i l l e d _ <ADP> w i t h _ <NOUN> l o t s _ <ADP> o f _ <NOUN> g r o c e r i e s _ <CCONJ> a n d _ <VERB> p r o d u c e _ <PUNCT> 
+_ <DET> a n _ <NOUN> a i s l e _ <ADP> o f _ <DET> a n _ <ADJ> o p e n _ <NOUN> a i r _ <NOUN> m a r k e t _ <ADP> w i t h _ <ADJ> p a r t i a l _ <NOUN> r o o f _ <PUNCT> 
+_ <DET> a _ <ADJ> c r o w d e d _ <NOUN> a r e a _ <ADP> w i t h _ <DET> s o m e _ <NOUN> m o t o r _ <NOUN> b i k e s _ <CCONJ> a n d _ <NOUN> f o o d _ <ADP> i n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <NOUN> s k i i n g _ <ADP> o n _ <NOUN> s n o w _ <VERB> c o v e r e d _ <NOUN> f i e l d _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <NOUN> h o u s e s _ <PUNCT> 
+_ <DET> t h e _ <NOUN> s n o w b o a r d e r _ <VERB> i s _ <VERB> e n j o y i n g _ <VERB> g o i n g _ <ADP> d o w n _ <DET> t h e _ <NOUN> h i l l _ <PUNCT> 
+_ <DET> a _ <NOUN> s n o w b o a r d e r _ <ADP> i n _ <ADJ> b l u e _ <VERB> s l i d i n g _ <ADP> d o w n _ <DET> a _ <NOUN> s n o w _ <NOUN> b a n k _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <ADP> o n _ <DET> a _ <NOUN> s n o w b o a r d _ <ADP> o n _ <DET> a _ <ADJ> s h o r t _ <NOUN> s k i _ <NOUN> s l o p e _ <NOUN> r a m p _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a _ <NOUN> b u i l d i n g _ <PUNCT> 
+_ <DET> a _ <NOUN> s n o w b o a r d e r _ <ADP> i n _ <DET> a _ <ADJ> b l u e _ <NOUN> j a c k e t _ <DET> a _ <ADJ> s m a l l _ <NOUN> h i l l _ <CCONJ> a n d _ <NOUN> b u i l d i n g s _ <PUNCT> 
+_ <DET> a _ <ADJ> w o o d e n _ <NOUN> t a b l e _ <ADP> w i t h _ <NUM> t w o _ <NOUN> p l a t e s _ <VERB> h o l d i n g _ <NOUN> s a n d w i c h e s _ <PUNCT> 
+_ <DET> a _ <NOUN> c o u p l e _ <ADP> o f _ <NOUN> s a n d w i c h e s _ <VERB> a r e _ <VERB> p i l e d _ <ADJ> h i g h _ <ADP> w i t h _ <NOUN> v e g e t a b l e s _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> s a n d w i c h e s _ <ADP> w i t h _ <NOUN> t o p p i n g s _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> t a b l e _ <PUNCT> 
+_ <DET> a _ <NOUN> c o u p l e _ <ADP> o f _ <NOUN> p l a t e s _ <ADP> o f _ <NOUN> f o o d _ <PRON> t h a t _ <VERB> i s _ <ADP> o n _ <DET> a _ <NOUN> t a b l e _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> b u r g e r _ <NOUN> s a n d w i c h e s _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <DET> a _ <NOUN> t a b l e _ <PUNCT> 
+_ <DET> a _ <ADJ> y o u n g _ <NOUN> b o y _ <PRON> w h o _ <VERB> i s _ <VERB> h o l d i n g _ <DET> a _ <NOUN> k i t e _ <ADP> i n _ <PRON> h i s _ <NOUN> h a n d s _ <PUNCT> 
+_ <DET> a _ <NOUN> b o y _ <VERB> i s _ <ADP> o n _ <DET> t h e _ <NOUN> b e a c h _ <VERB> h o l d i n g _ <DET> a _ <NOUN> t o y _ <PUNCT> 
+_ <DET> a _ <NOUN> b o y _ <CCONJ> a n d _ <DET> a _ <NOUN> m a n _ <NOUN> p l a y i n g _ <ADP> w i t h _ <NOUN> k i t e s _ <ADP> o n _ <DET> t h e _ <NOUN> b e a c h _ <PUNCT> 
+_ <DET> t h e _ <ADJ> y o u n g _ <NOUN> b o y _ <VERB> i s _ <VERB> f l y i n g _ <PRON> h i s _ <NOUN> k i t e _ <ADP> o n _ <DET> t h e _ <NOUN> b e a c h _ <ADP> b y _ <DET> t h e _ <NOUN> w a t e r _ <PUNCT> 
+_ <NOUN> m a n _ <CCONJ> a n d _ <NOUN> s o n _ <NOUN> s t a n d i n g _ <ADP> o n _ <DET> t h e _ <NOUN> b e a c h _ <NOUN> s i d e _ <ADP> w i t h _ <DET> a _ <NOUN> s e l f _ <VERB> a s s e m b l e d _ <NOUN> k i t e _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <NOUN> d o g _ <VERB> w e a r i n g _ <DET> a _ <NOUN> s h i r t _ <CCONJ> a n d _ <VERB> s n i f f i n g _ <NOUN> s o m e t h i n g _ <ADP> o n _ <DET> t h e _ <NOUN> g r o u n d _ <PUNCT> 
+_ <DET> a _ <NOUN> d o g _ <PRON> t h a t _ <VERB> i s _ <VERB> l y i n g _ <ADP> d o w n _ <ADP> o n _ <DET> t h e _ <NOUN> s i d e w a l k _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <ADJ> l o n g _ <ADJ> h a i r e d _ <NOUN> d o g _ <VERB> w e a r i n g _ <NOUN> s h i r t _ <CCONJ> a n d _ <NOUN> b a n d a n a _ <PUNCT> , _ <ADP> o n _ <DET> a _ <NOUN> l e a s h _ <PUNCT> 
+_ <DET> a _ <NOUN> d o g _ <VERB> w e a r i n g _ <DET> a _ <NOUN> s c a r f _ <CCONJ> a n d _ <NOUN> s h i r t _ <ADP> o n _ <DET> a _ <NOUN> l e a s h _ <PUNCT> 
+_ <DET> t h e _ <NOUN> p e r s o n _ <VERB> w a l k i n g _ <DET> t h e _ <NOUN> d o g _ <VERB> h a s _ <VERB> d r e s s e d _ <PRON> i t _ <ADP> i n _ <DET> a _ <VERB> t o r n _ <NOUN> s h i r t _ <PUNCT> 
+_ <DET> a _ <ADJ> p l a i n _ <VERB> s i t t i n g _ <VERB> p a r k e d _ <ADP> o n _ <DET> t h e _ <NOUN> c e m e n t _ <ADP> a t _ <DET> a n _ <NOUN> a i r p o r t _ <PUNCT> 
+_ <DET> a _ <ADJ> l a r g e _ <ADJ> i n d o n e s i a n _ <NOUN> a i r l i n e r _ <VERB> s i t s _ <ADP> o n _ <DET> t h e _ <NOUN> t a r m a c _ <PUNCT> 
+_ <DET> a n _ <PROPN> i n d o n e s i a _ <NOUN> a i r _ <NOUN> p l a n e _ <VERB> p a r k e d _ <ADP> i n _ <DET> t h e _ <NOUN> b a c k _ <ADP> o f _ <DET> t h e _ <NOUN> a i r p o r t _ <PUNCT> 
+_ <DET> a _ <ADJ> l a r g e _ <NOUN> a i r _ <NOUN> p l a n e _ <ADP> i n _ <DET> a _ <NOUN> r u n _ <NOUN> w a y _ <PUNCT> 
+_ <DET> a _ <ADJ> b i g _ <NOUN> a i r p l a n e _ <ADP> w i t h _ <DET> t h e _ <NOUN> c a r g o _ <NOUN> s e c t i o n _ <ADJ> o p e n _ <PUNCT> 
+_ <NOUN> v e g e t a b l e s _ <CCONJ> a n d _ <NOUN> g r e e n s _ <VERB> l a i d _ <ADP> o u t _ <ADP> o n _ <DET> a _ <NOUN> c l o t h _ <PUNCT> 
+_ <PROPN> g r e e n _ <NOUN> l e a f y _ <NOUN> v e g e t a b l e s _ <CCONJ> a n d _ <NOUN> c a r r o t s _ <VERB> l a y i n g _ <ADP> o n _ <DET> a _ <NOUN> b a g _ <PUNCT> 
+_ <DET> a _ <NOUN> b u n c h _ <ADP> o f _ <ADJ> d i f f e r e n t _ <NOUN> v e g e t a b l e s _ <ADP> o n _ <DET> a _ <ADJ> w h i t e _ <NOUN> c l o t h _ <PUNCT> 
+_ <DET> a _ <NOUN> b a t c h _ <ADP> o f _ <NOUN> l e t t u c e _ <CCONJ> a n d _ <NOUN> c a r r o t s _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> c h a i r _ <PUNCT> 
+_ <DET> a _ <NOUN> p i l e _ <ADP> o f _ <NOUN> b r o c c o l i _ <CCONJ> a n d _ <NOUN> c a r r o t s _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <ADJ> w o o d e n _ <NOUN> t a b l e _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> s w i n g i n g _ <DET> a _ <NOUN> t e n n i s _ <NOUN> r a c q u e t _ <ADP> o n _ <DET> a _ <NOUN> c o u r t _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> i s _ <VERB> h o l d i n g _ <DET> a _ <NOUN> t e n n i s _ <NOUN> r a c k e t _ <ADP> b y _ <DET> a _ <NOUN> f e n c e _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <ADP> i n _ <DET> a _ <ADJ> p i n k _ <NOUN> s h i r t _ <ADP> i n _ <DET> t h e _ <NOUN> m i d d l e _ <ADP> o f _ <DET> a _ <NOUN> t e n n i s _ <NOUN> s w i n g _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <PRON> t h a t _ <VERB> i s _ <VERB> h o l d i n g _ <DET> a _ <NOUN> t e n n i s _ <NOUN> r a c q u e t _ <PUNCT> 
+_ <PRON> s h e _ <VERB> i s _ <VERB> w o r k i n g _ <DET> t h o s e _ <NOUN> m u s c l e s _ <ADP> i n _ <PRON> h e r _ <ADJ> r i g h t _ <NOUN> a r m _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> s i t s _ <ADP> o n _ <DET> a _ <NOUN> b e n c h _ <ADP> o n _ <DET> a _ <ADJ> b l u e _ <NOUN> b e n c h _ <PUNCT> 
+_ <DET> a _ <ADJ> g l o r i o u s _ <ADJ> s u n n y _ <NOUN> d a y _ <ADP> a t _ <DET> t h e _ <NOUN> b e a c h _ <CCONJ> a n d _ <DET> a _ <NOUN> m a n _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> b e n c h _ <VERB> t a k i n g _ <PRON> i t _ <DET> a l l _ <ADP> i n _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> b e n c h _ <ADJ> n e x t _ <ADP> t o _ <DET> t h e _ <NOUN> b e a c h _ <VERB> l o o k i n g _ <ADP> o u t _ <ADP> i n t o _ <DET> t h e _ <NOUN> o c e a n _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> b e n c h _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <ADJ> w i d e _ <NOUN> b e a c h _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <VERB> s i t t i n g _ <ADV> a l o n e _ <ADP> o n _ <DET> a _ <NOUN> b e n c h _ <ADP> a t _ <DET> t h e _ <NOUN> b e a c h _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> z e b r a s _ <VERB> s t a n d i n g _ <ADJ> n e x t _ <ADP> t o _ <DET> e a c h _ <ADJ> o t h e r _ <ADP> i n _ <DET> a _ <NOUN> f i e l d _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> z e b r a s _ <ADJ> n e x t _ <ADP> t o _ <DET> e a c h _ <ADJ> o t h e r _ <PUNCT> . _ <NUM> o n e _ <VERB> i s _ <VERB> b o w i n g _ <PRON> i t s _ <NOUN> h e a d _ <PUNCT> 
+_ <ADP> a t _ <ADJ> l e a s t _ <NUM> t h r e e _ <NOUN> z e b r a s _ <VERB> a r e _ <VERB> s t a n d i n g _ <ADV> t o g e t h e r _ <ADV> a f f e c t i o n a t e l y _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> z e b r a s _ <VERB> a r e _ <VERB> n u z z l i n g _ <ADP> u p _ <ADP> t o _ <DET> e a c h _ <ADJ> o t h e r _ <PUNCT> 
+_ <DET> a _ <NOUN> c o u p l e _ <ADP> o f _ <NOUN> z e b r a s _ <VERB> s t a n d i n g _ <ADV> t o g e t h e r _ <ADP> i n _ <DET> t h e _ <NOUN> d i r t _ <PUNCT> 
+_ <ADJ> s e v e r a l _ <ADJ> h o t _ <NOUN> d o g s _ <CCONJ> a n d _ <NOUN> b u n s _ <ADP> o n _ <DET> a _ <NOUN> s t e e l _ <NOUN> g r i l l _ <NOUN> s u r f a c e _ <PUNCT> 
+_ <ADJ> h o t _ <NOUN> d o g s _ <CCONJ> a n d _ <NOUN> b u n s _ <VERB> a r e _ <VERB> s i t t i n g _ <ADP> a t o p _ <DET> a _ <NOUN> c h a r c o a l _ <NOUN> g r i l l _ <PUNCT> 
+_ <NUM> f o u r _ <ADJ> h o t _ <NOUN> d o g s _ <ADP> o n _ <DET> a _ <NOUN> g r i l l _ <ADJ> n e x t _ <ADP> t o _ <DET> s o m e _ <ADJ> h o t _ <NOUN> d o g _ <NOUN> b u n s _ <PUNCT> 
+_ <NOUN> h o t d o g s _ <CCONJ> a n d _ <NOUN> b u n s _ <VERB> g r i l l i n g _ <ADP> o n _ <DET> a _ <NOUN> c h a r c o a l _ <NOUN> g r i l l _ <PUNCT> 
+_ <DET> a _ <NOUN> c o u p l e _ <ADP> o f _ <ADJ> h o t _ <NOUN> d o g s _ <PRON> t h a t _ <VERB> a r e _ <ADP> o n _ <NOUN> a g r i l l _ <PUNCT> 
+_ <ADJ> m a n y _ <NOUN> p e o p l e _ <ADP> w i t h _ <NOUN> u m b r e l l a s _ <VERB> a r e _ <VERB> w a i t i n g _ <ADP> t o _ <VERB> c r o s s _ <DET> t h e _ <NOUN> s t r e e t _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <ADP> w i t h _ <NOUN> u m b r e l l a s _ <VERB> w a i t i n g _ <ADP> t o _ <VERB> c r o s s _ <DET> t h e _ <NOUN> s t r e e t _ <PUNCT> 
+_ <ADJ> s e v e r a l _ <NOUN> p e o p l e _ <ADP> w i t h _ <NOUN> u m b r e l l a s _ <VERB> w a i t i n g _ <ADP> t o _ <VERB> c r o s s _ <DET> t h e _ <NOUN> s t r e e t _ <PUNCT> 
+_ <DET> a _ <ADJ> l a r g e _ <NOUN> c r o w d _ <ADP> o f _ <NOUN> p e o p l e _ <VERB> w a i t i n g _ <ADP> t o _ <VERB> c r o s s _ <DET> a _ <NOUN> s t r e e t _ <PUNCT> 
+_ <DET> a _ <ADJ> b u s y _ <NOUN> s t r e e t _ <VERB> i s _ <VERB> w a i t i n g _ <ADP> f o r _ <DET> a _ <NOUN> c r o s s w a l k _ <ADP> t o _ <VERB> s a y _ <VERB> g o _ <PUNCT> 
+_ <DET> a _ <NOUN> g i r l _ <VERB> h o l d i n g _ <DET> a _ <NOUN> t e d d y _ <NOUN> b e a r _ <ADP> w i t h _ <ADJ> s h a r p _ <NOUN> t e e t h _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> l o o k s _ <ADP> a t _ <DET> a _ <VERB> s t u f f e d _ <NOUN> a n i m a l _ <NOUN> s h e s _ <VERB> h o l d i n g _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <ADP> w i t h _ <ADJ> n i c e _ <NOUN> b r e a s t _ <VERB> h o l d i n g _ <DET> a _ <NOUN> m o n s t e r _ <VERB> l o o k i n g _ <NOUN> t e d d y _ <NOUN> b e a r _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <ADP> i n _ <DET> a _ <NOUN> b u s t i e r _ <VERB> h o l d i n g _ <DET> a _ <VERB> s t u f f e d _ <NOUN> a n i m a l _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> h o l d i n g _ <DET> a _ <NOUN> t e d d y _ <NOUN> b e a r _ <PRON> t h a t _ <VERB> h a s _ <NOUN> f a n g s _ <PUNCT> 
+_ <ADJ> y e l l o w _ <NOUN> d a f f o d i l s _ <VERB> a r e _ <ADP> i n _ <DET> a _ <ADJ> w h i t e _ <NOUN> v a s e _ <ADP> o n _ <DET> a _ <ADJ> w h i t e _ <NOUN> t a b l e _ <PUNCT> 
+_ <ADV> h e r e _ <VERB> a r e _ <DET> s o m e _ <ADJ> b e a u t i f u l _ <NOUN> o r a n g e _ <CCONJ> a n d _ <ADJ> y e l l o w _ <NOUN> f l o w e r s _ <PUNCT> 
+_ <ADJ> b e a u t i f u l _ <ADJ> y e l l o w _ <NOUN> f l o w e r s _ <ADP> w i t h _ <NOUN> o r a n g e _ <NOUN> c e n t e r s _ <ADP> i n _ <DET> a _ <ADJ> b l u e _ <NOUN> v a s e _ <PUNCT> 
+_ <DET> a _ <NOUN> v a s e _ <ADP> w i t h _ <DET> s o m e _ <NOUN> o r a n g e _ <CCONJ> a n d _ <ADJ> y e l l o w _ <NOUN> f l o w e r s _ <PUNCT> 
+_ <DET> t h e _ <ADJ> s m a l l _ <NOUN> v a s e _ <VERB> i s _ <VERB> h o l d i n g _ <DET> a _ <NOUN> b u n c h _ <ADP> o f _ <NOUN> f l o w e r s _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> m e n _ <VERB> a t t e n d _ <ADP> t o _ <DET> a _ <NOUN> h o r s e _ <ADP> i n s i d e _ <ADP> o f _ <DET> a _ <ADJ> s t a b l e _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> m e n _ <ADP> i n _ <DET> a _ <ADJ> s t a b l e _ <ADP> w i t h _ <DET> a _ <ADJ> b r o w n _ <NOUN> h o r s e _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> m e n _ <VERB> s t a n d i n g _ <ADP> n e a r _ <DET> a _ <ADJ> b r o w n _ <NOUN> h o r s e _ <ADP> i n _ <DET> a _ <ADJ> s t a b l e _ <PUNCT> 
+_ <DET> a _ <NOUN> h o r s e _ <ADP> i n _ <DET> a _ <VERB> s t a l l _ <ADP> w i t h _ <NUM> t h r e e _ <NOUN> p e o p l e _ <PUNCT> 
+_ <DET> a _ <NOUN> c o u p l e _ <ADP> o f _ <NOUN> m e n _ <VERB> t e n d i n g _ <ADP> t o _ <DET> a _ <ADJ> b r o w n _ <NOUN> h o r s e _ <ADP> n e x t _ <ADP> t o _ <DET> a n _ <NOUN> e n t r a n c e _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> o p e n i n g _ <DET> a _ <NOUN> s u i t c a s e _ <ADP> o n _ <DET> t h e _ <NOUN> b e d _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> o p e n i n g _ <ADP> u p _ <PRON> h e r _ <NOUN> s u i t c a s e _ <PRON> t h a t _ <VERB> i s _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> b e d _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> o p e n s _ <DET> a _ <NOUN> s u i t c a s e _ <ADP> i n _ <DET> a _ <NOUN> h o t e l _ <NOUN> r o o m _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <PRON> t h a t _ <VERB> i s _ <VERB> s t a n d i n g _ <ADP> n e a r _ <DET> a _ <ADJ> o p e n _ <NOUN> s u i t c a s e _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> r e a c h i n g _ <ADP> i n t o _ <DET> a _ <ADJ> o p e n _ <NOUN> s u i t c a s e _ <ADP> o n _ <DET> a _ <NOUN> b e d _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> h o r s e s _ <NOUN> g r a z i n g _ <ADP> i n _ <DET> a _ <NOUN> f i e l d _ <ADP> w i t h _ <NOUN> r u i n s _ <ADP> i n _ <DET> t h e _ <NOUN> b a c k g r o u n d _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> h o r s e s _ <VERB> a r e _ <VERB> e a t i n g _ <NOUN> g r a s s _ <ADP> i n _ <DET> a _ <NOUN> p a s t u r e _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> h o u s e s _ <NOUN> g r a z i n g _ <ADP> i n _ <DET> a _ <NOUN> f i e l d _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <NOUN> b r i c k _ <NOUN> b u i l d i n g _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> h o r s e s _ <VERB> s t a n d i n g _ <ADP> i n _ <DET> t h e _ <NOUN> g r a s s _ <ADP> b y _ <DET> a _ <NOUN> b i g h o u s e _ <PUNCT> 
+_ <DET> a _ <NOUN> c o u p l e _ <ADP> o f _ <NOUN> h o r s e s _ <VERB> s t a n d i n g _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <DET> a _ <ADJ> l u s h _ <ADJ> g r e e n _ <NOUN> f i e l d _ <PUNCT> 
+_ <DET> a _ <ADJ> y o u n g _ <NOUN> w o m a n _ <ADP> w i t h _ <ADJ> b l u e _ <NOUN> h a i r _ <VERB> u s e s _ <DET> a n _ <ADJ> o v e r s i z e d _ <NOUN> t o o t h b r u s h _ <PUNCT> 
+_ <DET> a n _ <NOUN> i m a g e _ <ADP> o f _ <DET> a _ <NOUN> g i r l _ <ADP> w i t h _ <DET> a _ <ADJ> b l u e _ <NOUN> w i g _ <CCONJ> a n d _ <DET> a _ <NOUN> t o o t b r u s h _ <PUNCT> 
+_ <DET> a _ <ADJ> b e a u t i f u l _ <NOUN> w o m a n _ <ADP> w i t h _ <DET> a _ <ADJ> b l u e _ <NOUN> f r o _ <NOUN> b r u s h i n g _ <PRON> h e r _ <NOUN> t e e t h _ <ADP> w i t h _ <DET> a _ <ADJ> g i a n t _ <NOUN> t o o t h b r u s h _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <ADP> w i t h _ <DET> a _ <ADJ> b l u e _ <NOUN> w i g _ <NOUN> b r u s h e s _ <PRON> h e r _ <NOUN> t e e t h _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <ADP> w i t h _ <ADJ> b l u e _ <NOUN> h a i r _ <CCONJ> a n d _ <DET> a _ <ADJ> g i a n t _ <NOUN> t o o t h b r u s h _ <PUNCT> 
+_ <DET> a _ <ADJ> d o u b l e _ <ADJ> d e c k e r e d _ <NOUN> b u s _ <ADP> o n _ <DET> a _ <NOUN> c i t y _ <NOUN> s t r e e t _ <PUNCT> 
+_ <DET> a _ <ADJ> r e d _ <ADJ> d o u b l e - d e c k e r _ <NOUN> b u s _ <VERB> d r i v i n g _ <ADP> d o w n _ <DET> t h e _ <NOUN> r o a d _ <PUNCT> 
+_ <DET> a _ <ADJ> d o u b l e _ <NOUN> d e c k e r _ <NOUN> b u s _ <ADP> w i t h _ <DET> a _ <NOUN> b i l l b o a r d _ <ADP> o n _ <DET> t h e _ <NOUN> s i d e _ <VERB> d r i v i n g _ <ADP> d o w n _ <DET> t h e _ <NOUN> r o a d _ <PUNCT> 
+_ <DET> a _ <ADJ> d o u b l e - d e c k e r _ <NOUN> b u s _ <PRON> t h a t _ <VERB> i s _ <ADV> n o t _ <ADP> i n _ <NOUN> s e r v i c e _ <PUNCT> 
+_ <DET> a _ <ADJ> d o u b l e _ <NOUN> d e c k e r _ <NOUN> b u s _ <VERB> i s _ <VERB> r i d i n g _ <ADP> d o w n _ <DET> t h e _ <NOUN> s t r e e t _ <PUNCT> 
+_ <DET> a n _ <NOUN> a i r p l a n e _ <ADP> w i t h _ <DET> t h e _ <NOUN> w o r d _ <NOUN> n a v y _ <ADJ> p a i n e d _ <ADP> o n _ <DET> t h e _ <NOUN> s i d e _ <VERB> i s _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> r u n w a y _ <CCONJ> a n d _ <NOUN> p e o p l e _ <VERB> a r e _ <VERB> s i t t i n g _ <ADP> i n s i d e _ <ADP> o f _ <DET> t h e _ <NOUN> p l a n e _ <PUNCT> 
+_ <DET> a _ <PROPN> n a v y _ <NOUN> j e t _ <NOUN> f i g h t e r _ <VERB> s i t t i n g _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <DET> a _ <NOUN> r u n w a y _ <PUNCT> 
+_ <PROPN> f i g h t e r _ <NOUN> j e t _ <ADV> h o w _ <ADP> t o _ <VERB> t a k e _ <ADP> o f f _ <ADP> o n _ <DET> a _ <NOUN> l a n d i n g _ <NOUN> s t r i p _ <ADP> i n _ <PROPN> f a i r p o r t _ <PUNCT> 
+_ <DET> a _ <NOUN> j e t _ <PRON> t h a t _ <VERB> i s _ <VERB> p a r k e d _ <ADP> o n _ <DET> a _ <NOUN> r u n w a y _ <PUNCT> 
+_ <DET> a _ <NOUN> j e t _ <NOUN> a i r p l a n e _ <VERB> i s _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> r u n w a y _ <PUNCT> 
+_ <DET> a _ <NOUN> d e s k _ <VERB> f i l l e d _ <ADP> w i t h _ <NOUN> c o m p u t e r s _ <ADP> i n _ <DET> a _ <ADJ> d a r k _ <NOUN> r o o m _ <PUNCT> 
+_ <DET> a _ <NOUN> d e s k _ <ADP> w i t h _ <NOUN> l a p t o p s _ <PUNCT> , _ <DET> a _ <NOUN> k e y b o a r d _ <PUNCT> , _ <DET> a _ <NOUN> l i g h t _ <CCONJ> a n d _ <DET> a _ <NOUN> m o n i t o r _ <PUNCT> 
+_ <DET> a n _ <ADJ> o l d e r _ <NOUN> m o n i t o r _ <PUNCT> , _ <NOUN> d e s k t o p _ <PUNCT> , _ <NOUN> l a p t o p _ <PUNCT> , _ <CCONJ> a n d _ <NOUN> k e y b o a r d _ <VERB> a r e _ <DET> a l l _ <ADJ> p r e s e n t _ <ADP> o n _ <DET> t h e _ <NOUN> d e s k _ <PUNCT> 
+_ <DET> a _ <NOUN> p a i r _ <ADP> o f _ <NOUN> c o m p u t e r _ <VERB> m o n i t o r s _ <DET> a _ <NOUN> k e y b o a r d _ <CCONJ> a n d _ <DET> a _ <NOUN> l a p t o p _ <PUNCT> 
+_ <DET> a _ <NOUN> t a b l e _ <VERB> t o p p e d _ <ADP> w i t h _ <ADJ> m u l t i p l e _ <NOUN> c o m p u t e r _ <NOUN> m o n i t o r s _ <CCONJ> a n d _ <DET> a _ <NOUN> l a p t o p _ <PUNCT> 
+_ <DET> a _ <NOUN> g i r a f f e _ <NOUN> s t a n d i n g _ <ADP> i n _ <DET> a _ <ADJ> g r a s s y _ <NOUN> f i e l d _ <ADP> n e a r _ <ADJ> o t h e r _ <NOUN> a n i m a l s _ <PUNCT> 
+_ <DET> a _ <NOUN> g i r a f f e _ <VERB> l o o k s _ <ADP> a t _ <DET> a _ <NOUN> t r e e _ <ADP> f o r _ <NOUN> l e a v e s _ <PUNCT> 
+_ <DET> a _ <NOUN> g i r a f f e _ <VERB> w a l k i n g _ <ADP> i n _ <DET> a _ <ADJ> g r a s s y _ <NOUN> p l a i n s _ <NOUN> a r e a _ <ADP> w i t h _ <ADJ> o t h e r _ <NOUN> w i l d l i f e _ <PUNCT> 
+_ <DET> a _ <NOUN> g i r a f f e _ <CCONJ> a n d _ <DET> s o m e _ <NOUN> a n t e l o p e s _ <ADP> i n _ <DET> a n _ <ADJ> o p e n _ <NOUN> f i e l d _ <PUNCT> 
+_ <DET> a _ <NOUN> z e b r a _ <VERB> g r a z e s _ <ADP> o n _ <NOUN> t r e e s _ <ADP> a s _ <NOUN> d e e r _ <VERB> g r a z e _ <ADP> o n _ <NOUN> g r a s s _ <ADP> i n _ <DET> t h e _ <NOUN> b a c k g r o u n d _ <PUNCT> 
+_ <DET> a _ <ADJ> s i n g l e _ <NOUN> z e b r a _ <VERB> e a t i n g _ <DET> s o m e _ <NOUN> g r a s s _ <NOUN> c l o s e _ <ADP> t o _ <DET> a _ <NOUN> b u i l d i n g _ <PUNCT> 
+_ <DET> a _ <NOUN> z e b r a _ <VERB> i s _ <VERB> e a t i n g _ <DET> s o m e _ <NOUN> g r a s s _ <ADP> w h i l e _ <DET> a n o t h e r _ <NOUN> z e b r a _ <VERB> s t a n d s _ <ADP> b e h i n d _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <NOUN> z e b r a _ <VERB> b e n d i n g _ <ADP> o v e r _ <VERB> e a t i n g _ <NOUN> g r a s s _ <ADP> a t _ <DET> t h e _ <NOUN> z o o _ <PUNCT> 
+_ <DET> a _ <NOUN> z e b r a _ <VERB> i s _ <VERB> f e e d i n g _ <ADP> o n _ <NOUN> g r a s s _ <ADP> b y _ <PRON> i t s e l f _ <PUNCT> 
+_ <DET> a _ <NOUN> z e b r a _ <VERB> h a s _ <PRON> i t s _ <NOUN> h e a d _ <VERB> l o w e r e d _ <ADP> t o _ <VERB> e a t _ <DET> s o m e _ <ADJ> l o o s e _ <NOUN> g r a s s _ <ADP> o n _ <DET> t h e _ <NOUN> g r o u n d _ <PUNCT> 
+_ <DET> a _ <NOUN> g i r a f f e _ <VERB> w a l k i n g _ <ADP> t h r o u g h _ <DET> t h e _ <NOUN> b r u s h _ <ADP> i n _ <DET> t h e _ <NOUN> s a v a n n a h _ <PUNCT> 
+_ <NUM> o n e _ <NOUN> g i r a f f e _ <VERB> i s _ <VERB> w a l k i n g _ <ADP> t h r o u g h _ <DET> s o m e _ <NOUN> b u s h e s _ <CCONJ> a n d _ <NOUN> t r e e s _ <PUNCT> 
+_ <DET> a _ <NOUN> b a b y _ <NOUN> g i r a f f e _ <VERB> w a l k i n g _ <ADP> t h r o u g h _ <DET> a _ <NOUN> f i e l d _ <ADP> w i t h _ <DET> n o _ <NOUN> l e a v e s _ <PUNCT> 
+_ <DET> a _ <NOUN> g i r a f f e _ <VERB> w a l k i n g _ <ADP> t h r o u g h _ <ADJ> d e a d _ <NOUN> b u s h e s _ <CCONJ> a n d _ <NOUN> g r a s s _ <PUNCT> 
+_ <DET> a _ <NOUN> g i r a f f e _ <VERB> w a l k s _ <ADP> t h r o u g h _ <NOUN> b r u s h _ <CCONJ> a n d _ <NOUN> t r e e s _ <PUNCT> 
+_ <DET> a _ <ADJ> c r o w d e d _ <NOUN> b e a c h _ <ADP> w i t h _ <ADJ> g i a n t _ <NOUN> k i t e s _ <VERB> f l y i n g _ <ADP> o v e r _ <NOUN> h e a d _ <PUNCT> 
+_ <NUM> t h r e e _ <ADJ> c o l o r f u l _ <NOUN> k i t e s _ <VERB> f l y _ <ADV> h i g h _ <ADP> a b o v e _ <DET> a _ <NOUN> b e a c h _ <ADP> w i t h _ <DET> a _ <NOUN> r a d i o _ <VERB> c o n t r o l l e d _ <NOUN> m o d e l _ <NOUN> p l a n e _ <PUNCT> 
+_ <DET> a n _ <NOUN> i m a g e _ <ADP> o f _ <DET> a _ <NOUN> k i t e _ <VERB> f l y i n g _ <ADJ> h i g h _ <ADP> i n _ <DET> t h e _ <NOUN> a i r _ <PUNCT> 
+_ <NUM> t h r e e _ <NOUN> k i t e s _ <ADP> i n _ <DET> t h e _ <NOUN> a i r _ <ADP> w i t h _ <ADJ> m a n y _ <NOUN> u m b r e l l a s _ <ADP> o n _ <DET> a _ <NOUN> b e a c h _ <PUNCT> 
+_ <ADJ> c o l o r f u l _ <NOUN> k i t e s _ <VERB> f l y i n g _ <ADP> a b o v e _ <DET> a _ <NOUN> b e a c h _ <NOUN> s c e n e _ <ADP> o f _ <NOUN> s a n d _ <CCONJ> a n d _ <NOUN> u m b r e l l a s _ <PUNCT> 
+_ <DET> a _ <NOUN> s u r f e r _ <VERB> i s _ <VERB> r i d i n g _ <DET> t h e _ <NOUN> w a v e s _ <ADP> a s _ <DET> a _ <NOUN> s a i l b o a t _ <VERB> s a i l s _ <ADP> i n _ <DET> t h e _ <NOUN> b a c k g r o u n d _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <VERB> r i d i n g _ <DET> a _ <NOUN> w a v e _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <DET> a _ <NOUN> s u r f b o a r d _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <ADP> o n _ <DET> a _ <NOUN> s u r f b o a r d _ <VERB> i s _ <VERB> r i d i n g _ <DET> a _ <ADJ> l a r g e _ <NOUN> w a v e _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <NOUN> s u r f i n g _ <ADP> i n _ <DET> t h e _ <NOUN> o c e a n _ <ADP> w i t h _ <DET> a _ <NOUN> s a i l _ <NOUN> b o a t _ <ADP> b e h i n d _ <PRON> h i m _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <ADP> o n _ <DET> a _ <NOUN> s u r f b o a r d _ <VERB> r i d i n g _ <DET> a _ <NOUN> w a v e _ <PUNCT> 
+_ <NOUN> p e o p l e _ <VERB> a r e _ <VERB> r e l a x i n g _ <ADP> o n _ <NOUN> s o f a s _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <PRON> t h e i r _ <NOUN> l a p t o p s _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> c o u c h _ <VERB> u s i n g _ <DET> a _ <NOUN> l a p t o p _ <PUNCT> 
+_ <DET> a _ <VERB> s m i l i n g _ <NOUN> m a n _ <ADP> w i t h _ <DET> a _ <ADJ> p e r s o n a l i z e d _ <NOUN> c o m p u t e r _ <ADP> o n _ <DET> a _ <NOUN> c o u c h _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> i s _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> c o u c h _ <VERB> u s i n g _ <DET> a _ <NOUN> l a p t o p _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <ADP> i n _ <DET> a _ <NOUN> l o b b y _ <ADP> o n _ <DET> a _ <ADJ> l a p t o p _ <NOUN> c o m p u t e r _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <ADP> w i t h _ <ADJ> d a r k _ <NOUN> h a i r _ <ADP> w i t h _ <DET> a _ <NOUN> p h o n e _ <ADP> t o _ <PRON> h e r _ <NOUN> e a r _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> s i t t i n g _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <ADJ> s e v e r a l _ <NOUN> g l a s s e s _ <PUNCT> , _ <VERB> t a l k i n g _ <ADP> o n _ <PRON> h e r _ <NOUN> p h o n e _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> h o l d i n g _ <DET> a _ <NOUN> p h o n e _ <ADP> i n _ <NUM> o n e _ <NOUN> h a n d _ <ADP> u p _ <ADP> t o _ <PRON> h e r _ <NOUN> e a r _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> t a l k i n g _ <ADP> o n _ <DET> a _ <NOUN> p h o n e _ <VERB> s i t t i n g _ <ADJ> n e x t _ <ADP> t o _ <NOUN> g l a s s e s _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> t a l k i n g _ <ADP> o n _ <DET> t h e _ <NOUN> p h o n e _ <VERB> l o o k s _ <ADP> i n _ <DET> t h e _ <NOUN> d i s t a n c e _ <PUNCT> 
+_ <DET> a _ <NOUN> b o x _ <ADP> o f _ <ADJ> g r e e n _ <NOUN> b a n a n a s _ <CCONJ> a n d _ <DET> a _ <NOUN> b o x _ <ADP> o f _ <ADJ> r i p e _ <NOUN> b a n a n a s _ <PUNCT> 
+_ <DET> a _ <NOUN> b u n c h _ <ADP> o f _ <NOUN> b a n a n a s _ <VERB> a r e _ <VERB> s i t t i n g _ <ADP> o n _ <DET> t h e _ <NOUN> s t a n d _ <PUNCT> 
+_ <DET> a _ <ADJ> l a r g e _ <NOUN> n u m b e r _ <ADP> o f _ <ADJ> g r e e n _ <CCONJ> a n d _ <ADJ> y e l l o w _ <NOUN> b a n a n a s _ <ADP> i n _ <ADJ> w o o d e n _ <NOUN> c o n t a i n e r s _ <PUNCT> 
+_ <NOUN> v e g e t a b l e s _ <VERB> a r e _ <VERB> d i s p l a y e d _ <ADP> i n _ <DET> a _ <ADJ> w o o d e n _ <NOUN> b a r r e l _ <NOUN> o u t d o o r s _ <PUNCT> 
+_ <DET> t h e _ <NOUN> c a r t _ <VERB> h a s _ <NOUN> b a n a n a s _ <CCONJ> o r _ <NOUN> p l a n t a i n s _ <VERB> p i l e d _ <ADP> o n _ <PRON> i t _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> b o y s _ <ADP> w i t h _ <DET> a _ <NOUN> m a n _ <ADP> i n _ <DET> a _ <NOUN> r o o m _ <VERB> s m i l i n g _ <ADP> f o r _ <DET> t h e _ <NOUN> c a m e r a _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <CCONJ> a n d _ <NUM> t w o _ <NOUN> b o y s _ <VERB> a r e _ <VERB> s t a n d i n g _ <ADP> b y _ <DET> s o m e _ <NOUN> c o m p u t e r s _ <PUNCT> 
+_ <NUM> t h r e e _ <NOUN> p e o p l e _ <VERB> s t a n d i n g _ <ADJ> n e x t _ <ADP> t o _ <DET> e a c h _ <ADJ> o t h e r _ <CCONJ> a n d _ <DET> a _ <NOUN> c o m p u t e r _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> b o y s _ <CCONJ> a n d _ <DET> a _ <NOUN> m a n _ <VERB> s m i l i n g _ <ADP> w h i l e _ <VERB> s t a n d i n g _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <NOUN> m o n i t o r s _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <ADJ> y o u n g _ <NOUN> p e o p l e _ <VERB> s t a n d i n g _ <ADP> a r o u n d _ <DET> a _ <NOUN> c o m p u t e r _ <PUNCT> 
+_ <DET> a _ <NOUN> t a b l e _ <ADP> w i t h _ <NOUN> c u p s _ <NOUN> p i t c h e r s _ <CCONJ> a n d _ <DET> a n _ <NOUN> u m b r e l l a _ <PUNCT> 
+_ <DET> a _ <ADJ> f r e n c h _ <NOUN> p r e s s _ <CCONJ> a n d _ <NOUN> c o f f e e _ <NOUN> c u p s _ <ADP> o n _ <DET> a _ <NOUN> t r a y _ <ADP> u n d e r _ <DET> a n _ <NOUN> u m b r e l l a _ <PUNCT> 
+_ <DET> a n _ <NOUN> u m b r e l l a _ <VERB> s i t t i n g _ <ADP> o v e r _ <DET> a _ <NOUN> t r a y _ <ADP> o f _ <NOUN> f o o d _ <PUNCT> 
+_ <PRON> t h e r e _ <VERB> i s _ <DET> a _ <NOUN> t e a p o t _ <CCONJ> a n d _ <NOUN> c u p s _ <ADP> o n _ <DET> t h e _ <NOUN> t r a y _ <PUNCT> 
+_ <DET> a _ <NOUN> t a b l e _ <ADP> w i t h _ <DET> a n _ <NOUN> u m b r e l l a _ <VERB> h a s _ <DET> a _ <NOUN> t r a y _ <ADP> w i t h _ <NOUN> c u p s _ <ADP> o n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <NOUN> t o i l e t _ <ADP> i n _ <DET> a _ <ADJ> n a r r o w _ <NOUN> p a s s a g e _ <ADP> w i t h _ <NUM> t w o _ <NOUN> f a n s _ <ADP> b e h i n d _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <NOUN> t o i l e t _ <CCONJ> a n d _ <DET> a _ <NOUN> l i t t e r _ <NOUN> b o x _ <VERB> s i t t i n g _ <ADP> i n _ <DET> a _ <NOUN> h a l l w a y _ <PUNCT> 
+_ <DET> a _ <NOUN> t o i l e t _ <VERB> i s _ <VERB> p l a c e d _ <ADP> i n _ <ADP> b e t w e e n _ <DET> t h e _ <NUM> t w o _ <NOUN> w a l l s _ <ADP> i n _ <PRON> w h a t _ <VERB> s e e m s _ <ADP> t o _ <VERB> b e _ <DET> a _ <NOUN> b a t h r o o m _ <PUNCT> 
+_ <DET> a _ <NOUN> b a t h r o o m _ <VERB> h a s _ <DET> a _ <NOUN> t o i l e t _ <CCONJ> a n d _ <DET> a _ <NOUN> l i t t e r _ <NOUN> b o x _ <PUNCT> 
+_ <PRON> t h e r e _ <VERB> i s _ <DET> a _ <NOUN> t o i l e t _ <ADP> i n _ <DET> a _ <ADJ> n a r r o w _ <NOUN> b a t h r o o m _ <PUNCT> 
+_ <DET> a _ <NOUN> s n o w b o a r d e r _ <CCONJ> a n d _ <DET> a _ <NOUN> s k i e r _ <VERB> s i t _ <ADV> s i d e - b y - s i d e _ <ADP> a l o n g _ <DET> a _ <NOUN> b r i c k _ <NOUN> w a l l _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> s k i e r s _ <VERB> g e a r e d _ <ADP> i n _ <ADJ> f u l l _ <NOUN> g e a r _ <VERB> l e a n i n g _ <ADP> a g a i n s t _ <DET> a _ <NOUN> b r i c k _ <NOUN> w a l l _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> s n o w b o a r d e r s _ <VERB> s i t _ <ADP> w i t h _ <PRON> t h e i r _ <NOUN> b a c k s _ <ADP> t o _ <DET> a _ <NOUN> b r i c k _ <NOUN> w a l l _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> p e o p l e _ <VERB> d r e s s e d _ <ADP> i n _ <NOUN> s n o w _ <NOUN> a t t i r e _ <VERB> s i t t i n g _ <ADP> a g a i n s t _ <DET> a _ <NOUN> b r i c k _ <NOUN> w a l l _ <ADP> w i t h _ <NUM> t w o _ <NOUN> s n o w b o a r d _ <VERB> l e a n i n g _ <ADP> a g a i n s t _ <PRON> i t _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> m e n _ <VERB> s i t t i n g _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a _ <NOUN> b r i c k _ <NOUN> b u i l d i n g _ <VERB> h o l d i n g _ <NOUN> s k i s _ <PUNCT> 
+_ <DET> a _ <NOUN> f r u i t _ <CCONJ> o r _ <NOUN> v e g e t a b l e _ <VERB> s t a n d _ <CCONJ> a n d _ <DET> a _ <NOUN> m a n _ <VERB> l o o k i n g _ <ADP> a t _ <DET> a _ <NOUN> f r u i t _ <CCONJ> o r _ <NOUN> v e g e t a b l e _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> w e a r i n g _ <DET> a _ <NOUN> s u i t _ <VERB> i n s p e c t i n g _ <NOUN> o r a n g e s _ <ADP> a t _ <DET> a _ <NOUN> m a r k e t _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <ADP> i n _ <DET> a _ <ADJ> g r a y _ <NOUN> j a c k e t _ <CCONJ> a n d _ <DET> a _ <NOUN> t a b l e _ <ADP> o f _ <NOUN> o r a n g e s _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <NOUN> s t a n d i n g _ <ADP> a t _ <DET> a _ <NOUN> t a b l e _ <VERB> t h a t s _ <NOUN> t o p _ <VERB> i s _ <VERB> c o v e r e d _ <ADP> w i t h _ <NOUN> l e m o n s _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> p o s e s _ <ADP> w i t h _ <DET> s o m e _ <ADJ> f r e s h _ <NOUN> f r u i t _ <ADP> a t _ <DET> a n _ <ADJ> o u t d o o r _ <NOUN> m a r k e t _ <PUNCT> 
+_ <NUM> f o u r _ <NOUN> h o r s e s _ <CCONJ> a n d _ <DET> a _ <NOUN> c o u p l e _ <ADP> a t _ <DET> a _ <NOUN> b e a c h _ <PUNCT> 
+_ <NUM> t h r e e _ <NOUN> h o r s e s _ <ADP> o n _ <DET> t h e _ <NOUN> s a n d _ <ADP> a t _ <DET> t h e _ <NOUN> o c e a n _ <PUNCT> 
+_ <DET> s o m e _ <ADV> v e r y _ <ADV> p r e t t y _ <NOUN> h o r s e s _ <ADP> o n _ <DET> t h e _ <NOUN> b e a c h _ <ADP> w i t h _ <NOUN> p e o p l e _ <PUNCT> 
+_ <PROPN> b r o w n _ <CCONJ> a n d _ <ADJ> w h i t e _ <NOUN> h o r s e s _ <ADP> o n _ <DET> t h e _ <NOUN> b e a c h _ <ADP> w i t h _ <DET> t h e _ <NOUN> o c e a n _ <ADP> i n _ <DET> t h e _ <NOUN> b a c k g r o u n d _ <PUNCT> 
+_ <ADJ> s e v e r a l _ <NOUN> h o r s e s _ <VERB> a r e _ <VERB> s t a n d i n g _ <ADV> t o g e t h e r _ <ADP> o n _ <DET> a _ <NOUN> b e a c h _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> b e n c h _ <ADP> w i t h _ <DET> a _ <NOUN> d o g _ <PUNCT> 
+_ <DET> a _ <ADJ> b r o w n _ <NOUN> d o g _ <VERB> s i t t i n g _ <ADP> w i t h _ <DET> a _ <NOUN> m a n _ <ADP> o n _ <DET> a _ <NOUN> p o r c h _ <NOUN> s w i n g _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> p o r c h _ <NOUN> s w i n g _ <ADP> w i t h _ <DET> a _ <NOUN> d o g _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <ADP> o n _ <DET> a _ <NOUN> p o r c h _ <NOUN> s w i n g _ <VERB> d r i n k i n g _ <DET> a _ <NOUN> b e e r _ <ADP> w i t h _ <DET> a _ <NOUN> d o g _ <NOUN> s t a n d i n g _ <ADP> i n _ <PRON> h i s _ <NOUN> l a p _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> i s _ <VERB> s i t t i n g _ <ADP> o n _ <DET> t h e _ <NOUN> s w i n g _ <ADP> w i t h _ <PRON> h i s _ <NOUN> d o g _ <NOUN> d r i n k i n g _ <PUNCT> 
+_ <DET> a _ <ADJ> b l a c k _ <CCONJ> a n d _ <ADJ> w h i t e _ <NOUN> f i g h t e r _ <NOUN> p l a n e _ <VERB> f l y i n g _ <ADP> o v e r _ <DET> a _ <ADJ> g r a s s y _ <NOUN> a r e a _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <ADJ> b l a c k _ <NOUN> a i r p l a n e _ <VERB> t a k e s _ <ADP> o f f _ <ADP> f r o m _ <DET> t h e _ <NOUN> r u n w a y _ <PUNCT> 
+_ <DET> a _ <ADJ> l a r g e _ <NOUN> p l a n e _ <ADP> w i t h _ <NOUN> e n g i n e s _ <ADP> o n _ <PRON> i t _ <VERB> ' s _ <NOUN> w i n g s _ <VERB> i s _ <NOUN> l a n d i n g _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o s e - u p _ <ADP> o f _ <DET> a _ <NOUN> p r o p e l l e r _ <NOUN> p l a n e _ <DET> a _ <ADJ> f e w _ <NOUN> f e e t _ <ADP> o f f _ <DET> t h e _ <NOUN> g r o u n d _ <PUNCT> 
+_ <DET> t h i s _ <NOUN> a i r p l a n e _ <VERB> i s _ <VERB> t a k i n g _ <ADP> o f f _ <ADP> i n _ <DET> t h e _ <NOUN> a i r _ <ADP> n e a r _ <ADJ> o t h e r _ <NOUN> a i r p l a n e s _ <PUNCT> 
+_ <DET> a n _ <NOUN> i m a g e _ <ADP> o f _ <DET> a _ <NOUN> m a n _ <PRON> t h a t _ <VERB> i s _ <VERB> h o l d i n g _ <DET> a n _ <NOUN> u m b r e l l a _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> h o l d i n g _ <DET> a _ <ADJ> b l a c k _ <NOUN> u m b r e l l a _ <ADP> o u t s i d e _ <ADP> o f _ <DET> a _ <NOUN> h o t e l _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> h o l d i n g _ <DET> a n _ <ADJ> o p e n _ <NOUN> u m b r e l l a _ <ADP> n e a r _ <ADJ> t a l l _ <NOUN> b u i l d i n g s _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <VERB> i s _ <VERB> s t a n d i n g _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a _ <NOUN> h o t e l _ <VERB> h o l d i n g _ <DET> a n _ <NOUN> u m b r e l l a _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <ADP> w i t h _ <NOUN> g l a s s e s _ <VERB> h o l d i n g _ <ADP> u p _ <DET> a _ <ADJ> b r o k e n _ <NOUN> u m b r e l l a _ <PUNCT> 
+_ <DET> a _ <ADJ> l a r g e _ <ADJ> l o n g _ <NOUN> t r a i n _ <ADP> o n _ <DET> a _ <NOUN> s t e e l _ <NOUN> t r a c k _ <PUNCT> 
+_ <DET> a _ <NOUN> t r a i n _ <VERB> d r i v i n g _ <ADP> o v e r _ <DET> a _ <ADJ> s m a l l _ <NOUN> b r i d g e _ <ADP> o n _ <DET> a _ <ADJ> g r e e n _ <NOUN> h i l l s i d e _ <PUNCT> 
+_ <DET> a _ <NOUN> t r a i n _ <VERB> m o v i n g _ <ADP> o n _ <DET> a _ <ADJ> g r a s s y _ <NOUN> h i l l _ <ADP> o v e r _ <DET> a _ <ADJ> w o o d e n _ <NOUN> c a v e r n _ <PUNCT> 
+_ <DET> t h e _ <NOUN> t r a i n _ <VERB> i s _ <VERB> p a s s i n g _ <ADP> o v e r _ <DET> a _ <ADJ> l i t t l e _ <NOUN> b r i d g e _ <PUNCT> 
+_ <DET> t h e _ <ADJ> o l d _ <VERB> f a s h i o n e d _ <NOUN> t r a i n _ <VERB> i s _ <VERB> g o i n g _ <ADP> o v e r _ <DET> t h e _ <NOUN> b r i d g e _ <PUNCT> 
+_ <DET> a _ <NOUN> d o g _ <VERB> r u n n i n g _ <ADP> i n t o _ <DET> t h e _ <NOUN> w a v e s _ <ADP> n e a r _ <DET> s o m e _ <NOUN> s u r f e r s _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> m e n _ <VERB> s i t _ <ADP> i n _ <DET> t h e _ <NOUN> w a t e r _ <ADP> a s _ <DET> a _ <NOUN> d o g _ <NOUN> s p l a s h e s _ <ADV> n e a r b y _ <PUNCT> 
+_ <DET> a _ <ADJ> b l a c k _ <NOUN> d o g _ <VERB> s p l a s h i n g _ <ADP> i n _ <DET> t h e _ <NOUN> w a v e s _ <ADP> w i t h _ <NUM> t w o _ <NOUN> m e n _ <ADP> o n _ <NOUN> s u r f b o a r d s _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> m e n _ <ADP> i n _ <DET> t h e _ <NOUN> o c e a n _ <ADP> w i t h _ <PRON> t h e i r _ <NOUN> s u r f b o a r d _ <ADP> a l o n g _ <ADP> w i t h _ <DET> a _ <NOUN> d o g _ <PUNCT> 
+_ <DET> a _ <NOUN> d o g _ <VERB> i s _ <VERB> p l a y i n g _ <ADP> i n _ <DET> t h e _ <NOUN> o c e a n _ <NOUN> w a t e r _ <ADP> w h i l e _ <DET> t h e _ <NOUN> s u r f e r s _ <VERB> w a t c h _ <PUNCT> 
+_ <DET> a _ <ADJ> r e d _ <NOUN> b u s _ <CCONJ> a n d _ <ADJ> w h i t e _ <NOUN> v a n _ <NOUN> w a i t _ <ADP> i n _ <NOUN> t r a f f i c _ <PUNCT> 
+_ <NOUN> b u i l d i n g _ <ADP> w i t h _ <DET> t h e _ <ADJ> b i g _ <PROPN> b e n _ <NOUN> c l o c k _ <VERB> o v e r l o o k i n g _ <DET> a _ <ADJ> m a j o r _ <NOUN> s t r e e t _ <PUNCT> 
+_ <DET> a _ <ADJ> l a r g e _ <NOUN> b u s _ <ADP> o n _ <DET> a _ <ADJ> o p e n _ <NOUN> c i t y _ <NOUN> s t r e e t _ <PUNCT> 
+_ <ADJ> l a r g e _ <NOUN> c l o c k _ <NOUN> t o w e r _ <VERB> o v e r l o o k i n g _ <DET> a _ <ADJ> b u s y _ <NOUN> s t r e e t _ <ADP> d u r i n g _ <DET> t h e _ <NOUN> d a y _ <PUNCT> 
+_ <DET> a _ <NOUN> c r o w d _ <ADP> o f _ <NOUN> p e o p l e _ <VERB> p a r k e d _ <ADP> n e a r _ <DET> a _ <ADJ> d o u b l e _ <NOUN> d e c k e r _ <NOUN> b u s _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <ADJ> g r a y _ <NOUN> h o r s e _ <NOUN> s t a n d i n g _ <ADP> i n _ <DET> a _ <NOUN> f i e l d _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <ADJ> g r a y _ <CCONJ> a n d _ <ADJ> w h i t e _ <ADJ> f u r r y _ <NOUN> h o r s e _ <ADP> n e a r _ <NOUN> b r u s h _ <PUNCT> 
+_ <PROPN> b r o w n _ <PUNCT> , _ <ADJ> g r e y _ <CCONJ> a n d _ <ADJ> w h i t e _ <VERB> c o l o r e d _ <PROPN> s h e t l a n d _ <NOUN> p o n y _ <ADP> i n _ <ADJ> s u n n y _ <NOUN> p a s t u r e _ <PUNCT> 
+_ <DET> t h e _ <ADJ> l a r g e _ <ADJ> g r e y _ <NOUN> h o r s e h a s _ <ADV> l o n g _ <CCONJ> a n d _ <ADJ> s h a g g y _ <NOUN> h a i r _ <PUNCT> 
+_ <DET> a _ <ADJ> g r a y _ <CCONJ> a n d _ <ADJ> w h i t e _ <NOUN> h o r s e _ <NOUN> s t a n d i n g _ <ADP> i n _ <DET> a _ <NOUN> f i e l d _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <NOUN> s h e e p _ <VERB> g e t t i n g _ <NOUN> m i l k _ <ADP> f r o m _ <PRON> i t s _ <NOUN> p a r e n t _ <ADP> i n _ <DET> a _ <NOUN> f i e l d _ <PUNCT> 
+_ <DET> a n _ <ADJ> o p e n _ <NOUN> f i e l d _ <ADP> w i t h _ <ADJ> m a n y _ <NOUN> s h e e p _ <NOUN> g r a z i n g _ <CCONJ> a n d _ <NOUN> n u r s i n g _ <PUNCT> 
+_ <DET> a _ <NOUN> h e r d _ <ADP> o f _ <NOUN> s h e e p _ <NOUN> g r a z i n g _ <ADP> o n _ <NOUN> g r a s s _ <ADP> i n _ <DET> a _ <NOUN> f i e l d _ <PUNCT> 
+_ <DET> a _ <NOUN> b u n c h _ <ADP> o f _ <ADV> v e r y _ <ADV> p r e t t y _ <NOUN> s h e e p _ <ADP> i n _ <DET> a _ <ADJ> g r a s s y _ <NOUN> f i e l d _ <PUNCT> 
+_ <DET> a _ <NOUN> f i e l d _ <ADJ> f u l l _ <ADP> o f _ <NOUN> s h e e p _ <ADP> o n _ <DET> s o m e _ <ADJ> n i c e _ <ADJ> g r e e n _ <NOUN> g r a s s _ <PUNCT> 
+_ <DET> a _ <NOUN> s t o p _ <NOUN> s i g n _ <ADJ> l o c a t e d _ <ADP> a t _ <DET> t h e _ <NOUN> i n t e r s e c t i o n _ <ADP> o f _ <PROPN> e a s t _ <PROPN> v i l l a g e _ <CCONJ> a n d _ <PROPN> w o o d f i e l d _ <PROPN> r d . _ <PUNCT> 
+_ <DET> a _ <ADJ> r e d _ <NOUN> s t o p _ <NOUN> s i g n _ <ADP> w i t h _ <NUM> t w o _ <ADJ> g r e e n _ <NOUN> s t r e e t _ <NOUN> s i g n s _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <PRON> i t _ <PUNCT> 
+_ <DET> t h e _ <NOUN> s t o p _ <NOUN> s i g n _ <VERB> i s _ <ADP> a t _ <DET> a _ <NUM> f o u r _ <NOUN> w a y _ <NOUN> i n t e r s e c t i o n _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o s e _ <ADP> u p _ <ADP> o f _ <DET> a _ <NOUN> s t r e e t _ <NOUN> s i g n _ <ADP> w i t h _ <DET> a _ <NOUN> s k y _ <NOUN> b a c k g r o u n d _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o s e _ <ADP> u p _ <ADP> o f _ <DET> t h e _ <NOUN> s t o p _ <NOUN> s i g n _ <CCONJ> a n d _ <ADP> t o _ <NOUN> s t r e e t _ <NOUN> s i g n s _ <PUNCT> 
+_ <DET> a _ <ADJ> d e l i c i o u s _ <VERB> l o o k i n g _ <NOUN> p i z z a _ <ADP> w i t h _ <DET> a _ <NOUN> v a r i e t y _ <ADP> o f _ <NOUN> v e g e t a b l e _ <NOUN> t o p p i n g s _ <VERB> s t a n d s _ <ADP> o u t _ <ADP> o n _ <DET> a _ <ADJ> y e l l o w _ <NOUN> p l a t e _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <ADJ> l o a d e d _ <NOUN> p i z z a _ <ADP> o n _ <DET> a _ <ADJ> y e l l o w _ <NOUN> p l a t e _ <PUNCT> 
+_ <DET> a _ <ADJ> f r e s h _ <NOUN> p i z z a _ <ADP> w i t h _ <NOUN> b a s i l _ <PUNCT> , _ <NOUN> m o z z a r e l l a _ <NOUN> c h e e s e _ <CCONJ> a n d _ <NOUN> t o m a t o e s _ <PUNCT> 
+_ <DET> a n _ <NOUN> i m a g e _ <ADP> o f _ <DET> a _ <ADJ> s m a l l _ <NOUN> p i z z a _ <ADP> o n _ <DET> a _ <NOUN> p l a t e _ <PUNCT> 
+_ <DET> a _ <NOUN> p i z z a _ <VERB> t o p p e d _ <ADP> w i t h _ <DET> a n _ <NOUN> a s s o r t m e n t _ <ADP> o f _ <NOUN> v e g e t a b l e s _ <ADP> o n _ <DET> a _ <ADJ> w o o d e n _ <NOUN> t a b l e _ <PUNCT> 
+_ <DET> a _ <NOUN> m o t o r c y c l i s t _ <VERB> i s _ <VERB> d r i v i n g _ <ADP> d o w n _ <DET> t h e _ <NOUN> r o a d _ <ADJ> n e x t _ <ADP> t o _ <DET> t h e _ <NOUN> r o a d _ <NOUN> b a r r i e r _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <VERB> r i d i n g _ <DET> a _ <NOUN> m o t o r c y c l e _ <ADP> d o w n _ <DET> a _ <NOUN> s t r e e t _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <ADP> o n _ <DET> a _ <NOUN> m o t o r c y c l e _ <VERB> d r i v i n g _ <ADP> o n _ <DET> t h e _ <NOUN> b r e a k _ <ADP> d o w n _ <NOUN> l a n e _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <ADP> o n _ <DET> a _ <NOUN> m o t o r _ <NOUN> b i k e _ <VERB> r i d i n g _ <ADP> i n _ <DET> t h e _ <ADJ> h i g h _ <NOUN> w a y _ <PUNCT> 
+_ <CCONJ> a n d _ <NOUN> m a n _ <ADP> w i t h _ <DET> a _ <NOUN> s k a t e b o a r d _ <ADP> o n _ <DET> a _ <NOUN> m o t o r c y c l e _ <ADP> i n _ <NOUN> t r a f f i c _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <NOUN> p u g _ <VERB> s i t t i n g _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <DET> a _ <NOUN> c o u c h _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <ADJ> b l a c k _ <NOUN> d o g _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> d o g s _ <ADP> o n _ <NOUN> c o u c h _ <NOUN> p l a y i n g _ <ADP> w i t h _ <NOUN> s h o e _ <ADP> i n _ <ADJ> a r t i f i c i a l _ <NOUN> l i g h t _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> p u g s _ <VERB> l a y _ <ADP> o n _ <DET> t h e _ <NOUN> c o u c h _ <ADP> w i t h _ <DET> a _ <NOUN> s h o e _ <PUNCT> , _ <NUM> o n e _ <VERB> i s _ <VERB> l o o k i n g _ <ADP> a t _ <DET> t h e _ <NOUN> c a m e r a _ <PUNCT> 
+_ <NUM> t w o _ <ADJ> s m a l l _ <NOUN> d o g s _ <ADP> w i t h _ <DET> a _ <NOUN> s h o e _ <ADP> o n _ <DET> a _ <NOUN> c o u c h _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> p u g _ <NOUN> d o g s _ <CCONJ> a n d _ <DET> a _ <ADJ> s a n d a l _ <NOUN> s h o w _ <ADP> o n _ <DET> a _ <NOUN> c o u c h _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> h o l d i n g _ <ADP> u p _ <DET> a n _ <NOUN> u m b r e l l a _ <ADP> n e a r _ <ADJ> o t h e r _ <NOUN> u m b r e l l a s _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> h o l d i n g _ <DET> a _ <ADJ> m u l t i _ <VERB> c o l o r e d _ <NOUN> u m b r e l l a _ <ADP> n e x t _ <ADP> t o _ <ADJ> s e v e r a l _ <ADJ> o t h e r _ <NOUN> m u l t i _ <VERB> c o l o r e d _ <NOUN> u m b r e l l a s _ <PUNCT> 
+_ <PRON> t h e r e _ <VERB> a r e _ <ADJ> s e v e r a l _ <ADJ> m u l t i c o l o r e d _ <NOUN> s u n _ <NOUN> u m b r e l l a s _ <CCONJ> a n d _ <DET> t h i s _ <NOUN> b o y _ <VERB> i s _ <VERB> h o l d i n g _ <NUM> o n e _ <PUNCT> 
+_ <DET> a _ <NOUN> b o y _ <ADP> i n _ <DET> a _ <ADJ> y e l l o w _ <NOUN> s h i r t _ <VERB> p u t t i n g _ <ADP> u p _ <ADJ> m u l t i c o l o r e d _ <NOUN> u m b r e l l a s _ <ADP> o n _ <DET> a _ <NOUN> s i d e w a l k _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <ADP> i n _ <DET> a _ <ADJ> y e l l o w _ <NOUN> s h i r t _ <VERB> t a k e s _ <ADP> d o w n _ <ADJ> c o l o r f u l _ <NOUN> u m b r e l l a s _ <ADP> o u t s i d e _ <PUNCT> 
+_ <PROPN> f e w _ <PROPN> p e o p l e _ <ADP> i n _ <DET> t h e _ <NOUN> b l e a c h e r s _ <VERB> w a t c h i n g _ <DET> a _ <NOUN> b a s e b a l l _ <NOUN> g a m e _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <NOUN> s w i n g s _ <PRON> h i s _ <NOUN> b a t _ <ADP> a s _ <DET> a n o t h e r _ <NOUN> m a n _ <NOUN> b e h i n d s _ <PRON> h i m _ <VERB> i s _ <VERB> s q u a t t i n g _ <ADP> t o _ <VERB> c a t c h _ <DET> t h e _ <NOUN> b a l l _ <ADP> w h i l e _ <NOUN> p e o p l e _ <VERB> w a t c h _ <PUNCT> 
+_ <DET> a _ <NOUN> t e a m _ <ADP> o f _ <NOUN> b a s e b a l l _ <NOUN> p l a y e r s _ <VERB> p r a c t i c i n g _ <ADP> a t _ <DET> a n _ <ADJ> e m p t y _ <NOUN> b a s e b a l l _ <NOUN> f i e l d _ <PUNCT> 
+_ <DET> a _ <NOUN> b a t t e r _ <VERB> s i n g s _ <PRON> h i s _ <NOUN> b a t _ <ADP> a t _ <DET> a _ <NOUN> b a s e b a l l _ <NOUN> g a m e _ <PUNCT> 
+_ <DET> a _ <NOUN> p l a y _ <VERB> h i t t i n g _ <DET> a _ <NOUN> b a s e b a l l _ <ADP> i n _ <DET> a _ <NOUN> s t a d i u m _ <PUNCT> 
+_ <DET> t h e _ <NOUN> r o o m _ <VERB> h a s _ <DET> a _ <NOUN> f l i g h t _ <ADP> o f _ <NOUN> s t e p s _ <ADP> n e a r _ <DET> t h e _ <NOUN> c o u c h _ <CCONJ> a n d _ <NOUN> t e l e v i s i o n _ <PUNCT> 
+_ <ADV> d i m l y _ <VERB> l i t _ <NOUN> p a r t _ <ADP> o f _ <DET> a _ <NOUN> h o u s e _ <ADP> w i t h _ <ADJ> l i g h t _ <VERB> e n t e r i n g _ <NOUN> w i n d o w _ <PUNCT> 
+_ <DET> s o m e _ <NOUN> s t a i r s _ <DET> a _ <NOUN> c o u c h _ <DET> a _ <NOUN> t a b l e _ <CCONJ> a n d _ <DET> a _ <NOUN> t e l e v i s i o n _ <PUNCT> 
+_ <DET> a _ <NOUN> c o u c h _ <CCONJ> a n d _ <DET> a _ <NOUN> t e l e v i s i o n _ <VERB> a r e _ <ADP> i n _ <DET> a _ <NOUN> r o o m _ <PUNCT> 
+_ <DET> t h e _ <NOUN> r o o m _ <VERB> i s _ <VERB> s i t u a t e d _ <ADP> o n _ <DET> t h e _ <ADJ> d a r k _ <NOUN> s i d e _ <ADP> o f _ <DET> t h e _ <NOUN> h o u s e _ <PUNCT> 
+_ <DET> a _ <NOUN> f l o c k _ <ADP> o f _ <NOUN> b i r d s _ <VERB> p e r c h e d _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <DET> a _ <NOUN> t r e e _ <PUNCT> 
+_ <PROPN> b i r d s _ <VERB> p e r c h e d _ <ADP> o n _ <DET> t h e _ <NOUN> b r a n c h e s _ <ADP> o f _ <DET> a n _ <ADJ> o l d _ <ADJ> d e a d _ <NOUN> t r e e _ <PUNCT> 
+_ <DET> a _ <VERB> d r i e d _ <ADP> u p _ <NOUN> t r e e _ <NOUN> t r u n k _ <ADP> w i t h _ <NOUN> b i r d s _ <ADP> o n _ <PRON> i t _ <VERB> ' s _ <NOUN> b r a n c h e s _ <PUNCT> 
+_ <ADJ> m a n y _ <NOUN> b i r d s _ <VERB> s t a n d i n g _ <ADP> o n _ <ADJ> d e a d _ <NOUN> t r e e _ <NOUN> b r a n c h e s _ <ADP> o u t s i d e _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> b i r d s _ <VERB> p e r c h i n g _ <ADP> o n _ <DET> a _ <ADJ> d e a d _ <NOUN> t r e e _ <PUNCT> 
+_ <DET> a _ <NOUN> c o u p l e _ <ADP> o f _ <NOUN> s i n k s _ <CCONJ> a n d _ <DET> a _ <NOUN> b a t h _ <ADP> i n _ <DET> a _ <NOUN> r o o m _ <PUNCT> 
+_ <PRON> t h e r e _ <VERB> i s _ <DET> a _ <NOUN> t u b _ <PUNCT> , _ <DET> a _ <NOUN> s i n k _ <PUNCT> , _ <CCONJ> a n d _ <DET> a _ <NOUN> s h o w e r _ <ADP> i n s i d e _ <DET> a _ <NOUN> b a t h r o o m _ <PUNCT> 
+_ <DET> a _ <NOUN> c o r n e r _ <NOUN> b a t h t u b _ <ADP> i n _ <DET> a _ <ADV> v e r y _ <ADJ> c l e a n _ <NOUN> b a t h r o o m _ <PUNCT> 
+_ <DET> a _ <NOUN> b a t h r o o m _ <ADP> w i t h _ <NOUN> s h o w e r _ <PUNCT> , _ <VERB> s i n k s _ <PUNCT> , _ <CCONJ> a n d _ <NOUN> t u b _ <ADP> i n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <NOUN> b a t h r o o m _ <ADP> w i t h _ <DET> a _ <ADJ> r o u n d _ <NOUN> t u b _ <PUNCT> , _ <VERB> m i r r o r s _ <PUNCT> , _ <NOUN> s h o w e r _ <CCONJ> a n d _ <VERB> s i n k s _ <PUNCT> 
+_ <DET> a _ <NOUN> s t r e e t l i g h t _ <VERB> h a n g i n g _ <ADP> f r o m _ <DET> a _ <NOUN> p o l e _ <ADP> o v e r _ <DET> a _ <NOUN> s t r e e t _ <PUNCT> 
+_ <DET> a _ <NOUN> t r a f f i c _ <NOUN> l i g h t _ <VERB> h a n g i n g _ <ADP> o n _ <DET> a _ <NOUN> s t r e e t _ <NOUN> p o l e _ <PUNCT> 
+_ <PROPN> s t r e e t l i g h t _ <CCONJ> a n d _ <NOUN> n u m b e r _ <NOUN> s i g n _ <ADP> o n _ <NOUN> p o l e _ <ADP> a b o v e _ <NOUN> c i t y _ <CCONJ> a n d _ <NOUN> h i l l s _ <PUNCT> 
+_ <DET> a _ <NOUN> t r a f f i c _ <NOUN> l i g h t _ <VERB> h a n g i n g _ <ADP> o f f _ <ADP> o f _ <DET> a _ <NOUN> m e t a l _ <NOUN> p o l e _ <PUNCT> 
+_ <DET> a _ <NOUN> t r a f f i c _ <NOUN> l i g h t _ <ADP> w i t h _ <DET> a _ <NOUN> s p e e d _ <NOUN> r a d a r _ <VERB> a t t a c h e d _ <ADP> t o _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <ADV> v e r y _ <ADJ> d a r k _ <NOUN> s t r e e t _ <ADP> w i t h _ <NOUN> c a r s _ <CCONJ> a n d _ <ADJ> m a n y _ <NOUN> w i r e s _ <ADP> a b o v e _ <PUNCT> 
+_ <DET> a _ <ADJ> f u l l _ <NOUN> v i e w _ <ADP> o f _ <DET> a _ <ADJ> l a t e _ <NOUN> e v e n i n g _ <ADP> w i t h _ <ADJ> m a n y _ <NOUN> c a r s _ <VERB> p a r k e d _ <ADP> o n _ <DET> t h e _ <NOUN> s t r e e t _ <PUNCT> 
+_ <DET> a _ <NOUN> c i t y _ <NOUN> s t r e e t _ <VERB> f i l l e d _ <ADP> w i t h _ <NOUN> t r a f f i c _ <CCONJ> a n d _ <NOUN> p a r k i n g _ <NOUN> l i g h t s _ <PUNCT> 
+_ <DET> a _ <NOUN> c a r _ <PART> ' s _ <NOUN> b r e a k _ <NOUN> l i g h t s _ <NOUN> g l o w _ <ADP> a s _ <PRON> i t _ <VERB> w a i t s _ <ADP> a t _ <DET> a _ <NOUN> r e d - l i g h t _ <ADP> a t _ <DET> a n _ <NOUN> i n t e r s e c t i o n _ <PUNCT> 
+_ <DET> a _ <NOUN> s t r e e t _ <NOUN> s c e n e _ <ADP> w i t h _ <NOUN> c a r s _ <PUNCT> , _ <NOUN> s t r e e t _ <NOUN> s i g n s _ <PUNCT> , _ <CCONJ> a n d _ <ADJ> m a n y _ <ADJ> h i g h _ <NOUN> w i r e s _ <PUNCT> 
+_ <DET> a _ <NOUN> b i r d _ <VERB> p e r c h e d _ <ADP> o n _ <DET> a _ <NOUN> b r a n c h _ <ADP> b y _ <DET> s o m e _ <NOUN> l e a v e s _ <PUNCT> 
+_ <DET> a _ <NOUN> b i r d _ <ADP> w i t h _ <ADJ> r e d _ <NOUN> e y e s _ <VERB> s i t s _ <ADP> o n _ <DET> a _ <NOUN> t r e e _ <NOUN> b r a n c h _ <PUNCT> 
+_ <DET> a _ <NOUN> b i r d _ <ADP> w i t h _ <ADJ> r e d _ <NOUN> e y e s _ <VERB> i s _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> t r e e _ <NOUN> b r a n c h _ <PUNCT> 
+_ <DET> a _ <ADJ> b l a c k _ <NOUN> b i r d _ <VERB> p e r c h e d _ <ADP> u p _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <DET> a _ <NOUN> t r e e _ <NOUN> b r a n c h _ <PUNCT> 
+_ <ADJ> b l a c k _ <NOUN> b i r d _ <ADP> w i t h _ <ADJ> r e d _ <NOUN> e y e s _ <ADP> a s _ <VERB> s e e n _ <VERB> s i t t i n g _ <ADP> o n _ <NOUN> b r a n c h _ <PUNCT> 
+_ <DET> a _ <NOUN> c o u p l e _ <VERB> b r o w s i n g _ <DET> t h e _ <NOUN> m o t o r c y c l e s _ <ADP> f o r _ <NOUN> s a l e _ <ADP> o u t s i d e _ <PUNCT> 
+_ <NOUN> m a n _ <CCONJ> a n d _ <NOUN> w o m a n _ <NOUN> s t a n d i n g _ <ADP> b e t w e e n _ <NOUN> m o t o r c y c l e s _ <ADP> f o r _ <NOUN> s a l e _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <CCONJ> a n d _ <DET> a _ <NOUN> w o m a n _ <NOUN> s t a n d i n g _ <ADP> b y _ <NOUN> m o t o r c y c l e s _ <ADP> o u t s i d e _ <DET> a _ <NOUN> b a r _ <PUNCT> 
+_ <DET> a _ <ADJ> m a l e _ <CCONJ> a n d _ <ADJ> f e m a l e _ <NOUN> s t a n d i n g _ <ADP> a m o n g _ <NOUN> m o t o r c y c l e s _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a _ <NOUN> b a r _ <PUNCT> 
+_ <NOUN> m a n _ <CCONJ> a n d _ <NOUN> w o m a n _ <ADP> i n _ <NOUN> p a r k i n g _ <NOUN> l o t _ <ADJ> f u l l _ <ADP> o f _ <NOUN> m o t o r c y c l e s _ <PUNCT> 
+_ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <VERB> p o s i n g _ <ADP> f o r _ <DET> t h e _ <NOUN> c a m e r a _ <ADP> i n _ <DET> t h e _ <NOUN> s n o w _ <PUNCT> 
+_ <ADJ> s e v e r a l _ <NOUN> s n o w _ <NOUN> s k i e r s _ <VERB> a r e _ <VERB> p o s i n g _ <ADP> f o r _ <DET> a _ <NOUN> p i c t u r e _ <PUNCT> 
+_ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <VERB> p o s i n g _ <ADP> f o r _ <DET> t h e _ <NOUN> c a m e r a _ <ADP> i n _ <DET> t h e _ <NOUN> s n o w _ <PUNCT> 
+_ <DET> t h i s _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <VERB> i s _ <VERB> e x c i t e d _ <ADP> t o _ <VERB> b e _ <ADP> a t _ <DET> t h e _ <NOUN> s k i _ <NOUN> s l o p e s _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <VERB> a r e _ <VERB> s t a n d i n g _ <ADV> o u t s i d e _ <ADP> i n _ <DET> t h e _ <NOUN> s n o w _ <PUNCT> 
+_ <NOUN> s k i e r s _ <CCONJ> a n d _ <NOUN> s n o w b o a r d e r s _ <VERB> w a v i n g _ <ADP> f o r _ <DET> a _ <NOUN> p i c t u r e _ <ADP> o n _ <DET> a _ <NOUN> m o u n t a i n _ <PUNCT> 
+_ <DET> a n _ <ADJ> o l d e r _ <NOUN> m a n _ <ADP> i n _ <DET> a _ <NOUN> t u x e d o _ <NOUN> s t a n d i n g _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <ADJ> y o u n g e r _ <NOUN> m a n _ <ADP> i n _ <DET> a _ <NOUN> t u x e d o _ <VERB> w e a r i n g _ <NOUN> g l a s s e s _ <PUNCT> 
+_ <ADJ> o l d e r _ <NOUN> m a n _ <ADP> i n _ <NOUN> t u x e d o _ <VERB> s i t t i n g _ <ADJ> n e x t _ <ADP> t o _ <DET> a n o t h e r _ <ADJ> y o u n g e r _ <NOUN> m a n _ <ADP> i n _ <NOUN> t u x e d o _ <PUNCT> 
+_ <ADJ> s e v e r a l _ <NOUN> m e n _ <ADP> i n _ <NOUN> s u i t s _ <VERB> t a l k i n g _ <ADV> t o g e t h e r _ <ADP> i n _ <DET> a _ <NOUN> r o o m _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> m e n _ <ADP> i n _ <NOUN> b o w _ <NOUN> t i e s _ <VERB> s t a n d i n g _ <ADJ> n e x t _ <ADP> t o _ <NOUN> s t e e l _ <NOUN> r a f t e r _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> m e n _ <VERB> w e a r i n g _ <NOUN> t u x e d o s _ <NOUN> g l a n c e _ <ADP> a t _ <DET> e a c h _ <ADJ> o t h e r _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> s u r f e r s _ <ADP> w i t h _ <VERB> c u t _ <ADP> o u t _ <ADP> o f _ <PROPN> o b a m a _ <CCONJ> a n d _ <PROPN> r o n _ <PROPN> p a u l _ <ADP> f o r _ <NOUN> h e a d s _ <PUNCT> 
+_ <DET> a n _ <PROPN> o b a m a _ <VERB> l o o k _ <ADP> l i k e _ <ADP> w i t h _ <DET> a n o t h e r _ <NOUN> m a n _ <VERB> h o l d i n g _ <DET> a _ <NOUN> s u r f _ <NOUN> b o a r d _ <PUNCT>
+_ <NOUN> c o m m e n t _ <PUNCT> * _ <PUNCT> * _ <DET> t h i s _ <VERB> i s _ <ADV> w h e r e _ <PRON> o u r _ <NOUN> t a x _ <NOUN> d o l l a r s _ <VERB> g o _ <PUNCT> ! _ <PUNCT>
+_ <PROPN> r o n _ <PROPN> p a u l _ <VERB> h o l d i n g _ <DET> a _ <NOUN> s u r f b o a r d _ <ADJ> n e x t _ <ADP> t o _ <PROPN> b a r r a c k _ <PROPN> o b a m a _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> s u r f e r s _ <ADP> w i t h _ <PRON> t h e i r _ <NOUN> h e a d s _ <VERB> d i s g u i s e d _ <ADP> a t _ <PROPN> j o e _ <PROPN> b i d e n _ <CCONJ> a n d _ <PROPN> p r e s i d e n t _ <PROPN> o b a m a _ <VERB> h o l d _ <DET> a _ <NOUN> s u r f b o a r d _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> s u r f e r s _ <VERB> a r e _ <VERB> s t a n d i n g _ <ADP> o n _ <DET> t h e _ <NOUN> b e a c h _ <PUNCT> , _ <CCONJ> a n d _ <PRON> t h e i r _ <NOUN> f a c e s _ <VERB> h a v e _ <VERB> b e e n _ <VERB> c h a n g e d _ <ADP> t o _ <PROPN> b a r a c k _ <PROPN> o b a m a _ <CCONJ> a n d _ <PROPN> r o n _ <PROPN> p a u l _ <PUNCT> 
+_ <NUM> t w o _ <ADJ> a d o r a b l e _ <NOUN> d o g s _ <VERB> s i t t i n g _ <ADP> i n _ <DET> t h e _ <ADJ> b a c k _ <NOUN> s e a t _ <ADP> o f _ <DET> a _ <NOUN> c a r _ <PUNCT> 
+_ <NUM> t w o _ <ADJ> b i g _ <NOUN> d o g s _ <VERB> r i d e _ <ADP> b e s i d e _ <NUM> o n e _ <DET> a n o t h e r _ <ADP> o n _ <DET> t h e _ <ADJ> s a m e _ <NOUN> v e h i c l e _ <NOUN> s e a t _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> d o g s _ <ADP> i n _ <DET> t h e _ <ADJ> b a c k _ <NOUN> s e a t _ <VERB> l o o k i n g _ <ADP> o u t _ <DET> t h e _ <NOUN> w i n d o w s _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> d o g s _ <VERB> s i t t i n g _ <ADP> i n _ <DET> t h e _ <ADJ> b a c k _ <NOUN> s e a t _ <ADP> o f _ <DET> a _ <NOUN> c a r _ <VERB> l o o k i n g _ <ADP> o u t _ <DET> t h e _ <NOUN> w i n d w o _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> d o g s _ <ADP> i n _ <DET> t h e _ <NOUN> b a c k _ <ADP> o f _ <DET> a _ <NOUN> c a r _ <VERB> l o o k i n g _ <ADP> o u t _ <DET> t h e _ <NOUN> w i n d o w _ <PUNCT> 
+_ <DET> a _ <PROPN> c h r i s t m a s _ <NOUN> t r e e _ <VERB> m a d e _ <ADP> o f _ <ADJ> r e d _ <NOUN> t e d d y _ <NOUN> b e a r s _ <PUNCT> 
+_ <PROPN> r e d _ <VERB> s t u f f e d _ <NOUN> b e a r s _ <VERB> a r e _ <VERB> p i n n e d _ <ADP> t o _ <DET> a _ <NOUN> c a r d b o a r d _ <NOUN> t r e e _ <PUNCT> 
+_ <DET> a _ <ADJ> w o o d e n _ <PROPN> c h r i s t m a s _ <NOUN> t r e e _ <VERB> h a s _ <ADJ> r e d _ <NOUN> t e d d y _ <NOUN> b e a r s _ <PUNCT> 
+_ <DET> a _ <NOUN> c a r d b o a r d _ <VERB> c h r i s t m a s _ <NOUN> t r e e _ <ADP> w i t h _ <NOUN> t e d d y _ <VERB> b e a r s _ <VERB> h a n g i n g _ <ADP> o n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <PROPN> c h r i s t m a s _ <NOUN> t r e e _ <VERB> c o v e r e d _ <ADP> i n _ <ADJ> b r o w n _ <NOUN> t e d d y _ <NOUN> b e a r s _ <ADP> i n _ <DET> a _ <NOUN> d e p a r t m e n t _ <NOUN> s t o r e _ <PUNCT> 
+_ <NOUN> p e r s o n _ <NOUN> c o o k i n g _ <DET> a n _ <NOUN> e g g s _ <ADP> o n _ <DET> a _ <ADJ> b l a c k _ <NOUN> p o t _ <ADP> o n _ <DET> a _ <NOUN> s t o v e _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <VERB> f r y i n g _ <DET> s o m e _ <NOUN> k i n d _ <ADP> o f _ <NOUN> f o o d _ <ADP> o n _ <DET> a _ <NOUN> s t o v e _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> m a k e s _ <NOUN> e g g s _ <ADP> o n _ <DET> t h e _ <NOUN> s t o v e _ <NOUN> t o p _ <PUNCT> 
+_ <DET> a _ <NOUN> l a d y _ <VERB> i s _ <VERB> p r e p a r i n g _ <NOUN> p a n c a k e s _ <ADP> i n _ <DET> a _ <ADJ> c h a r m i n g _ <ADJ> w h i t e _ <NOUN> k i t c h e n _ <PUNCT> 
+_ <DET> a _ <ADJ> b e a u t i f u l _ <NOUN> w o m a n _ <NOUN> c o o k i n g _ <NOUN> f o o d _ <ADP> i n _ <DET> a _ <NOUN> k i t c h e n _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o s e _ <ADP> u p _ <NOUN> v i e w _ <ADP> o f _ <NOUN> s h e e t s _ <PRON> t h a t _ <VERB> a r e _ <ADP> o n _ <DET> a _ <NOUN> b e d _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o s e _ <ADP> u p _ <ADP> o f _ <DET> a _ <NOUN> c o v e r _ <ADP> o n _ <DET> a _ <NOUN> b e d _ <ADP> w i t h _ <DET> a _ <NOUN> w i n d o w _ <ADP> i n _ <DET> t h e _ <NOUN> b a c k g r o u n d _ <PUNCT> 
+_ <DET> t h e _ <NOUN> v i e w _ <NOUN> o u t s i d e _ <VERB> i s _ <VERB> b l u r r e d _ <ADP> t h r o u g h _ <DET> t h e _ <NOUN> w i n d o w _ <PUNCT> 
+_ <DET> t h e _ <ADJ> s o f t _ <NOUN> t e x t u r e _ <ADP> o f _ <DET> a _ <NOUN> b l a n k e t _ <ADP> o n _ <DET> a _ <NOUN> b e d _ <PUNCT> 
+_ <DET> t h e _ <NOUN> e d g e _ <ADP> o f _ <DET> a _ <NOUN> b e d _ <CCONJ> a n d _ <DET> a _ <VERB> c l o s e d _ <NOUN> w i n d o w _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <ADP> i n _ <DET> a n _ <NOUN> a p r o n _ <VERB> s h o w i n g _ <NOUN> o t h e r s _ <ADV> h o w _ <PRON> h e _ <VERB> s h a r p e n s _ <DET> a _ <NOUN> k n i f e _ <PUNCT> 
+_ <DET> t h e _ <NOUN> m a n _ <VERB> i s _ <VERB> h o l d i n g _ <NUM> t w o _ <NOUN> k n i v e s _ <ADP> i n _ <PRON> h i s _ <NOUN> h a n d s _ <PUNCT> 
+_ <ADJ> s e v e r a l _ <NOUN> p e o p l e _ <VERB> s e a t e d _ <ADP> a t _ <DET> a _ <NOUN> t a b l e _ <VERB> w a t c h i n g _ <DET> a _ <NOUN> c o o k i n g _ <NOUN> d e m o n s t r a t i o n _ <PUNCT> 
+_ <DET> a _ <NOUN> c h e f _ <VERB> w e a r i n g _ <DET> a _ <VERB> s t r i p p e d _ <NOUN> a p r o n _ <VERB> i s _ <VERB> t e a c h i n g _ <DET> a _ <NOUN> c l a s s _ <ADV> h o w _ <ADP> t o _ <VERB> u s e _ <DET> a _ <ADJ> l a r g e _ <NOUN> k n i f e _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <ADP> w i t h _ <DET> a _ <NOUN> k n i f e _ <CCONJ> a n d _ <NOUN> s h a r p e n e r _ <VERB> i n s t r u c t i n g _ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> w o m e n _ <PUNCT> 
+_ <PROPN> b e a r _ <ADP> i n _ <NOUN> w a t e r _ <NOUN> p l a y i n g _ <ADP> w i t h _ <DET> a _ <ADJ> l a r g e _ <NOUN> b o t t l e _ <PUNCT> 
+_ <DET> a _ <NOUN> b e a r _ <PRON> t h a t _ <VERB> i s _ <ADP> i n _ <DET> t h e _ <NOUN> w a t e r _ <PUNCT> , _ <ADP> w i t h _ <DET> a _ <NOUN> j u g _ <PUNCT> 
+_ <PROPN> b e a r _ <ADP> i n _ <NOUN> w a t e r _ <VERB> s t a r i n g _ <ADP> a t _ <ADJ> p l a s t i c _ <NOUN> b o t t l e _ <ADP> w i t h _ <NOUN> s u n l i g h t _ <VERB> s h i n i n g _ <ADP> o n _ <NOUN> b e a r _ <CCONJ> a n d _ <NOUN> b o t t l e _ <PUNCT> 
+_ <PRON> t h e r e _ <VERB> i s _ <DET> a _ <ADJ> p o l a r _ <NOUN> b e a r _ <VERB> p l a y i n g _ <ADP> w i t h _ <DET> a _ <NOUN> w a t e r _ <NOUN> b o t t l e _ <ADP> i n _ <DET> t h e _ <NOUN> w a t e r _ <PUNCT> 
+_ <DET> a _ <ADJ> p o l a r _ <NOUN> b e a r _ <VERB> w a t c h e s _ <DET> a _ <ADJ> l a r g e _ <NOUN> j u g _ <VERB> f l o a t i n g _ <ADP> b y _ <PUNCT> 
+_ <DET> a _ <NOUN> l i v i n g _ <NOUN> r o o m _ <VERB> f i l l e d _ <ADP> w i t h _ <NOUN> f u r n i t u r e _ <CCONJ> a n d _ <DET> a _ <NOUN> r u g _ <PUNCT> 
+_ <DET> a _ <NOUN> l i v i n g _ <NOUN> r o o m _ <ADP> w i t h _ <DET> a _ <NOUN> t r a y _ <VERB> h o l d i n g _ <DET> a _ <NOUN> l a p t o p _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <NOUN> c o u c h _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <NOUN> d e n _ <ADP> w i t h _ <DET> a _ <NOUN> c o u c h _ <PUNCT> , _ <DET> a _ <NOUN> b a g _ <ADP> o n _ <DET> t h e _ <NOUN> f l o o r _ <PUNCT> , _ <DET> a _ <NOUN> b o o k _ <NOUN> s h e l f _ <PUNCT> , _ <CCONJ> a n d _ <DET> a _ <NOUN> w i r e _ <VERB> g o i n g _ <ADP> f r o m _ <DET> t h e _ <NOUN> w a l l _ <ADP> t o _ <ADP> n e a r _ <DET> t h e _ <NOUN> w i n d o w _ <PUNCT> 
+_ <DET> a _ <NOUN> l i v i n g _ <NOUN> r o o m _ <ADP> w i t h _ <DET> a _ <ADJ> w h i t e _ <NOUN> c o u c h _ <CCONJ> a n d _ <NOUN> l i b r a r y _ <NOUN> s h e l v e s _ <PUNCT> 
+_ <DET> a _ <NOUN> l i v i n g _ <NOUN> r o o m _ <ADP> w i t h _ <DET> a _ <ADJ> w h i t e _ <NOUN> s o f a _ <CCONJ> a n d _ <DET> a _ <ADJ> g r a y _ <NOUN> r u g _ <PUNCT> 
+_ <ADJ> s e v e r a l _ <NOUN> c a t t l e _ <VERB> w a l k i n g _ <ADP> d o w n _ <DET> a _ <NOUN> s t r e e t _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a _ <NOUN> c a r _ <PUNCT> 
+_ <DET> a _ <NOUN> h e r d _ <ADP> o f _ <NOUN> c a t t l e _ <VERB> w a l k i n g _ <ADP> d o w n _ <DET> a _ <NOUN> s t r e e t _ <ADP> n e a r _ <ADJ> l u s h _ <ADJ> g r e e n _ <NOUN> t r e e s _ <PUNCT> 
+_ <DET> a _ <NOUN> h e r d _ <ADP> o f _ <NOUN> c a t t l e _ <VERB> c r o s s i n g _ <DET> t h e _ <NOUN> s t r e e t _ <ADP> w h i l e _ <NOUN> c a r s _ <VERB> w a i t _ <ADP> b e h i n d _ <PRON> t h e m _ <PUNCT> 
+_ <DET> a _ <NOUN> h e r d _ <ADP> o f _ <NOUN> c o w s _ <VERB> w a l k s _ <ADP> d o w n _ <DET> a _ <NOUN> c i t y _ <NOUN> s t r e e t _ <PUNCT> 
+_ <ADJ> s e v e r a l _ <NOUN> c o w s _ <VERB> w a l k i n g _ <ADP> i n _ <DET> t h e _ <NOUN> s t r e e t _ <ADP> w i t h _ <NOUN> c a r s _ <ADP> b e h i n d _ <PRON> t h e m _ <PUNCT> 
+_ <NOUN> t e l e v i s i o n _ <VERB> b e i n g _ <VERB> a d m i r e d _ <ADP> b y _ <NOUN> c a t _ <ADP> i n _ <DET> t h e _ <NOUN> c o r n e r _ <ADP> o f _ <DET> t h e _ <NOUN> r o o m _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <NOUN> d o g _ <VERB> s i t t i n g _ <ADP> o n _ <DET> t h e _ <NOUN> f l o o r _ <CCONJ> a n d _ <VERB> w a t c h i n g _ <DET> a n o t h e r _ <NOUN> d o g _ <ADP> o n _ <NOUN> t v _ <PUNCT> 
+_ <DET> a _ <NOUN> d o g _ <VERB> i s _ <VERB> s i t t i n g _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> t h e _ <NOUN> 
+_ <DET> t h e _ <NOUN> d o g _ <VERB> i s _ <VERB> w a t c h i n g _ <DET> a _ <ADJ> t e l e v i s e d _ <NOUN> s c e n e _ <ADP> i n _ <PRON> w h i c h _ <DET> a n o t h e r _ <NOUN> d o g _ <PUNCT> , _ <VERB> p o i s e d _ <ADP> o n _ <DET> a _ <NOUN> b a n k _ <VERB> i s _ <VERB> w i t n e s s i n g _ <DET> a n _ <NOUN> e m e r g e n c y _ <ADP> o n _ <DET> t h e _ <NOUN> w a t e r _ <PUNCT> 
+_ <ADP> i n s i d e _ <ADP> o f _ <DET> a _ <NOUN> l i v i n g _ <NOUN> r o o m _ <ADP> w i t h _ <DET> a _ <NOUN> c a t _ <VERB> w a t c h i n g _ <DET> a _ <NOUN> t v _ <PUNCT> 
+_ <DET> a _ <NOUN> r e s t a u r a n t _ <ADP> w i t h _ <DET> a _ <ADJ> f e w _ <NOUN> p e o p l e _ <ADP> i n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <ADP> w i t h _ <DET> a _ <NOUN> p i z z a _ <VERB> s i t t i n g _ <ADP> a t _ <DET> a _ <NOUN> r e s t a u r a n t _ <NOUN> t a b l e _ <PUNCT> 
+_ <DET> s o m e _ <NOUN> p e o p l e _ <VERB> a r e _ <ADJ> o u t s i d e _ <CCONJ> a n d _ <VERB> h a v i n g _ <NOUN> f u n _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> g i r l s _ <VERB> s i t t i n g _ <ADP> a t _ <DET> t h e _ <NOUN> t a b l e _ <ADP> w i t h _ <DET> a _ <ADJ> p e r s o n a l _ <VERB> s i z e d _ <NOUN> p i z z a _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <PRON> t h e m _ <DET> b o t h _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> w o m e n _ <VERB> e a t i n g _ <NOUN> p i z z a _ <ADP> a t _ <DET> a _ <NOUN> d i n n e r _ <NOUN> t a b l e _ <PUNCT> 
+_ <PROPN> p h o t o _ <ADP> o f _ <NOUN> b a t h r o o m _ <ADP> w i t h _ <NOUN> t a n k _ <ADV> l e s s _ <NOUN> t o i l e t _ <CCONJ> a n d _ <ADJ> b e i g e _ <CCONJ> a n d _ <ADJ> b r o w n _ <NOUN> w a l l s _ <PUNCT> 
+_ <DET> a _ <ADJ> n a r r o w _ <NOUN> b a t h r o o m _ <VERB> h a s _ <NOUN> g o l d _ <NOUN> p a i n t _ <CCONJ> a n d _ <DET> a _ <ADJ> b r o w n _ <NOUN> w a l l _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <NOUN> t o i l e t _ <NOUN> a r e a _ <PRON> t h a t _ <VERB> i s _ <ADV> g r a c e f u l l y _ <VERB> d e c o r a t e d _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <NOUN> b a t h r o o m _ <ADP> w i t h _ <ADV> j u s t _ <DET> a _ <NOUN> t o i l e t _ <CCONJ> a n d _ <NOUN> p i c t u r e s _ <ADP> o n _ <DET> t h e _ <NOUN> w a l l _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <NOUN> b a t h r o o m _ <ADP> w i t h _ <DET> a _ <VERB> t i l e d _ <ADV> b a c k _ <NOUN> w a l l _ <PUNCT> 
+_ <ADV> w e l l _ <VERB> m a d e _ <NOUN> f o o d _ <NOUN> p o t a t o e s _ <ADP> o n _ <DET> a _ <ADJ> w h i t e _ <NOUN> p l a t e _ <PUNCT> 
+_ <DET> s o m e _ <NOUN> s e a f o o d _ <CCONJ> a n d _ <DET> a _ <ADJ> l e m o n _ <ADP> o n _ <DET> a _ <NOUN> p l a t e _ <PUNCT> 
+_ <DET> a _ <NOUN> p l a t e _ <ADP> w i t h _ <NOUN> s c a l l o p s _ <PUNCT> , _ <ADJ> g r e e n _ <NOUN> b e a n s _ <PUNCT> , _ <CCONJ> a n d _ <DET> a _ <ADJ> b a k e d _ <NOUN> p o t a t o _ <PUNCT> 
+_ <DET> a _ <NOUN> p h o t o _ <ADP> o f _ <NOUN> d i n n e r _ <ADP> o n _ <DET> a _ <NOUN> d i n i n g _ <NOUN> t a b l e _ <PUNCT> 
+_ <DET> a _ <NOUN> p i c t u r e _ <ADP> o f _ <DET> a _ <NOUN> d i s h _ <ADP> o f _ <NOUN> s c a l l o p s _ <ADP> o n _ <DET> a _ <ADJ> w h i t e _ <NOUN> p l a t e _ <ADP> w i t h _ <DET> a _ <ADJ> b a k e d _ <NOUN> p o t a t o _ <CCONJ> a n d _ <ADJ> g r e e n _ <NOUN> b e a n s _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <ADP> o n _ <NOUN> s k i s _ <VERB> s t a n d i n g _ <ADP> i n _ <DET> t h e _ <NOUN> s n o w _ <PUNCT> 
+_ <DET> a _ <ADJ> l o n e _ <NOUN> w o m a n _ <NOUN> s k i e s _ <ADP> d o w n _ <DET> t h e _ <NOUN> s l o p e _ <ADP> i n _ <PRON> h e r _ <ADJ> r e d _ <NOUN> s n o w _ <NOUN> j a c k e t _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> r i d i n g _ <NOUN> s k i s _ <ADP> d o w n _ <DET> a _ <NOUN> s n o w _ <VERB> c o v e r e d _ <NOUN> s l o p e _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <PRON> w h o _ <VERB> i s _ <VERB> s t a n d i n g _ <ADP> o n _ <NOUN> s k i _ <PART> ' s _ <ADP> i n _ <DET> t h e _ <NOUN> s n o w _ <PUNCT> 
+_ <DET> a _ <NOUN> s n o w _ <NOUN> s k i e r _ <ADP> o n _ <DET> a _ <ADJ> c r o s s _ <NOUN> c o u n t r y _ <NOUN> t r a i l _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> p e o p l e _ <VERB> l e a n i n g _ <ADP> o n _ <DET> t h e _ <NOUN> e d g e _ <ADP> o f _ <DET> a _ <NOUN> b r i d g e _ <ADP> w i t h _ <NOUN> b o a t s _ <ADP> a l o n g _ <DET> a _ <NOUN> q u a y s i d e _ <ADP> i n _ <DET> t h e _ <NOUN> b a c k g r o u n d _ <PUNCT> 
+_ <DET> a _ <NOUN> c o u p l e _ <ADP> o f _ <NOUN> b o a t s _ <VERB> a r e _ <VERB> p a r k e d _ <ADP> a t _ <DET> a _ <NOUN> d o c k _ <PUNCT> 
+_ <DET> a _ <NOUN> r i v e r _ <CCONJ> a n d _ <NOUN> b o a t s _ <VERB> s e e n _ <ADP> f r o m _ <ADP> a t o p _ <DET> a _ <NOUN> b r i d g e _ <PUNCT> 
+_ <NOUN> p e o p l e _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> b e n c h _ <ADP> a b o v e _ <DET> t h e _ <NOUN> w a t e r _ <PUNCT> 
+_ <DET> a _ <NOUN> c a n a l _ <ADP> w i t h _ <NOUN> b a r g e s _ <ADP> o n _ <PRON> i t _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <NOUN> p a t h _ <ADP> w i t h _ <NOUN> p e o p l e _ <VERB> s i t t i n g _ <ADP> a l o n g s i d e _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <ADJ> g r e e n _ <NOUN> p l a n t _ <VERB> i s _ <VERB> g r o w i n g _ <ADP> i n s i d e _ <ADP> o f _ <DET> a _ <ADJ> g r e e n _ <NOUN> b o t t l e _ <PUNCT> 
+_ <DET> a _ <ADJ> g r e e n _ <NOUN> b o t t l e _ <ADP> w i t h _ <DET> a _ <NOUN> l a b e l _ <ADP> o n _ <PRON> i t _ <ADP> w i t h _ <DET> a _ <NOUN> p l a n t _ <VERB> g r o w i n g _ <ADV> i n s i d e _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o s e - u p _ <ADP> o f _ <DET> a _ <NOUN> b e e r _ <NOUN> b o t t l e _ <ADP> a s _ <DET> a _ <NOUN> v a s e _ <ADP> w i t h _ <DET> a _ <NOUN> f l o w e r _ <ADP> i n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <ADJ> g r e e n _ <NOUN> g l a s s _ <NOUN> d r i n k _ <NOUN> b o t t l e _ <VERB> u s e d _ <ADP> a s _ <DET> a _ <NOUN> v a s e _ <ADP> f o r _ <DET> a _ <NOUN> p l a n t _ <PUNCT> 
+_ <DET> a _ <NOUN> p l a n t _ <PRON> t h a t _ <VERB> i s _ <ADP> i n s i d e _ <ADP> o f _ <DET> a _ <NOUN> b e e r _ <NOUN> b o t t l e _ <PUNCT> 
+_ <ADJ> l a r g e _ <NOUN> w o m a n _ <ADP> o n _ <DET> t h e _ <NOUN> b a c k _ <ADP> o f _ <ADP> o n _ <ADJ> o r a n g e _ <NOUN> m o t o r c y c l e _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> i s _ <VERB> r i d i n g _ <DET> a n _ <ADJ> o r a n g e _ <NOUN> s p o r t s _ <NOUN> m o t o r c y c l e _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> r i d i n g _ <DET> a n _ <ADJ> o r a n g e _ <NOUN> m o t o r c y c l e _ <ADP> o n _ <DET> a _ <NOUN> r a c e _ <NOUN> t r a c k _ <PUNCT> 
+_ <DET> a _ <ADJ> l a r g e _ <NOUN> w o m a n _ <VERB> i s _ <VERB> r i d i n g _ <DET> a _ <NOUN> m o t o r _ <NOUN> b i k e _ <PUNCT> 
+_ <DET> a _ <VERB> s m i l i n g _ <NOUN> w o m a n _ <ADP> o n _ <DET> a _ <ADJ> b r i g h t _ <NOUN> o r a n g e _ <NOUN> m o t o r c y c l e _ <PUNCT> 
+_ <NOUN> m a n _ <ADP> w i t h _ <NOUN> b a l l _ <NOUN> c a p _ <VERB> w e a r i n g _ <NOUN> g l a s s e s _ <VERB> s i t t i n g _ <ADP> u n d e r _ <NOUN> u m b r e l l a _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <ADP> w i t h _ <NOUN> g l a s s e s _ <CCONJ> a n d _ <DET> a _ <NOUN> h a t _ <ADP> o n _ <VERB> l o o k i n g _ <ADP> t o _ <PRON> h i s _ <NOUN> r i g h t _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <VERB> i s _ <VERB> t a k e n _ <ADP> i n _ <DET> t h i s _ <ADV> v e r y _ <NOUN> p i c t u r e _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <ADP> i n _ <DET> a _ <ADJ> g r e e n _ <NOUN> s h i r t _ <PUNCT> , _ <ADJ> b l a c k _ <NOUN> b a s e b a l l _ <NOUN> c a p _ <PUNCT> , _ <CCONJ> a n d _ <ADJ> b l a c k _ <ADJ> r i m m e d _ <NOUN> g l a s s e s _ <ADP> u n d e r n e a t h _ <DET> a _ <ADJ> r e d _ <NOUN> u m b r e l l a _ <NOUN> o u t d o o r s _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> i s _ <VERB> s i t t i n g _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a n _ <NOUN> u m b r e l l a _ <ADP> o u t s i d e _ <DET> a _ <NOUN> r e s t a u r a n t _ <PUNCT> 
+_ <DET> a _ <NOUN> h e r d _ <ADP> o f _ <NOUN> g i r a f f e s _ <VERB> s i t _ <CCONJ> a n d _ <VERB> s t a n d _ <ADP> i n _ <DET> t h e _ <NOUN> d e s e r t _ <PUNCT> 
+_ <DET> a _ <NOUN> h e r d _ <ADP> o f _ <NOUN> g i r a f f e s _ <ADP> o n _ <DET> a _ <ADJ> d r y _ <ADJ> g r a s s y _ <NOUN> p l a i n _ <PUNCT> 
+_ <DET> a _ <ADJ> l a r g e _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> g i r a f f e _ <NOUN> s t a n d i n g _ <ADP> i n _ <DET> a _ <NOUN> f i e l d _ <PUNCT> 
+_ <DET> a _ <NOUN> g i r a f f e _ <VERB> i s _ <VERB> l a y i n g _ <ADP> d o w n _ <ADP> i n _ <DET> a _ <NOUN> f i e l d _ <PUNCT> 
+_ <PROPN> g i r a f f e s _ <VERB> s i t t i n g _ <ADP> i n _ <DET> a _ <ADJ> d r y _ <ADJ> g r a s s y _ <NOUN> f i e l d _ <ADP> d u r i n g _ <DET> t h e _ <NOUN> d a y _ <PUNCT> 
+_ <DET> a _ <ADJ> b r o w n _ <NOUN> b e a r _ <NOUN> s w i m m i n g _ <ADP> i n _ <DET> a _ <NOUN> b o d y _ <ADP> o f _ <NOUN> w a t e r _ <PUNCT> 
+_ <DET> a _ <NOUN> b e a r _ <ADP> i n _ <DET> t h e _ <NOUN> w a t e r _ <VERB> s t i c k i n g _ <PRON> i t s _ <NOUN> t o n g u e _ <ADP> o u t _ <PUNCT> 
+_ <PRON> t h e r e _ <VERB> i s _ <DET> a _ <ADJ> b r o w n _ <NOUN> b e a r _ <PRON> t h a t _ <VERB> i s _ <ADP> i n _ <DET> t h e _ <NOUN> w a t e r _ <ADP> w i t h _ <PRON> h i s _ <NOUN> t o n g u e _ <ADP> o u t _ <PUNCT> 
+_ <DET> a _ <ADJ> b r o w n _ <NOUN> b e a r _ <NOUN> i n t _ <PRON> h e _ <NOUN> w a t e r _ <ADP> w i t h _ <PRON> h i s _ <NOUN> t o n g u e _ <VERB> s t i c k i n g _ <ADP> o u t _ <PUNCT> 
+_ <DET> a _ <NOUN> b e a r _ <VERB> s i t s _ <ADP> i n _ <NOUN> w a t e r _ <ADP> w i t h _ <NOUN> s u n l i g h t _ <VERB> s h i n i n g _ <ADP> o n _ <PRON> h i m _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <ADP> o n _ <DET> s o m e _ <NOUN> m o t o r _ <NOUN> b i k e s _ <ADP> o n _ <DET> a _ <NOUN> r o a d _ <PUNCT> 
+_ <NOUN> m o t o r c y c l i s t s _ <VERB> r i d i n g _ <PRON> t h e i r _ <NOUN> b i k e s _ <ADP> o n _ <DET> a _ <ADJ> h o t _ <NOUN> s u m m e r _ <NOUN> d a y _ <PUNCT> 
+_ <NOUN> m o t o r c y c l i s t s _ <VERB> a r e _ <VERB> l i n e d _ <ADP> u p _ <ADP> i n _ <NOUN> f o r m a t i o n _ <ADP> a l o n g _ <DET> a _ <NOUN> d r i v e w a y _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <ADP> o n _ <NOUN> m o t o r b i k e s _ <VERB> r i d e _ <ADP> o n _ <DET> a _ <NOUN> p a t h _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <ADP> o n _ <NOUN> m o t o r c y c l e s _ <ADP> w i t h _ <NOUN> g r a s s _ <ADP> o n _ <DET> e a c h _ <NOUN> s i d e _ <CCONJ> a n d _ <NOUN> t r e e s _ <PUNCT> 
+_ <DET> a _ <NOUN> l o t _ <ADP> o f _ <NOUN> p e o p l e _ <PRON> t h a t _ <VERB> a r e _ <ADP> i n _ <DET> t h e _ <NOUN> b a c k _ <ADP> o f _ <DET> a _ <NOUN> t r u c k _ <PUNCT> 
+_ <NOUN> s o m e o n e _ <VERB> i s _ <VERB> w a v i n g _ <ADP> f r o m _ <DET> t h e _ <NOUN> b a c k _ <ADP> o f _ <DET> a _ <NOUN> p i c k u p _ <NOUN> t r u c k _ <PUNCT> 
+_ <DET> a _ <NOUN> s t r e e t _ <NOUN> s c e n e _ <ADP> w i t h _ <ADJ> s e v e r a l _ <NOUN> p e o p l e _ <ADP> i n _ <DET> t h e _ <NOUN> b a c k _ <ADP> o f _ <DET> a n _ <ADJ> o l d _ <NOUN> t r u c k _ <PUNCT> 
+_ <DET> a _ <NOUN> c a r _ <ADP> w i t h _ <NOUN> p e o p l e _ <ADP> o n _ <PRON> i t _ <ADP> d u r i n g _ <DET> a _ <NOUN> p a r a d e _ <PUNCT> 
+_ <DET> t h e _ <NOUN> t r u c k _ <VERB> i s _ <VERB> c a r r y i n g _ <NOUN> p e o p l e _ <ADP> i n _ <DET> t h e _ <NOUN> p a r a d e _ <PUNCT> 
+_ <NOUN> p e o p l e _ <VERB> r e l a x i n g _ <ADP> o n _ <DET> t h e _ <NOUN> b e a c h _ <VERB> w a t c h i n g _ <DET> a _ <NOUN> k i t e _ <PUNCT> 
+_ <ADJ> s e v e r a l _ <NOUN> p e o p l e _ <ADP> o n _ <DET> t h e _ <NOUN> b e a c h _ <VERB> l o o k i n g _ <ADP> a t _ <NOUN> s o m e t h i n g _ <ADP> i n _ <DET> t h e _ <NOUN> s k y _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <VERB> s t a n d i n g _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <DET> a _ <NOUN> b e a c h _ <ADP> n e a r _ <DET> t h e _ <NOUN> o c e a n _ <PUNCT> 
+_ <DET> t h e _ <NOUN> p e o p l e _ <ADP> a t _ <DET> t h e _ <NOUN> b e a c h _ <VERB> a r e _ <VERB> e n j o y i n g _ <VERB> w a t c h i n g _ <DET> t h e _ <NOUN> k i t e _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <ADP> a t _ <DET> t h e _ <NOUN> b e a c h _ <VERB> f l y i n g _ <NOUN> k i t e s _ <PUNCT> 
+_ <PRON> t h e r e _ <VERB> a r e _ <ADJ> m a n y _ <NOUN> s h e e p _ <PRON> t h a t _ <VERB> a r e _ <ADP> o n _ <DET> t h i s _ <NOUN> f i e l d _ <PUNCT> 
+_ <ADJ> s e v e r a l _ <NOUN> s h e e p _ <VERB> w a l k i n g _ <CCONJ> o r _ <NOUN> g r a z i n g _ <ADP> o n _ <DET> t h e _ <NOUN> g r a s s _ <PUNCT> 
+_ <DET> a _ <NOUN> h e r d _ <ADP> o f _ <NOUN> s h e e p _ <VERB> s i t t i n g _ <ADP> i n _ <DET> a _ <NOUN> f i e l d _ <NOUN> g r a z i n g _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> s h e e p _ <NOUN> g r a z i n g _ <ADP> i n _ <DET> a _ <NOUN> f i e l d _ <PUNCT> 
+_ <DET> a _ <NOUN> f i e l d _ <PRON> t h a t _ <VERB> h a _ <DET> a _ <NOUN> b u n c h _ <ADP> o f _ <NOUN> s h e e p _ <ADP> i n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <ADJ> a m e r i c a n _ <NOUN> f l a g _ <VERB> p a i n t e d _ <NOUN> f i r e _ <NOUN> h y d r a n t _ <ADP> w i t h _ <NOUN> c h a i n s _ <VERB> h a n g i n g _ <ADP> a t _ <PRON> i t _ <NOUN> s i d e _ <PUNCT> 
+_ <DET> a _ <ADJ> r e d _ <PUNCT> , _ <ADJ> w h i t e _ <CCONJ> a n d _ <ADJ> b l u e _ <NOUN> f i r e _ <NOUN> h y d r a n t _ <ADP> o n _ <DET> a _ <NOUN> c i t y _ <NOUN> s i d e w a l k _ <PUNCT> 
+_ <DET> a _ <NOUN> f i r e _ <NOUN> h y d r a n t _ <VERB> p a i n t e d _ <ADV> e x a c t l y _ <ADP> a s _ <DET> t h e _ <ADJ> p a t r i o t i c _ <NOUN> f l a g _ <PUNCT> 
+_ <DET> a _ <NOUN> f i r e _ <NOUN> h y d r a n t _ <VERB> i s _ <VERB> d e c o r a t e d _ <ADP> w i t h _ <DET> a n _ <ADJ> a m e r i c a n _ <NOUN> f l a g _ <NOUN> d e s i g n _ <PUNCT> 
+_ <DET> a _ <NOUN> f i r e _ <NOUN> h y d r a n t _ <PRON> t h a t _ <VERB> h a s _ <DET> t h e _ <NOUN> s t a r s _ <CCONJ> a n d _ <NOUN> s t r i p e s _ <ADP> o n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <ADJ> s o l e _ <ADJ> y e l l o w _ <NOUN> f l o w e r _ <VERB> e m e r g e s _ <ADP> f r o m _ <DET> a _ <ADJ> b l u e _ <NOUN> v a s e _ <PUNCT> 
+_ <DET> a _ <ADJ> b l u e _ <NOUN> v a s e _ <VERB> f i l l e d _ <ADP> w i t h _ <NOUN> w a t e r _ <CCONJ> a n d _ <DET> a _ <ADJ> y e l l o w _ <NOUN> f l o w e r _ <PUNCT> 
+_ <DET> a _ <ADJ> y e l l o w _ <NOUN> f l o w e r s _ <VERB> s t a n d s _ <ADP> i n _ <DET> a _ <ADJ> s m a l l _ <ADJ> b l u e _ <NOUN> v a s e _ <PUNCT> 
+_ <DET> a _ <ADJ> p i t i f u l _ <VERB> l o o k i n g _ <NOUN> d a n d e l i o n _ <ADP> i n _ <DET> a n _ <ADJ> a n t i q u e _ <VERB> l o o k i n g _ <NOUN> v a s e _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <ADJ> b l u e _ <NOUN> v a s e _ <VERB> c o n t a i n i n g _ <DET> a _ <ADJ> s i n g l e _ <NOUN> f l o w e r _ <PUNCT> 
+_ <DET> a _ <NOUN> l a d y _ <PRON> t h a t _ <VERB> h a s _ <DET> a _ <NOUN> t e n n i s _ <NOUN> r a c k e t _ <ADP> i n _ <NOUN> h a n d _ <PUNCT> 
+_ <DET> t h e _ <NOUN> w o m a n _ <VERB> i s _ <VERB> p l a y i n g _ <NOUN> t e n n i s _ <ADP> o n _ <DET> t h e _ <NOUN> c o u r t _ <PUNCT> 
+_ <DET> a _ <NOUN> g i r l _ <VERB> r e a c h e s _ <ADP> f o r _ <DET> a _ <NOUN> b a l l _ <ADP> w i t h _ <PRON> h e r _ <NOUN> t e n n s i _ <NOUN> r a c k e t _ <PUNCT> 
+_ <DET> t h e _ <ADJ> f e m a l e _ <NOUN> t e n n i s _ <NOUN> p l a y e r _ <VERB> i s _ <VERB> w e a r i n g _ <ADJ> r e d _ <CCONJ> a n d _ <ADJ> w h i t e _ <PUNCT> 
+_ <DET> a _ <ADJ> y o u n g _ <ADJ> f e m a l e _ <NOUN> s w i n g i n g _ <ADP> a t _ <DET> a _ <NOUN> t e n n i s _ <NOUN> b a l l _ <VERB> c o m i n g _ <ADP> i n _ <ADJ> l o w _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <VERB> h o l d i n g _ <DET> a _ <NOUN> k n i f e _ <CCONJ> a n d _ <NOUN> f o r k _ <VERB> e a t i n g _ <DET> a _ <NOUN> p i z z a _ <PUNCT> 
+_ <DET> a _ <NOUN> p i z z a _ <VERB> i s _ <PROPN> f i l l _ <ADP> w i t h _ <PROPN> b a c o n _ <PROPN> o n _ <PROPN> i t _ <PUNCT> 
+_ <DET> a _ <NOUN> p i z z a _ <VERB> s i t t i n g _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <DET> a _ <NOUN> p l a t e _ <ADP> o n _ <DET> a _ <NOUN> t a b l e _ <PUNCT> 
+_ <DET> a _ <NOUN> p i z z a _ <ADP> w i t h _ <NOUN> c h e e s e _ <CCONJ> a n d _ <NOUN> m e a t _ <VERB> b e i n g _ <VERB> c u t _ <ADP> b y _ <DET> a _ <NOUN> k n i f e _ <CCONJ> a n d _ <NOUN> f o r k _ <PUNCT> 
+_ <DET> a _ <NOUN> p i z z a _ <ADP> w i t h _ <NOUN> m e a t _ <VERB> s e r v e d _ <ADP> o n _ <DET> a _ <NOUN> p l a t e _ <ADP> w i t h _ <DET> a _ <NOUN> b e e r _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> m e n _ <VERB> r i d i n g _ <ADP> o n _ <DET> t h e _ <NOUN> b a c k s _ <ADP> o f _ <NOUN> e l e p h a n t s _ <PUNCT> 
+_ <DET> a _ <NOUN> b u n c h _ <ADP> o f _ <NOUN> e l e p h a n t s _ <VERB> m o v i n g _ <ADP> d o w n _ <DET> t h e _ <NOUN> r o a d _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <NOUN> h e r d _ <ADP> o f _ <NOUN> e l e p h a n t s _ <ADP> w i t h _ <NOUN> s a d d l e s _ <VERB> w a l k _ <ADP> t h r o u g h _ <DET> a _ <NOUN> d o o r _ <ADP> i n _ <DET> a _ <NOUN> c i t y _ <PUNCT> 
+_ <DET> s o m e _ <NOUN> f o l k s _ <VERB> r i d i n g _ <PRON> t h e i r _ <NOUN> e l e p h a n t s _ <ADP> d o w n _ <DET> a n _ <ADJ> o u t s i d e _ <NOUN> w a l k w a y _ <PUNCT> 
+_ <NUM> f o u r _ <NOUN> e l e p h a n t s _ <ADP> w i t h _ <NOUN> p e o p l e _ <VERB> r i d i n g _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <PRON> t h e m _ <PUNCT> 
+_ <DET> a _ <NOUN> s t r e e t _ <NOUN> s c e n e _ <ADP> o f _ <DET> a _ <NOUN> r o a d _ <VERB> g o i n g _ <ADP> t h r o u g h _ <DET> t h e _ <NOUN> m o u n t a i n s _ <PUNCT> 
+_ <DET> a _ <ADJ> y e l l o w _ <NOUN> c a r _ <VERB> d r i v i n g _ <ADV> a w a y _ <ADP> o n _ <DET> t h e _ <NOUN> r o a d _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <ADJ> y e l l o w _ <NOUN> c a r _ <VERB> g o i n g _ <ADP> a r o u n d _ <DET> a _ <NOUN> t u r n _ <CCONJ> a n d _ <DET> a _ <NOUN> s i g n _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <ADJ> y e l l o w _ <CCONJ> a n d _ <ADJ> b l a c k _ <NOUN> c a r _ <VERB> d r i v i n g _ <ADP> a r o u n d _ <DET> t h e _ <NOUN> b e n d _ <ADP> o f _ <DET> a _ <NOUN> r o a d _ <ADP> b e t w e e n _ <ADJ> l a r g e _ <NOUN> h i l l _ <NOUN> f o r m a t i o n s _ <PUNCT> 
+_ <DET> a _ <NOUN> r o a d _ <VERB> c u r v i n g _ <ADP> a r o u n d _ <NOUN> h i l l s _ <VERB> h a s _ <NUM> o n e _ <NOUN> c a r _ <ADP> o n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <ADJ> l a r g e _ <NOUN> h e a d _ <ADP> o f _ <NOUN> b r o c c o l i _ <ADP> i n _ <DET> a _ <ADJ> g r e e n _ <NOUN> g a r d e n _ <PUNCT> 
+_ <DET> a _ <NOUN> h e a d _ <ADP> o f _ <NOUN> b r o c c o l i _ <VERB> g r o w s _ <ADP> i n _ <DET> a _ <NOUN> g a r d e n _ <PUNCT> 
+_ <NOUN> b r o c c o l i _ <VERB> i s _ <VERB> g r o w i n g _ <ADP> i n _ <DET> t h e _ <ADJ> b r i g h t _ <NOUN> s h u n y _ <NOUN> s u n l i g h t _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o s e _ <ADP> u p _ <ADP> o f _ <DET> s o m e _ <ADV> f r e s h l y _ <VERB> g r o w n _ <NOUN> b r o c c o l i _ <PUNCT> 
+_ <ADP> u p _ <ADJ> c l o s e _ <NOUN> p i c t u r e _ <ADP> o f _ <NOUN> b r o c c o l i _ <ADP> w i t h _ <NOUN> p l a n t s _ <ADP> b e h i n d _ <PRON> i t _ <PUNCT> 
+_ <DET> t h e _ <VERB> s m i l i n g _ <NOUN> g i r l _ <VERB> i s _ <VERB> h o l d i n g _ <DET> a _ <NOUN> t e n n i s _ <NOUN> r a c q u e t _ <PUNCT> 
+_ <DET> a _ <ADJ> y o u n g _ <NOUN> w o m a n _ <VERB> r u n n i n g _ <ADP> w h i l e _ <VERB> h o l d i n g _ <DET> a _ <NOUN> t e n n i s _ <NOUN> r a c k e t _ <PUNCT> 
+_ <DET> a _ <ADJ> y o u n g _ <NOUN> l a d y _ <VERB> h o l d i n g _ <DET> a _ <NOUN> t e n n i s _ <NOUN> r a c q u e t _ <ADP> i n _ <PRON> h e r _ <NOUN> h a n d s _ <PUNCT> 
+_ <DET> a _ <NOUN> g i r l _ <PRON> w h o _ <VERB> i s _ <VERB> s m i l i n g _ <VERB> h o l d i n g _ <DET> a _ <NOUN> t e n n i s _ <NOUN> r a c k e t _ <PUNCT> 
+_ <DET> a _ <NOUN> g i r l _ <VERB> s m i l e s _ <ADP> w h i l e _ <VERB> h o l d i n g _ <DET> a _ <NOUN> t e n n i s _ <NOUN> r a c k e t _ <PUNCT> 
+_ <DET> a _ <NOUN> c i t y _ <NOUN> s i d e w a l k _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a _ <NOUN> w i n e r y _ <PUNCT> 
+_ <DET> t h e _ <NOUN> w i n e r y _ <NOUN> s i g n _ <VERB> i s _ <ADV> v e r y _ <ADJ> v i s i b l e _ <ADP> a t _ <NOUN> n i g h t _ <PUNCT> 
+_ <DET> a _ <ADJ> o u t s i d e _ <NOUN> s i d e w a l k _ <NOUN> v i e w _ <ADP> o f _ <PROPN> f i s h e r _ <PROPN> k i n g _ <PROPN> w i n e r y _ <PUNCT> 
+_ <DET> a _ <ADJ> c o l o r f u l _ <NOUN> s i g n _ <NOUN> h a n d s _ <ADP> o v e r _ <DET> a _ <NOUN> s i d e w a l k _ <ADP> a g a i n s t _ <DET> a _ <ADJ> r e d _ <PUNCT> , _ <NOUN> b r i c k _ <NOUN> b u i l d i n g _ <PUNCT> 
+_ <DET> a _ <NOUN> s i d e w a l k _ <ADP> o u t s i d e _ <ADP> o f _ <DET> a _ <NOUN> w i n e r y _ <ADP> w i t h _ <NOUN> t a b l e s _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> s t a n d i n g _ <ADP> u p _ <ADP> i n _ <DET> a _ <ADJ> s m a l l _ <NOUN> k i t c h e n _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <NOUN> s t a n d i n g _ <ADP> w i t h _ <PRON> h e r _ <NOUN> h a n d s _ <ADP> o n _ <PRON> h e r _ <NOUN> h i p s _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> s t a n d s _ <ADP> i n _ <DET> a _ <ADJ> s m a l l _ <NOUN> k i t c h e n e t t e _ <NOUN> a r e a _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <NOUN> s t a n d i n g _ <ADP> i n _ <DET> a _ <NOUN> k i t c h e n _ <ADP> w i t h _ <DET> a _ <ADJ> c o n c e r n e d _ <NOUN> l o o k _ <ADP> o n _ <PRON> h e r _ <NOUN> f a c e _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <NOUN> s t a n d i n g _ <ADP> i n _ <DET> a _ <NOUN> k i t c h e n _ <ADP> w i t h _ <PRON> h e r _ <NOUN> h a n d s _ <ADP> o n _ <PRON> h e r _ <NOUN> h i p s _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <ADJ> y o u n g _ <NOUN> m e n _ <VERB> s t a n d i n g _ <ADV> a r o u n d _ <ADP> i n _ <NOUN> b a s e b a l l _ <NOUN> u n i f o r m s _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> b a s e b a l l _ <NOUN> p l a y e r s _ <VERB> s t a n d i n g _ <ADV> a r o u n d _ <PUNCT> , _ <ADP> w h i l e _ <DET> s o m e _ <VERB> h o l d _ <NOUN> b a s e b a l l _ <NOUN> b a t s _ <PUNCT> 
+_ <DET> a _ <NOUN> t e a m _ <ADP> o f _ <NOUN> b a s e b a l l _ <NOUN> p l a y e r s _ <VERB> a r e _ <VERB> g a t h e r e d _ <ADV> c l o s e l y _ <ADV> t o g e t h e r _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> b a s e b a l l _ <NOUN> p l a y e r s _ <VERB> s t a n d i n g _ <ADP> i n _ <DET> a _ <NOUN> g r o u p _ <PUNCT> 
+_ <PRON> t h e r e _ <VERB> a r e _ <ADJ> m a n y _ <NOUN> b a s e b a l l _ <NOUN> p l a y e r s _ <VERB> g a t h e r e d _ <ADV> t o g e t h e r _ <ADV> h e r e _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NUM> t h r e e _ <NOUN> b i r d s _ <VERB> p e r c h e d _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <DET> a _ <NOUN> p o w e r _ <NOUN> l i n e _ <PUNCT> 
+_ <NUM> t h r e e _ <NOUN> b i r d s _ <ADP> o n _ <NOUN> p o w e r _ <NOUN> l i n e s _ <ADP> w i t h _ <ADJ> d a r k _ <NOUN> c l o u d s _ <ADP> i n _ <DET> t h e _ <NOUN> s k y _ <PUNCT> 
+_ <DET> s o m e _ <NOUN> b i r d s _ <PRON> t h a t _ <VERB> a r e _ <VERB> h a n g i n g _ <ADP> o n _ <DET> a _ <NOUN> w i r e _ <ADV> t o g e t h e r _ <PUNCT> 
+_ <NUM> t h r e e _ <NOUN> b i r d s _ <VERB> s i t t i n g _ <ADJ> n e x t _ <ADP> t o _ <DET> e a c h _ <ADJ> o t h e r _ <ADP> o n _ <DET> a n _ <ADJ> e l e c t r i c a l _ <NOUN> w i r e _ <PUNCT> 
+_ <NUM> t h r e e _ <NOUN> b i r d s _ <VERB> a r e _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> w i r e _ <ADP> a g a i n s t _ <DET> t h e _ <ADJ> c l o u d y _ <NOUN> s k y _ <PUNCT> 
+_ <DET> a _ <ADJ> l a r g e _ <ADJ> g r a y _ <NOUN> e l e p h a n t _ <VERB> i s _ <VERB> s t a n d i n g _ <ADP> i n _ <NOUN> g r a s s _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <NOUN> r i v e r _ <PUNCT> 
+_ <DET> a _ <NOUN> b o d y _ <ADP> o f _ <NOUN> w a t e r _ <ADP> w i t h _ <DET> a n _ <NOUN> e l e p h a n t _ <ADP> i n _ <DET> t h e _ <NOUN> b a c k g r o u n d _ <PUNCT> 
+_ <DET> a n _ <NOUN> e l e p h a n t _ <CCONJ> a n d _ <PRON> i t s _ <ADJ> l a r g e _ <NOUN> e a r s _ <VERB> r e f l e c t e d _ <ADP> i n _ <NOUN> w a t e r _ <PUNCT> 
+_ <DET> a n _ <NOUN> e l e p h a n t _ <VERB> i s _ <VERB> s t a n d i n g _ <ADP> i n _ <DET> s o m e _ <ADJ> t a l l _ <NOUN> g r a s s _ <ADP> b y _ <DET> s o m e _ <NOUN> w a t e r _ <PUNCT> 
+_ <DET> t h e _ <NOUN> e l e p h a n t _ <VERB> s t a n d s _ <ADP> i n _ <DET> t h e _ <NOUN> g r a s s _ <ADP> n e a r _ <DET> t h e _ <NOUN> w a t e r _ <PUNCT> 
+_ <DET> a _ <NOUN> l a p t o p _ <ADP> o n _ <DET> a _ <NOUN> d e s k _ <ADP> w i t h _ <DET> a n o t h e r _ <NOUN> m o n i t o r _ <PUNCT> 
+_ <DET> a _ <NOUN> c o m p u t e r _ <NOUN> d e s k _ <ADP> w i t h _ <DET> a _ <NOUN> k e y b o a r d _ <PUNCT> , _ <NOUN> l a p t o p _ <CCONJ> a n d _ <NOUN> c o m p u t e r _ <NOUN> m o n i t o r _ <PUNCT> 
+_ <DET> a _ <ADJ> w o o d e n _ <NOUN> d e s k _ <ADP> w i t h _ <DET> a _ <NOUN> l a p _ <NOUN> t o p _ <CCONJ> a n d _ <DET> a _ <NOUN> d e s k t o p _ <NOUN> m o n i t o r _ <PUNCT> 
+_ <DET> a _ <NOUN> d e s k _ <ADP> w i t h _ <DET> a _ <NOUN> l a p t o p _ <PUNCT> , _ <NOUN> c o m p u t e r _ <NOUN> m o n i t o r _ <CCONJ> a n d _ <DET> a _ <NOUN> k e y b o a r d _ <PUNCT> 
+_ <DET> a _ <ADJ> w o o d e n _ <NOUN> d e s k _ <VERB> t o p p e d _ <ADP> w i t h _ <DET> a _ <ADJ> l a p t o p _ <NOUN> c o m p u t e r _ <PUNCT> 
+_ <DET> a _ <NOUN> b o y _ <VERB> i s _ <PROPN> s k a t e b o a r d i n g _ <ADP> i n _ <DET> a _ <NOUN> m e s h _ <NOUN> u n d e r p a s s _ <PUNCT> 
+_ <DET> a _ <ADJ> y o u n g _ <NOUN> m a n _ <ADP> o n _ <DET> a _ <NOUN> s k a t e _ <NOUN> b o a r d _ <ADP> i n _ <DET> a _ <ADJ> p e d e s t r i a n _ <NOUN> o v e r p a s s _ <PUNCT> 
+_ <DET> a _ <NOUN> b o y _ <VERB> d o i n g _ <NOUN> s k a t e b o a r d _ <NOUN> t r i c k s _ <ADP> i n _ <DET> a _ <ADJ> c a g e d _ <ADJ> c o n c r e t e _ <NOUN> a r e a _ <PUNCT> 
+_ <NOUN> s k a t e b o a r d e r _ <VERB> g r i n d i n g _ <DET> a _ <NOUN> l e d g e _ <ADP> i n _ <DET> a n _ <ADJ> e n - f e n c e d _ <NOUN> a r e a _ <PUNCT> 
+_ <DET> a _ <ADJ> b l a c k _ <NOUN> y o u t h _ <NOUN> r i d e s _ <PRON> h i s _ <NOUN> s k a t e b o a r d _ <ADP> o v e r _ <DET> a _ <NOUN> f o o t b r i d g e _ <PUNCT> 
+_ <NOUN> m o t o r c y c l e s _ <VERB> p a r k e d _ <ADP> i n _ <DET> a _ <NOUN> r o w _ <ADP> i n _ <DET> t h e _ <NOUN> s t r e e t _ <PUNCT> 
+_ <ADJ> m a n y _ <NOUN> m o t o r c y c l e s _ <VERB> a r e _ <VERB> l i n e d _ <ADP> u p _ <ADP> o n _ <DET> t h e _ <NOUN> s i d e _ <ADP> o f _ <DET> a _ <NOUN> s t r e e t _ <PUNCT> 
+_ <DET> a _ <NOUN> l i n e _ <ADP> o f _ <NOUN> m o t o r c y c l e s _ <VERB> p a r k e d _ <ADP> o n _ <DET> t h e _ <NOUN> s i d e _ <ADP> o f _ <DET> a _ <NOUN> s t r e e t _ <PUNCT> 
+_ <ADJ> m a n y _ <NOUN> m o t o r c y c l e s _ <VERB> a r e _ <VERB> p a r k e d _ <ADP> i n _ <DET> a _ <NOUN> r o w _ <ADP> a l o n g _ <DET> t h e _ <NOUN> b u i l d i n g _ <PUNCT> 
+_ <DET> a _ <NOUN> l i n e _ <ADP> o f _ <NOUN> m o t o r c y c l e s _ <VERB> a r e _ <DET> a l l _ <VERB> p a r k e d _ <ADJ> n e x t _ <ADP> t o _ <DET> e a c h _ <ADJ> o t h e r _ <PUNCT> 
+_ <DET> a _ <NOUN> s k a t e b o a r d e r _ <VERB> r i d i n g _ <DET> a _ <NOUN> r a i l _ <ADP> o n _ <DET> a _ <NOUN> s k a t e b o a r d _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <PRON> t h a t _ <VERB> i s _ <VERB> j u m p i n g _ <PRON> h i s _ <NOUN> s k a t e b o a r d _ <ADP> o v e r _ <DET> a _ <NOUN> r a i l _ <PUNCT> 
+_ <DET> a _ <NOUN> s k a t e b o r d e r _ <VERB> d o i n g _ <DET> a _ <NOUN> t r i c k _ <ADP> o n _ <DET> a _ <NOUN> r a i l i n g _ <PUNCT> 
+_ <PRON> t h e r e _ <VERB> i s _ <DET> a _ <NOUN> m a n _ <ADP> o n _ <DET> a _ <NOUN> s k a t e _ <NOUN> b o a r d _ <VERB> d o i n g _ <DET> a _ <NOUN> t r i c k _ <PUNCT> 
+_ <DET> a _ <ADJ> y o u n g _ <NOUN> s k a t e b o a r d e r _ <VERB> s t a n d s _ <ADP> o n _ <PRON> h i s _ <NOUN> b o a r d _ <ADP> o n _ <DET> a _ <NOUN> r a i l _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <ADP> w i t h _ <DET> a _ <NOUN> t e n n i s _ <NOUN> r a c k e t _ <VERB> i s _ <VERB> t y i n g _ <PRON> h e r _ <NOUN> s h o e s _ <PUNCT> 
+_ <DET> a _ <NOUN> t e n n i s _ <NOUN> p l a y e r _ <VERB> i s _ <VERB> t y i n g _ <PRON> h e r _ <NOUN> s h o e _ <ADP> w i t h _ <PRON> h e r _ <NOUN> t e n n i s _ <NOUN> r a c k e t _ <ADP> o n _ <DET> t h e _ <NOUN> g r o u n d _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <ADP> o n _ <DET> a _ <NOUN> t e n n i s _ <NOUN> c o u r t _ <VERB> t y i n g _ <PRON> h e r _ <NOUN> s h o e _ <PUNCT> 
+_ <PRON> s h e _ <AUX> m u s t _ <VERB> t i e _ <PRON> h e r _ <NOUN> s h o e _ <ADV> f i r s t _ <ADV> s o _ <ADP> t h a t _ <PRON> s h e _ <VERB> d o e s _ <ADV> n ' t _ <NOUN> t r i p _ <PUNCT> 
+_ <DET> a _ <NOUN> t e n n i s _ <NOUN> p l a y e r _ <VERB> b e n d s _ <ADP> o v e r _ <ADP> t o _ <VERB> t i e _ <PRON> h e r _ <NOUN> s h o e _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> d o u g h n u t _ <NOUN> h o l e s _ <ADP> i n _ <DET> a _ <NOUN> b o w l _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <NOUN> c u p _ <ADP> o f _ <NOUN> c o f f e e _ <PUNCT> 
+_ <DET> a _ <NOUN> c u p _ <ADP> o f _ <NOUN> c o f f e e _ <CCONJ> a n d _ <DET> a _ <NOUN> b o w l _ <ADP> o f _ <NOUN> m u f f i n s _ <ADP> o n _ <DET> a _ <NOUN> d i n i n g _ <NOUN> t a b l e _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o s e _ <ADP> u p _ <ADP> o f _ <DET> a _ <NOUN> b o w l _ <ADP> o f _ <NOUN> f o o d _ <ADP> n e a r _ <DET> a _ <NOUN> c u p _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <NOUN> b o w l _ <VERB> c o n t a i n i n g _ <NOUN> f o o d _ <ADP> b e s i d e _ <DET> a _ <NOUN> c o f f e e _ <NOUN> c u p _ <PUNCT> 
+_ <DET> a _ <NOUN> c u p _ <ADP> o f f _ <NOUN> c o f f e e _ <CCONJ> a n d _ <NUM> t w o _ <NOUN> m u f f i n s _ <ADP> o n _ <DET> a _ <NOUN> t a b l e _ <PUNCT> 
+_ <NUM> t h r e e _ <NOUN> m e n _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> c o u c h _ <VERB> s m i l i n g _ <ADP> a t _ <DET> e a c h _ <ADJ> o t h e r _ <PUNCT> 
+_ <NUM> t h r e e _ <NOUN> m e n _ <VERB> h a v i n g _ <DET> a _ <ADJ> g o o d _ <NOUN> t i m e _ <VERB> s o c i a l i z i n g _ <ADP> w i t h _ <NUM> o n e _ <DET> a n o t h e r _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> m e n _ <PRON> t h a t _ <VERB> a r e _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> c o u c h _ <PUNCT> 
+_ <DET> a _ <NOUN> p h o t o _ <ADP> o f _ <NUM> t h r e e _ <NOUN> m e n _ <VERB> s i t t i n g _ <ADV> t o g e t h e r _ <ADP> o n _ <DET> t h e _ <NOUN> c o u c h _ <PUNCT> 
+_ <NUM> t h r e e _ <NOUN> m e n _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> c o u c h _ <ADP> i n _ <DET> a _ <NOUN> l i v i n g _ <NOUN> r o o m _ <PUNCT> 
+_ <DET> t h e _ <NOUN> c a t _ <VERB> i s _ <VERB> l a y i n g _ <ADP> d o w n _ <ADP> w h i l e _ <NOUN> s o m e o n e _ <VERB> r u b s _ <PRON> i t _ <VERB> ' s _ <NOUN> h e a d _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> i s _ <VERB> s c r a t c h i n g _ <DET> t h e _ <NOUN> c a t _ <ADP> o n _ <DET> t h e _ <NOUN> h e a d _ <PUNCT> 
+_ <DET> t h i s _ <NOUN> t a b b y _ <NOUN> c a t _ <AUX> m u s t _ <VERB> t r u s t _ <DET> t h i s _ <NOUN> m a n _ <ADP> s i n c e _ <PRON> s h e _ <VERB> i s _ <VERB> s h o w i n g _ <PRON> h e r _ <NOUN> s t o m a c h _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> s c r a t c h e s _ <DET> t h e _ <NOUN> h e a d _ <ADP> o f _ <DET> a _ <ADJ> r e l a x i n g _ <NOUN> h o u s e _ <NOUN> c a t _ <PUNCT> 
+_ <DET> t h e _ <ADJ> l e f t _ <NOUN> h a n d _ <ADP> o f _ <DET> a _ <NOUN> m a n _ <VERB> p e t t i n g _ <DET> a _ <NOUN> b o b c a t _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <ADP> u n d e r _ <DET> a _ <ADJ> y e l l o w _ <NOUN> u m b r e l l a _ <ADP> w i t h _ <DET> a _ <NOUN> l a p t o p _ <PUNCT> 
+_ <DET> a _ <ADJ> y o u n g _ <NOUN> w o m a n _ <VERB> s i t s _ <ADP> a t _ <PRON> h e r _ <NOUN> l a p t o p _ <ADP> n e a r _ <VERB> p a r k e d _ <NOUN> c a r s _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <ADP> o n _ <DET> a _ <NOUN> l a p t o p _ <VERB> s i t t i n g _ <ADP> u n d e r _ <DET> a _ <ADJ> y e l l o w _ <NOUN> u m b r e l l a _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> s i t t i n g _ <ADP> a t _ <DET> a n _ <ADJ> o u t d o o r _ <NOUN> t a b l e _ <VERB> w o r k i n g _ <ADP> o n _ <DET> a _ <NOUN> l a p t o p _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <VERB> s i t t i n g _ <ADP> a t _ <DET> a _ <ADJ> s m a l l _ <NOUN> t a b l e _ <ADP> w i t h _ <DET> a _ <NOUN> l a p t o p _ <PUNCT> 
+_ <ADJ> m a l e _ <NOUN> s k a t e b o a r d e r _ <VERB> u t i l i z i n g _ <VERB> c e m e n t e d _ <ADJ> c u r v e d _ <NOUN> a q u e d u c t _ <NOUN> s t r u c t u r e _ <ADP> o n _ <ADJ> s u n n y _ <NOUN> d a y _ <PUNCT> 
+_ <DET> a _ <NOUN> g u y _ <NOUN> r i d e s _ <DET> a _ <NOUN> s k a t e b o a r d _ <ADP> i n _ <DET> a n _ <NOUN> o v e r f l o w _ <NOUN> d i t c h _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <NOUN> r i d e s _ <PRON> h i s _ <NOUN> s k a t e b o a r d _ <ADP> n e a r _ <DET> a _ <NOUN> d r a i n _ <NOUN> p i p e _ <NOUN> s y s t e m _ <PUNCT> 
+_ <DET> a _ <NOUN> b o y _ <ADP> o n _ <DET> a _ <NOUN> s k a t e _ <NOUN> b o a r d _ <VERB> r i d i n g _ <ADP> o n _ <NOUN> c o n c r e t e _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <VERB> r i d i n g _ <DET> a _ <NOUN> s k a t e _ <NOUN> b o a r d _ <ADP> a b o v e _ <DET> a _ <ADJ> b i g _ <NOUN> p i p e _ <PUNCT> 
+_ <NOUN> p e o p l e _ <ADP> w i t h _ <NOUN> l o t s _ <ADP> o f _ <NOUN> b o x e s _ <ADP> o n _ <DET> t h e _ <NOUN> p i e r _ <PUNCT> 
+_ <DET> a _ <NOUN> b u n c h _ <ADP> o f _ <NOUN> b o a t s _ <PRON> t h a t _ <VERB> a r e _ <VERB> s i t t i n g _ <ADP> i n _ <DET> t h e _ <NOUN> w a t e r _ <PUNCT> 
+_ <ADJ> s e v e r a l _ <NOUN> b o a t s _ <ADP> i n _ <DET> a _ <NOUN> r i v e r _ <CCONJ> a n d _ <NOUN> t r u c k s _ <ADP> n e a r _ <DET> t h e _ <NOUN> r i v e r _ <PUNCT> 
+_ <DET> a _ <ADJ> l a r g e _ <NOUN> b o d y _ <ADP> o f _ <NOUN> w a t e r _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <NOUN> s h o r e _ <VERB> f i l l e d _ <ADP> w i t h _ <NOUN> c l u t t e r _ <PUNCT> 
+_ <ADJ> m a n y _ <ADJ> s m a l l _ <NOUN> b o a t s _ <VERB> d o c k e d _ <ADP> i n _ <DET> t h e _ <NOUN> w a t e r _ <ADV> t o g e t h e r _ <PUNCT> 
+_ <DET> a _ <PROPN> m a r i o _ <NOUN> b r o t h e r s _ <NOUN> t o y _ <ADP> i n _ <DET> a _ <ADJ> b r o w n _ <NOUN> b o o t _ <PUNCT> 
+_ <DET> a _ <ADJ> l i t t l e _ <NOUN> t o y _ <NOUN> m a r i o _ <PRON> t h a t _ <VERB> i s _ <ADP> i n _ <DET> t h e _ <NOUN> t o p _ <ADP> o f _ <DET> a _ <NOUN> b o o t _ <PUNCT> 
+_ <DET> a _ <NOUN> t o y _ <PRON> t h a t _ <VERB> i s _ <VERB> s i t t i n g _ <ADP> i n s i d e _ <ADP> o f _ <DET> a _ <NOUN> s h o e _ <PUNCT> 
+_ <DET> t h e _ <NOUN> t o y _ <NOUN> f i g u r i n e _ <ADP> o f _ <DET> a _ <NOUN> v i d e o _ <NOUN> g a m e _ <NOUN> c h a r a c t e r _ <VERB> i s _ <ADP> i n _ <DET> a _ <NOUN> b o o t _ <PUNCT> 
+_ <DET> a _ <NOUN> t o y _ <NOUN> f i g u r i n e _ <PRON> t h a t _ <VERB> h a s _ <VERB> b e e n _ <VERB> p l a c e d _ <ADP> i n _ <DET> a _ <NOUN> s h o e _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> g i r a f f e s _ <VERB> l o o k i n g _ <ADP> a t _ <DET> t h e _ <ADJ> o t h e r _ <NOUN> a n i m a l s _ <ADP> i n _ <DET> t h e _ <NOUN> e n c l o s u r e _ <PUNCT> 
+_ <PROPN> g i r a f f e s _ <VERB> s t a n d _ <ADP> a r o u n d _ <ADP> i n _ <DET> t h e _ <ADJ> w i l d _ <NOUN> a n i m a l _ <NOUN> p a r k _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> g i r a f f e s _ <CCONJ> a n d _ <ADJ> s e v e r a l _ <ADJ> o t h e r _ <ADJ> l a r g e _ <NOUN> a n i m a l s _ <VERB> r o a m _ <DET> a _ <ADJ> t r o p i c a l _ <NOUN> z o o _ <NOUN> p a d d o c k _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> g i r a f f e _ <VERB> a r e _ <VERB> s t a n d i n g _ <CCONJ> a n d _ <DET> t h e _ <ADJ> o t h e r _ <NOUN> a n i m a l s _ <VERB> a r e _ <VERB> w a l k i n g _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> g i r a f f e _ <PART> ' s _ <CCONJ> a n d _ <DET> a _ <NOUN> w a t e r _ <NOUN> b u f f a l o _ <ADP> i n _ <DET> a _ <NOUN> z o o _ <NOUN> t y p e _ <NOUN> e n v i r o n m e n t _ <PUNCT> 
+_ <DET> a _ <NOUN> c a t _ <VERB> i s _ <VERB> l a y i n g _ <ADP> o n _ <DET> a _ <NOUN> f l o o r _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <NOUN> f i s h b o w l _ <PUNCT> 
+_ <DET> a _ <NOUN> c a t _ <VERB> l y i n g _ <ADP> o n _ <NOUN> c a r p e t _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <NOUN> f i s h b o w l _ <PUNCT> 
+_ <DET> a _ <NOUN> c a t _ <VERB> l a y i n g _ <ADP> o n _ <DET> t h e _ <NOUN> f l o o r _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <NOUN> f i s h _ <NOUN> b o w l _ <PUNCT> 
+_ <DET> a _ <NOUN> c a t _ <VERB> s i t t i n g _ <ADJ> n e x t _ <ADP> t o _ <DET> a n _ <ADJ> e m p t y _ <NOUN> f i s h _ <NOUN> b o w l _ <PUNCT> 
+_ <DET> a _ <ADJ> b r o w n _ <CCONJ> a n d _ <ADJ> b l a c k _ <NOUN> c a t _ <VERB> i s _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> f l o o r _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <NOUN> f i s h _ <NOUN> b o w l _ <PUNCT> 
+_ <DET> a _ <ADJ> b e a u t i f u l _ <ADJ> n e w _ <NOUN> k i t c h e n _ <ADP> w i t h _ <ADJ> n a t u r a l _ <NOUN> w o o d _ <NOUN> c a b i n e t s _ <PUNCT> 
+_ <DET> a _ <ADJ> n e a t _ <PUNCT> , _ <NOUN> w o o d _ <VERB> f i l l e d _ <NOUN> k i t c h e n _ <VERB> i s _ <VERB> p h o t o g r a p h e d _ <ADP> a s _ <ADP> i f _ <ADP> f o r _ <DET> a _ <ADJ> r e a l _ <NOUN> e s t a t e _ <NOUN> a d _ <PUNCT> 
+_ <ADV> w e l l _ <VERB> k e p t _ <NOUN> k i t c h e n _ <ADP> w i t h _ <NOUN> m a r b l e _ <NOUN> c o u n t e r _ <NOUN> t o p s _ <CCONJ> a n d _ <ADJ> s t a i n l e s s _ <NOUN> s t e e l _ <NOUN> f r i d g e _ <PUNCT> 
+_ <DET> a _ <NOUN> k i t c h e n _ <VERB> i s _ <VERB> s h o w n _ <ADP> w i t h _ <ADJ> w o o d e n _ <NOUN> c a b i n e t s _ <CCONJ> a n d _ <DET> a _ <ADJ> w o o d e n _ <NOUN> c e l l i n g _ <PUNCT> 
+_ <DET> a _ <ADV> r e c e n t l y _ <VERB> r e m o d e l e d _ <NOUN> k i t c h e n _ <ADP> w i t h _ <NOUN> m a r b l e _ <CCONJ> a n d _ <ADJ> w o o d e n _ <NOUN> f u r n i s h i n g s _ <PUNCT> 
+_ <DET> a _ <NOUN> b e n c h _ <VERB> i s _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <NOUN> s i g n _ <ADP> i n _ <DET> t h e _ <NOUN> s u b w a y _ <PUNCT> 
+_ <DET> a _ <ADJ> g r e e n _ <NOUN> b e n c h _ <VERB> s i t s _ <ADV> d i r e c t l y _ <ADP> u n d e r _ <DET> t h e _ <PROPN> p r i n c e t o n _ <NOUN> j u n c t i o n _ <NOUN> s i g n _ <PUNCT> 
+_ <ADJ> l a r g e _ <NOUN> s i g n _ <ADP> a t _ <DET> a _ <NOUN> b u s _ <VERB> s t o p _ <ADP> o n _ <DET> a _ <ADJ> d a r k e n e d _ <NOUN> s t r e e t _ <PUNCT> 
+_ <DET> a _ <ADJ> g r e e n _ <NOUN> b e n c h _ <ADP> f o r _ <NOUN> p a s s e n g e r s _ <VERB> w a i t i n g _ <ADP> f o r _ <DET> t h e _ <NOUN> t r a i n _ <ADP> t o _ <VERB> s i t _ <PUNCT> 
+_ <DET> a _ <ADJ> g r e e n _ <NOUN> b e n c h _ <VERB> s i t t i n g _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a _ <NOUN> b u i l d i n g _ <PUNCT> 
+_ <NOUN> p e r f o r m e r s _ <CCONJ> a n d _ <NOUN> e l e p h a n t s _ <VERB> p u t t i n g _ <ADP> o n _ <DET> a _ <NOUN> s h o w _ <ADP> a t _ <DET> t h e _ <NOUN> c i r c u s _ <PUNCT> 
+_ <NUM> s e v e n _ <NOUN> c i r c u s _ <NOUN> e l e p h a n t s _ <PUNCT> , _ <ADP> o n _ <PRON> t h e i r _ <ADJ> h i n d _ <NOUN> l e g s _ <PUNCT> , _ <VERB> l e a n i n g _ <ADP> o n _ <DET> e a c h _ <ADJ> o t h e r _ <PUNCT> , _ <ADP> w i t h _ <DET> a _ <NOUN> s t a n d i n g _ <NOUN> e l e p h a n t _ <ADP> i n _ <DET> t h e _ <NOUN> m i d d l e _ <ADP> o f _ <DET> t h e _ <NOUN> l i n e _ <PUNCT> 
+_ <ADJ> s e v e r a l _ <NOUN> e l e p h a n t s _ <VERB> s t a n d i n g _ <ADP> o n _ <NOUN> s t o o l s _ <ADP> d u r i n g _ <DET> a _ <NOUN> c i r c u s _ <NOUN> a c t _ <PUNCT> 
+_ <DET> a _ <NOUN> l i n e _ <ADP> o f _ <NOUN> e l e p h a n t s _ <VERB> s t a n d i n g _ <ADP> o n _ <DET> s o m e _ <NOUN> k i n d _ <ADP> o f _ <NOUN> p l a t f o r m _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> c i r c u s _ <NOUN> e l e p h a n t s _ <VERB> s t a n d i n g _ <ADP> o n _ <DET> e a c h _ <NOUN> o t h e r s _ <NOUN> b a c k s _ <PUNCT> 
+_ <DET> s o m e _ <NOUN> f o o d _ <VERB> i s _ <VERB> l a y i n g _ <ADP> o u t _ <ADP> o n _ <DET> s o m e _ <NOUN> p l a t e s _ <PUNCT> 
+_ <DET> a _ <NOUN> t a b l e _ <VERB> t o p p e d _ <ADP> w i t h _ <NUM> t w o _ <NOUN> p l a t e s _ <ADP> o f _ <NOUN> f o o d _ <PUNCT> 
+_ <DET> a _ <NOUN> t a b l e _ <VERB> s e t _ <ADP> w i t h _ <NOUN> c o f f e e _ <PUNCT> , _ <NOUN> s a n d w i c h e s _ <CCONJ> a n d _ <NOUN> d o n u t s _ <PUNCT> 
+_ <DET> a _ <NOUN> c h o i c e _ <ADP> o f _ <ADJ> p o a c h e d _ <NOUN> e g g s _ <CCONJ> a n d _ <NOUN> b a c o n _ <ADP> o n _ <DET> a _ <NOUN> b a g e l _ <CCONJ> o r _ <NOUN> d o n u t s _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> p l a t e s _ <ADP> o n _ <DET> a _ <NOUN> t a b l e _ <ADP> w i t h _ <DET> s o m e _ <ADJ> l i t t l e _ <NOUN> s a n d w i c h e s _ <ADP> o n _ <PRON> t h e m _ <PUNCT> 
+_ <DET> a n _ <NOUN> i m a g e _ <ADP> o f _ <DET> a _ <NOUN> p e r s o n _ <VERB> h o l d i n g _ <NUM> t w o _ <NOUN> h o t d o g s _ <ADP> i n _ <DET> a _ <NOUN> p l a t t e r _ <PUNCT> 
+_ <NUM> t w o _ <ADJ> h o t _ <NOUN> d o g s _ <VERB> g a r n i s h i n g _ <ADP> w i t h _ <ADJ> s e s a m e _ <NOUN> s e e d s _ <CCONJ> a n d _ <ADJ> g r e e n _ <NOUN> t h i n g s _ <PUNCT> 
+_ <NUM> t w o _ <ADJ> c h i l i _ <NOUN> d o g s _ <ADP> i n _ <NOUN> b u n s _ <ADP> w i t h _ <NOUN> p e p p e r s _ <ADP> i n _ <DET> a _ <NOUN> c a r d b o a r d _ <NOUN> c o n t a i n e r _ <PUNCT> 
+_ <DET> a _ <NOUN> p l a t e _ <ADP> o f _ <NOUN> f o o d _ <PRON> t h a t _ <VERB> i s _ <ADP> o n _ <DET> a _ <NOUN> t a b l e _ <PUNCT> 
+_ <DET> a _ <NOUN> p a p e r _ <NOUN> c o n t a i n e r _ <VERB> f i l l e d _ <ADP> w i t h _ <NUM> t w o _ <ADJ> h o t _ <NOUN> d o g s _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <VERB> s t a n d i n g _ <ADP> w i t h _ <DET> s o m e _ <NOUN> r e m o t e s _ <PUNCT> 
+_ <NOUN> p e o p l e _ <VERB> a r e _ <VERB> u s i n g _ <ADJ> r e m o t e _ <NOUN> c o n t r o l s _ <ADP> t o _ <VERB> p l a y _ <DET> a _ <NOUN> v i d e o _ <NOUN> g a m e _ <PUNCT> 
+_ <NOUN> h a n d s _ <VERB> h o l d i n g _ <NOUN> g a m e _ <NOUN> c o n t r o l l e r _ <ADP> w i t h _ <VERB> c o l o r e d _ <NOUN> b l o c k s _ <CCONJ> a n d _ <NOUN> a u d i e n c e _ <ADP> i n _ <NOUN> b a c k g r o u n d _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <PRON> w h a t _ <VERB> a p p e a r s _ <ADP> t o _ <VERB> b e _ <ADJ> y o u n g _ <NOUN> p e o p l e _ <VERB> p l a y i n g _ <ADP> o n _ <DET> a _ <NOUN> g a m e _ <NOUN> s y s t e m _ <PUNCT> 
+_ <ADP> a t _ <ADJ> l e a s t _ <NUM> f o u r _ <NOUN> p e o p l e _ <VERB> p l a y i n g _ <DET> a _ <NOUN> v i d e o _ <NOUN> g a m e _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> b o y s _ <ADJ> w e t _ <ADP> i n _ <DET> t h e _ <NOUN> r a i n _ <ADP> w i t h _ <DET> t h e _ <ADJ> y o u n g e s t _ <VERB> h o l d i n g _ <DET> a _ <ADJ> l a r g e _ <NOUN> u m b r e l l a _ <PUNCT> 
+_ <DET> a _ <ADJ> y o u n g _ <NOUN> b o y _ <VERB> h o l d i n g _ <DET> a n _ <NOUN> u m b r e l l a _ <ADP> i n _ <DET> t h e _ <NOUN> r a i n _ <PUNCT> 
+_ <DET> a _ <ADJ> y o u n g _ <NOUN> b o y _ <NOUN> s t a n d i n g _ <ADP> i n _ <DET> t h e _ <NOUN> r a i n _ <VERB> h o l d i n g _ <DET> a n _ <NOUN> u m b r e l l a _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <NOUN> b o y _ <VERB> w e a r i n g _ <DET> a _ <NOUN> b a s e b a l l _ <NOUN> c a p _ <PUNCT> 
+_ <NUM> t w o _ <ADJ> w e t _ <ADJ> y o u n g _ <NOUN> b o y s _ <ADP> o n _ <DET> t h e _ <NOUN> s t r e e t _ <NUM> o n e _ <VERB> h a s _ <DET> a _ <ADJ> h u g e _ <NOUN> u m b r e l l a _ <PUNCT> 
+_ <DET> a _ <ADJ> b l a c k _ <CCONJ> a n d _ <ADJ> w h i t e _ <NOUN> p h o t o _ <ADP> o f _ <ADJ> y o u n g _ <NOUN> p e o p l e _ <VERB> h o l d i n g _ <DET> a n _ <ADJ> o p e n _ <NOUN> u m b r e l l a _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> b o y s _ <ADP> i n _ <DET> t h e _ <NOUN> r a i n _ <PUNCT> , _ <NUM> o n e _ <ADP> o f _ <PRON> t h e m _ <VERB> h o l d i n g _ <DET> a n _ <NOUN> u m b r e l l a _ <PUNCT> 
+_ <DET> a _ <NOUN> z e b r a _ <NOUN> g r a z i n g _ <ADP> o n _ <DET> s o m e _ <NOUN> g r a s s _ <ADP> n e a r _ <DET> a _ <NOUN> s t o n e _ <PUNCT> 
+_ <DET> a _ <ADJ> b l a c k _ <CCONJ> a n d _ <ADJ> w h i t e _ <NOUN> z e b r a _ <VERB> i s _ <VERB> e a t i n g _ <DET> s o m e _ <ADJ> g r e e n _ <NOUN> g r a s s _ <PUNCT> 
+_ <DET> a _ <NOUN> z e b r a _ <VERB> e a t i n g _ <ADJ> l o n g _ <VERB> c l i p p e d _ <NOUN> g r a s s _ <ADP> o n _ <DET> t h e _ <NOUN> g r o u n d _ <PUNCT> 
+_ <DET> a _ <NOUN> z e b r a _ <VERB> i s _ <VERB> e a t i n g _ <NOUN> g r a s s _ <ADP> i n _ <PRON> h i s _ <NOUN> e x h i b i t _ <ADP> a t _ <DET> t h e _ <NOUN> z o o _ <PUNCT> 
+_ <DET> a _ <NOUN> z e b r a _ <NOUN> e a t i n g _ <ADJ> g r e e n _ <ADJ> g r a s s y _ <NOUN> i t e m s _ <ADP> f o r _ <PRON> h i s _ <NOUN> l u n c h _ <PUNCT> 
+_ <DET> t h e _ <NOUN> s c e n e _ <ADP> o f _ <DET> a _ <NOUN> f i r e _ <NOUN> a c c i d e n t _ <CCONJ> a n d _ <DET> a _ <NOUN> f i r e _ <NOUN> h y d r a n t _ <VERB> c o v e r e d _ <ADP> i n _ <ADJ> a s h _ <PUNCT> 
+_ <DET> a _ <NOUN> f i r e _ <NOUN> h y d r a n t _ <ADP> b e s i d e _ <DET> a _ <ADJ> b u r n e d _ <NOUN> b u i l d i n g _ <ADP> i n _ <DET> a _ <NOUN> c i t y _ <PUNCT> 
+_ <DET> t h i s _ <VERB> i s _ <DET> t h e _ <NOUN> a f t e r m a t h _ <ADP> o f _ <DET> a _ <NOUN> f i r e _ <NOUN> o u t s i d e _ <PUNCT> 
+_ <DET> a _ <ADJ> o l d _ <NOUN> f i r e _ <NOUN> h y d r o g e n _ <PRON> t h a t _ <VERB> i s _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <VERB> t o r n _ <ADP> d o w n _ <NOUN> b u l i d i n g _ <PUNCT> 
+_ <DET> a _ <NOUN> f i r e _ <NOUN> h y d r a n t _ <CCONJ> a n d _ <DET> s o m e _ <NOUN> d e b r i s _ <ADP> o n _ <DET> t h e _ <NOUN> s t r e e t _ <PUNCT> 
+_ <VERB> l o o k i n g _ <ADP> a t _ <ADJ> b e a u t i f u l _ <NOUN> s c e n e r y _ <ADP> t h r o u g h _ <DET> t h e _ <NOUN> l e n s _ <ADP> o f _ <DET> a _ <NOUN> p h o n e _ <NOUN> c a m e r a _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> h o l d i n g _ <DET> a _ <ADJ> s m a l l _ <NOUN> i t e m _ <ADP> i n _ <DET> a _ <NOUN> f i e l d _ <PUNCT> 
+_ <PROPN> w o m a n _ <ADP> i n _ <ADJ> p u r p l e _ <NOUN> s h i r t _ <VERB> e x a m i n e s _ <PRON> h e r _ <NOUN> c e l l p h o n e _ <ADP> i n _ <DET> t h e _ <ADJ> o p e n _ <NOUN> f i e l d _ <PUNCT> 
+_ <ADJ> y o u n g _ <NOUN> l a d y _ <NOUN> s t a n d i n g _ <ADP> i n _ <DET> a n _ <ADJ> o p e n _ <NOUN> f i e l d _ <ADP> w i t h _ <DET> a _ <NOUN> c e l l _ <NOUN> p h o n e _ <ADP> i n _ <PRON> h e r _ <NOUN> h a n d _ <PUNCT> 
+_ <PROPN> w o m a n _ <NOUN> s t a n d i n g _ <ADP> i n _ <DET> a _ <NOUN> f i e l d _ <ADP> o f _ <NOUN> g r a s s _ <VERB> t r y i n g _ <ADP> t o _ <VERB> u s e _ <PRON> h e r _ <NOUN> c e l l _ <NOUN> p h o n e _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <ADP> w i t h _ <DET> a _ <NOUN> b a s e b a l l _ <NOUN> g l o v e _ <ADP> o n _ <DET> a _ <NOUN> b a s e b a l l _ <NOUN> f i e l d _ <VERB> l o o k i n g _ <ADP> u p _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> h a v i n g _ <ADV> j u s t _ <VERB> t h r o w n _ <DET> a _ <NOUN> b a s e b a l l _ <CCONJ> a n d _ <DET> a _ <NOUN> b u d _ <NOUN> l i g h t _ <NOUN> a d v e r t i s e m e n t _ <ADP> i n _ <DET> t h e _ <NOUN> b a c k g r o u n d _ <PUNCT> 
+_ <DET> a _ <NOUN> b a s e b a l l _ <NOUN> p l a y e r _ <VERB> w e a r i n g _ <DET> a _ <NOUN> c a t c h e r s _ <NOUN> m i t t _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a _ <PROPN> b u d _ <PROPN> l i g h t _ <NOUN> a d v e r t i s e m e n t _ <PUNCT> 
+_ <DET> a _ <NOUN> b a s e b a l l _ <NOUN> p l a y e r _ <VERB> i s _ <VERB> w e a r i n g _ <DET> a _ <NOUN> h o o d i e _ <CCONJ> a n d _ <PRON> h e _ <VERB> i s _ <VERB> t h r o w i n g _ <DET> t h e _ <NOUN> b a l l _ <PUNCT> 
+_ <DET> a _ <NOUN> b a s e b a l l _ <NOUN> p l a y e r s _ <VERB> l o o k s _ <ADP> i n _ <DET> t h e _ <NOUN> s k y _ <CCONJ> a n d _ <VERB> r a i s e s _ <PRON> h i s _ <ADJ> r i g h t _ <NOUN> l e g _ <PUNCT> 
+_ <NUM> t h r e e _ <NOUN> g l a s s e s _ <ADP> o f _ <NOUN> w i n e _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <ADJ> w o o d e n _ <NOUN> t a b l e _ <PUNCT> 
+_ <NUM> t h r e e _ <NOUN> g l a s s e s _ <ADP> o f _ <NOUN> w i n e _ <ADP> o n _ <DET> a _ <NOUN> w i n e _ <NOUN> t a s t i n g _ <NOUN> m a t _ <ADP> o n _ <DET> a _ <NOUN> t a b l e _ <PUNCT> 
+_ <PRON> t h e r e _ <VERB> a r e _ <NUM> t h r e e _ <NOUN> g l a s s e s _ <ADP> o f _ <NOUN> w i n e _ <ADP> f o r _ <NOUN> t a s t i n g _ <PUNCT> 
+_ <NUM> t h r e e _ <NOUN> w i n e s _ <VERB> s i t _ <ADP> o n _ <DET> a _ <NOUN> w i n e _ <NOUN> t a s t i n g _ <NOUN> i n f o r m a t i o n _ <NOUN> c a r d _ <PUNCT> 
+_ <ADP> a t _ <DET> a _ <NOUN> w i n e _ <NOUN> t a s t i n g _ <PRON> t h e y _ <VERB> a r e _ <VERB> g i v e n _ <NUM> t h r e e _ <ADJ> d i f f e r e n t _ <NOUN> o n e s _ <ADP> t o _ <VERB> t r y _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o s e u p _ <ADP> o f _ <DET> a _ <NOUN> t o o t h b r u s h _ <ADP> o n _ <DET> t h e _ <NOUN> t a b l e _ <PUNCT> 
+_ <DET> a _ <ADJ> b l a c k _ <NOUN> t o o t h _ <NOUN> b r u s h _ <VERB> s i t t i n g _ <ADP> o n _ <NOUN> t o p _ <ADP> o f _ <DET> a _ <ADJ> w o o d e n _ <NOUN> s u r f a c e _ <PUNCT> 
+_ <DET> a _ <ADJ> b l a c k _ <NOUN> t o o t h b r u s h _ <ADP> w i t h _ <ADJ> w h i t e _ <VERB> b r i s t l e s _ <VERB> l a y i n g _ <ADP> o n _ <DET> a _ <NOUN> t a b l e _ <PUNCT> 
+_ <DET> a _ <ADJ> b l a c k _ <VERB> h a n d l e d _ <NOUN> t o o t h b r u s h _ <ADP> w i t h _ <ADJ> n e w _ <VERB> b r i s t l e s _ <ADP> o n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <ADJ> b l a c k _ <NOUN> t o o t h b r u s h _ <ADP> w i t h _ <ADJ> w h i t e _ <VERB> b r i s t l e s _ <VERB> s i t s _ <ADP> o n _ <DET> a _ <ADJ> w o o d e n _ <NOUN> t a b l e t o p _ <PUNCT> 
+_ <DET> a _ <ADJ> r e d _ <ADJ> t r o l l y _ <NOUN> c a r _ <VERB> t r a v e l i n g _ <ADP> d o w n _ <DET> a _ <NOUN> s t r e e t _ <VERB> f i l l e d _ <ADP> w i t h _ <NOUN> p e o p l e _ <PUNCT> 
+_ <DET> a _ <NOUN> t r o l l e y _ <ADP> i n _ <DET> a _ <ADJ> p o p u l a t e d _ <NOUN> d o w n t o w n _ <NOUN> a r e a _ <ADP> w i t h _ <NOUN> p e o p l e _ <PUNCT> 
+_ <DET> a _ <ADJ> r e d _ <NOUN> t r o l l e y _ <VERB> p a s s e s _ <ADP> o n _ <PRON> i t s _ <VERB> w i r e d _ <NOUN> r o a d _ <PUNCT> 
+_ <DET> a _ <NOUN> s t r e e t _ <NOUN> t r o l l e y _ <ADP> i n _ <DET> t h e _ <NOUN> m i d d l e _ <ADP> o f _ <DET> a _ <ADJ> p e d e s t r i a n _ <NOUN> a r e a _ <PUNCT> 
+_ <DET> a _ <NOUN> s t r e e t _ <NOUN> c a r _ <VERB> g o i n g _ <ADP> a l o n g _ <DET> a _ <NOUN> t r a c k _ <ADP> o n _ <PRON> i t s _ <ADJ> o w n _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <VERB> j u m p i n g _ <DET> a _ <NOUN> s k a t e _ <NOUN> b o a r d _ <ADP> i n _ <DET> t h e _ <NOUN> a i r _ <PUNCT> 
+_ <DET> a _ <NOUN> b o y _ <VERB> d o i n g _ <DET> a _ <ADJ> m i d _ <NOUN> a i r _ <NOUN> t r i c k _ <ADP> o n _ <PRON> h i s _ <NOUN> s k a t e b o a r d _ <PUNCT> 
+_ <NOUN> t e e n a g e r _ <VERB> d o i n g _ <NOUN> s t u n t s _ <ADP> w i t h _ <DET> a _ <NOUN> s k a t e b o a r d _ <ADP> a t _ <DET> a _ <NOUN> s k a t e b o a r d _ <NOUN> p a r k _ <PUNCT> 
+_ <DET> a _ <ADJ> y o u n g _ <NOUN> s k a t e b o a r d e r _ <VERB> s e e m s _ <ADP> t o _ <VERB> b e _ <ADJ> h i g h _ <ADP> i n _ <DET> t h e _ <NOUN> a i r _ <PUNCT> 
+_ <VERB> s k a t e _ <NOUN> b o a r d e r _ <VERB> h a n g _ <NOUN> t i m e _ <ADP> w i t h _ <ADJ> y o u n g _ <NOUN> m a n _ <VERB> a p p e a r i n g _ <ADP> t o _ <NOUN> s t r e a k _ <ADP> t h o u g h _ <DET> t h e _ <NOUN> a i r _ <PUNCT> 
+_ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <VERB> s t a n d i n g _ <ADP> o u t s i d e _ <ADP> o f _ <DET> a _ <ADJ> g r e e n _ <NOUN> b u s _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <CCONJ> a n d _ <NOUN> b i c y c l e s _ <VERB> s i t t i n g _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <NOUN> b u s _ <PUNCT> 
+_ <DET> a n _ <ADJ> o l d _ <NOUN> b u s _ <VERB> b e i n g _ <VERB> l o a d e d _ <ADP> w i t h _ <NOUN> l u g g a g e s _ <ADP> a s _ <NOUN> p e o p l e _ <ADP> w i t h _ <NOUN> b i c y c l e s _ <VERB> l o o k s _ <ADP> o n _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <VERB> w o r k i n g _ <ADP> o n _ <VERB> s e c u r i n g _ <NOUN> l u g g a g e _ <ADP> o n _ <DET> a _ <NOUN> b u s _ <PUNCT> 
+_ <PROPN> r e t r o _ <NOUN> p h o t o g r a p h _ <ADP> o f _ <ADJ> y o u n g _ <NOUN> p e o p l e _ <ADP> o n _ <DET> a _ <ADJ> c a m p i n g _ <NOUN> h o l i d a y _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <VERB> r i d i n g _ <NOUN> m o t o r c y c l e s _ <ADP> d o w n _ <DET> a _ <NOUN> s t r e e t _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> p e o p l e _ <ADP> o n _ <NOUN> m o t o r c y c l e s _ <VERB> r i d i n g _ <ADP> d o w n _ <DET> t h e _ <NOUN> s t r e e t _ <PUNCT> 
+_ <DET> a _ <NOUN> s t r e e t _ <NOUN> s c e n e _ <ADP> w i t h _ <NOUN> p e o p l e _ <ADP> o n _ <NOUN> m o t o r c y c l e s _ <ADP> w i t h _ <NOUN> c a r s _ <PUNCT> 
+_ <DET> a _ <NOUN> s t r e e t _ <ADP> w i t h _ <ADJ> s e v e r a l _ <NOUN> c a r s _ <CCONJ> a n d _ <NOUN> m o t o r c y c l e s _ <VERB> r i d i n g _ <ADP> d o w n _ <DET> t h e _ <NOUN> s t r e e t _ <PUNCT> 
+_ <NOUN> p e o p l e _ <VERB> r i d i n g _ <NOUN> b i k e s _ <PUNCT> , _ <NOUN> s c o o t e r s _ <PUNCT> , _ <CCONJ> a n d _ <NOUN> m o t o r c y c l e s _ <ADP> t h r o u g h _ <NOUN> s t r e e t _ <ADP> i n _ <NOUN> b i k e _ <NOUN> l a n e _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o s e _ <ADP> u p _ <ADP> o f _ <DET> a _ <NOUN> c a t _ <VERB> s l e e p i n g _ <ADP> i n _ <DET> a _ <NOUN> b o w l _ <PUNCT> 
+_ <DET> a _ <NOUN> c a t _ <PRON> t h a t _ <VERB> i s _ <VERB> l a y i n g _ <ADP> d o w n _ <ADP> i n _ <DET> a _ <NOUN> b o w l _ <PUNCT> 
+_ <DET> t h e _ <ADJ> w h i t e _ <CCONJ> a n d _ <ADJ> o r a n g e _ <NOUN> k i t t e n _ <VERB> i s _ <VERB> l y i n g _ <ADP> i n s i d e _ <ADP> o f _ <DET> a _ <NOUN> b o w l _ <PUNCT> 
+_ <NOUN> c a t _ <VERB> t a k i n g _ <DET> a _ <NOUN> n a p _ <ADP> i n _ <DET> a _ <ADJ> w h i t e _ <NOUN> b o w l _ <ADP> o n _ <DET> a _ <NOUN> t a b l e _ <PUNCT> 
+_ <DET> a _ <ADJ> c a l i c o _ <NOUN> c a t _ <NOUN> c u r l s _ <ADP> u p _ <ADP> i n s i d e _ <DET> a _ <NOUN> b o w l _ <ADP> t o _ <VERB> s l e e p _ <PUNCT> 
+_ <DET> a _ <NOUN> l i v i n g _ <NOUN> r o o m _ <NOUN> a r e a _ <ADP> w i t h _ <DET> s o m e _ <NOUN> c o u c h e s _ <CCONJ> a n d _ <DET> a _ <NOUN> t e l e v i s i o n _ <PUNCT> 
+_ <DET> a _ <NOUN> l i v i n g _ <NOUN> r o o m _ <ADP> w i t h _ <ADJ> y e l l o w _ <NOUN> w a l l s _ <PUNCT> , _ <DET> a _ <ADJ> b e i g e _ <NOUN> c o u c h _ <PUNCT> , _ <CCONJ> a n d _ <DET> a _ <ADJ> f l a t _ <NOUN> s c r e e n _ <NOUN> t v _ <ADP> n e a r _ <DET> a _ <NOUN> w i n d o w _ <PUNCT> 
+_ <DET> a _ <NOUN> l i v i n g _ <NOUN> r o o m _ <ADP> w i t h _ <NOUN> c o u c h e s _ <CCONJ> a n d _ <DET> a _ <NOUN> t v _ <PUNCT> 
+_ <DET> a _ <VERB> l i v i n g _ <NOUN> a r e a _ <ADP> w i t h _ <NOUN> s o f a s _ <PUNCT> , _ <DET> a _ <NOUN> c o f f e e _ <NOUN> t a b l e _ <CCONJ> a n d _ <DET> a _ <NOUN> t e l e v i s i o n _ <PUNCT> 
+_ <DET> a _ <NOUN> l i v i n g _ <NOUN> r o o m _ <ADP> w i t h _ <NOUN> s o f a _ <PUNCT> , _ <NOUN> l o v e s e a t _ <PUNCT> , _ <NOUN> c h a i r _ <PUNCT> , _ <NOUN> c o f f e e _ <NOUN> t a b l e _ <CCONJ> a n d _ <NOUN> t e l e v i s i o n _ <NOUN> s e t _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> m e n _ <VERB> a r e _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <ADJ> w o o d e n _ <NOUN> c r a t e _ <ADP> w i t h _ <DET> a _ <NOUN> c o w _ <ADJ> n e x t _ <ADP> t o _ <PRON> t h e m _ <PUNCT> 
+_ <DET> a _ <ADJ> b l a c k _ <CCONJ> a n d _ <ADJ> w h i t e _ <NOUN> p h o t o _ <ADP> o f _ <NUM> t w o _ <NOUN> m e n _ <ADP> w i t h _ <DET> a _ <NOUN> c o w _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> m e n _ <VERB> r e a d _ <ADP> o f f _ <DET> a _ <NOUN> p a p e r _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <NOUN> c o w _ <PUNCT> 
+_ <DET> a _ <NOUN> c o u p l e _ <ADP> o f _ <NOUN> g u y s _ <PRON> t h a t _ <VERB> a r e _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> b e n c h _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> m e n _ <VERB> a r e _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <ADJ> w o o d e n _ <NOUN> c r a t e _ <ADP> n e a r _ <DET> a _ <NOUN> c o w _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o s e - u p _ <ADP> o f _ <DET> a _ <NOUN> m i c r o w a v e _ <CCONJ> a n d _ <DET> a _ <NOUN> s t r e e t _ <NOUN> c o n e _ <ADP> o n _ <DET> t h e _ <NOUN> d r i v e w a y _ <PUNCT> 
+_ <DET> a _ <NOUN> m i c r o w a v e _ <CCONJ> a n d _ <DET> a _ <NOUN> c o n e _ <ADP> o n _ <NOUN> a s p h a l t _ <ADP> b y _ <NOUN> b u s h e s _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <NOUN> m i c r o w a v e _ <NOUN> o v e n _ <VERB> s i t s _ <ADP> n e a r _ <DET> a _ <NOUN> c a u t i o n _ <NOUN> c o n e _ <PUNCT> 
+_ <DET> a _ <ADJ> w h i t e _ <NOUN> m i c r o w a v e _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a _ <NOUN> c o n e _ <PUNCT> 
+_ <PROPN> o r a n g e _ <NOUN> c o n e _ <CCONJ> a n d _ <NOUN> m i c r o w a v e _ <VERB> s i t t i n g _ <ADP> a t _ <DET> t h e _ <NOUN> c u r b _ <PUNCT> 
+_ <DET> a _ <NOUN> r o o m _ <ADP> w i t h _ <DET> a _ <NOUN> b e d _ <CCONJ> a n d _ <DET> a _ <NOUN> c o u c h _ <ADP> i n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <ADJ> l a r g e _ <NOUN> r o o m _ <PRON> t h a t _ <VERB> d o u b l e s _ <ADP> a s _ <VERB> l i v i n g _ <NOUN> r o o m _ <CCONJ> a n d _ <NOUN> b e d r o o m _ <PUNCT> 
+_ <DET> a _ <ADV> v e r y _ <ADJ> b i g _ <ADJ> n i c e _ <VERB> l o o k i n g _ <NOUN> r o o m _ <ADP> w i t h _ <ADJ> p r e t t y _ <NOUN> f u r n i t u r e _ <PUNCT> 
+_ <DET> a _ <NOUN> l i v i n g _ <NOUN> r o o m _ <VERB> f i l l e d _ <ADP> w i t h _ <NOUN> l o t s _ <ADP> o f _ <NOUN> f u r n i t u r e _ <PUNCT> 
+_ <DET> a _ <NOUN> c o u c h _ <CCONJ> a n d _ <DET> a _ <NOUN> c h a i r _ <ADP> i n _ <DET> a _ <NOUN> r o o m _ <PUNCT> 
+_ <DET> a _ <ADJ> h o t _ <NOUN> d o g _ <ADP> i n _ <DET> a _ <NOUN> b u n _ <VERB> c o v e r e d _ <ADP> i n _ <NOUN> p e e s _ <PUNCT> 
+_ <DET> a _ <NOUN> h o t d o g _ <ADP> w i t h _ <NOUN> p e a s _ <CCONJ> a n d _ <NOUN> k e t c h u p _ <ADP> o n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <ADJ> h o t _ <NOUN> d o g _ <ADP> w i t h _ <NOUN> k e t c h u p _ <CCONJ> a n d _ <NOUN> b e a n s _ <PUNCT> , _ <VERB> i s _ <VERB> b e i n g _ <VERB> h e l d _ <ADP> i n _ <DET> a _ <NOUN> n a p k i n _ <PUNCT> 
+_ <DET> a _ <ADJ> h o t _ <NOUN> d o g _ <ADP> i n _ <DET> a _ <NOUN> b u n _ <VERB> c o v e r e d _ <ADP> i n _ <NOUN> c o n d i m e n t s _ <PUNCT> 
+_ <DET> a _ <ADJ> h o t _ <NOUN> d o g _ <ADP> i n _ <DET> a _ <NOUN> b u n _ <VERB> c o v e r e d _ <ADP> w i t h _ <NOUN> p e a s _ <CCONJ> a n d _ <NOUN> k e t c h u p _ <PUNCT> 
+_ <DET> a _ <NOUN> p a s s e n g e r _ <NOUN> t r a i n _ <PRON> t h a t _ <VERB> i s _ <VERB> t r a v e l i n g _ <ADP> o v e r _ <DET> a _ <NOUN> s t r e e t _ <ADP> o n _ <DET> a _ <NOUN> b r i d g e _ <PUNCT> 
+_ <DET> a _ <NOUN> t r a i n _ <ADP> o n _ <DET> a _ <NOUN> t r a i n _ <NOUN> t r a c k _ <ADP> o n _ <DET> a n _ <ADJ> e l e v a t e d _ <NOUN> b r i d g e _ <PUNCT> 
+_ <DET> a _ <NOUN> t r a i n _ <VERB> p a s s i n g _ <ADP> o n _ <NOUN> b r i d g e _ <ADP> o v e r _ <DET> a _ <ADJ> b u s y _ <NOUN> c i t y _ <NOUN> s t r e e t _ <PUNCT> 
+_ <PRON> t h e r e _ <VERB> i s _ <DET> a _ <VERB> c r o s s i n g _ <NOUN> g u a r d _ <PRON> t h a t _ <VERB> i s _ <VERB> s t a n d i n g _ <ADP> u n d e r _ <DET> t h e _ <NOUN> t r a i n _ <NOUN> t r a c k s _ <PUNCT> 
+_ <DET> a _ <NOUN> t r a i n _ <VERB> p a s s i n g _ <ADP> t h r o u g h _ <DET> a _ <NOUN> c i t y _ <NOUN> s t r e e t _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o c k _ <ADP> i n _ <DET> a _ <NOUN> b u i l d i n g _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <NOUN> w i n d o w s _ <PUNCT> 
+_ <DET> a _ <ADJ> f a n c y _ <NOUN> m e t a l _ <NOUN> c l o t h _ <VERB> i s _ <VERB> s e e n _ <ADP> a g a i n s t _ <ADJ> h u g e _ <VERB> b a r r e d _ <NOUN> w i n d o w s _ <ADP> a t _ <DET> a _ <NOUN> s t o n e _ <NOUN> t r a i n _ <NOUN> s t a t i o n _ <PUNCT> 
+_ <DET> a _ <ADJ> b l a c k _ <CCONJ> a n d _ <ADJ> w h i t e _ <NOUN> p h o t o _ <ADP> o f _ <DET> a _ <NOUN> c l o c k _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o c k _ <ADP> i n _ <DET> a _ <ADV> b r i g h t l y _ <VERB> l i t _ <NOUN> r o o m _ <ADP> w i t h _ <NOUN> w i n d o w s _ <PUNCT> 
+_ <DET> a _ <NOUN> s h o t _ <ADP> o f _ <DET> a _ <NOUN> c l o c k _ <ADP> i n _ <DET> t h e _ <NOUN> t r a i n _ <NOUN> s t a t i o n _ <PUNCT> 
+_ <DET> a n _ <ADJ> o l d _ <NOUN> m a n _ <VERB> e a t i n g _ <DET> a _ <VERB> p e e l e d _ <NOUN> b a n a n a _ <ADV> b a c k w a r d s _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> h o l d i n g _ <DET> t h e _ <ADJ> u n p e e l e d _ <NOUN> e n d _ <ADP> o f _ <DET> a _ <ADV> p a r t i a l l y _ <VERB> p e e l e d _ <NOUN> b a n a n a _ <ADP> t o _ <PRON> h i s _ <NOUN> l i p s _ <ADP> a s _ <ADP> t h o u g h _ <VERB> p l a y i n g _ <DET> a _ <NOUN> h o r n _ <PUNCT> 
+_ <DET> a n _ <ADJ> o l d _ <NOUN> m a n _ <VERB> b l o w i n g _ <ADP> o n _ <DET> a _ <VERB> p e e l e d _ <NOUN> b a n a n a _ <PUNCT> 
+_ <DET> a n _ <ADJ> e l d e r l y _ <NOUN> g e n t l e m a n _ <VERB> i s _ <VERB> e n j o y i n g _ <VERB> e a t i n g _ <DET> a _ <NOUN> b a n a n a _ <PUNCT> 
+_ <DET> a n _ <ADJ> o l d e r _ <NOUN> m a n _ <NOUN> h o l d i n g _ <CCONJ> a n d _ <VERB> e a t i n g _ <DET> a _ <NOUN> b a n a n a _ <PUNCT> 
+_ <DET> a _ <ADJ> n i c e _ <NOUN> k i t c h e n _ <ADP> w i t h _ <ADJ> w o o d e n _ <NOUN> c a b i n e t s _ <CCONJ> a n d _ <NOUN> g r a n i t e _ <NOUN> c o u n t e r t o p s _ <PUNCT> 
+_ <DET> a _ <NOUN> k i t c h e n _ <PUNCT> , _ <ADP> w i t h _ <NOUN> o v e n _ <PUNCT> , _ <NOUN> r e f r i g e r a t o r _ <PUNCT> , _ <NOUN> d i s h w a s h e r _ <PUNCT> , _ <CCONJ> a n d _ <NOUN> b a r _ <ADP> w i t h _ <NOUN> s t o o l s _ <PUNCT> 
+_ <DET> a _ <NOUN> k i t c h e n _ <VERB> f i l l e d _ <ADP> w i t h _ <ADJ> w o o d e n _ <NOUN> c a b i n e t s _ <CCONJ> a n d _ <NOUN> s t o o l s _ <PUNCT> 
+_ <DET> a _ <NOUN> k i t c h e n _ <VERB> h a s _ <NOUN> m a r b l e _ <NOUN> c o u n t e r s _ <PUNCT> , _ <ADJ> s t a i n l e s s _ <NOUN> a p p l i a n c e s _ <CCONJ> a n d _ <DET> a _ <NOUN> b r e a k f a s t _ <NOUN> b a r _ <PUNCT> 
+_ <DET> a _ <NOUN> k i t c h e n _ <VERB> h a s _ <ADJ> s t a i n l e s s _ <NOUN> s t e e l _ <NOUN> a p p l i a n c e s _ <CCONJ> a n d _ <DET> a n _ <NOUN> i s l a n d _ <PUNCT> 
+_ <NOUN> m a n _ <NOUN> h o l d i n g _ <ADJ> m o b i l e _ <NOUN> p h o n e _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <ADJ> f e s t i v e _ <NOUN> m u s i c i a n s _ <CCONJ> a n d _ <NOUN> d a n c e r s _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <ADP> w i t h _ <DET> a _ <NOUN> c e l l p h o n e _ <NOUN> s t a n d i n g _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <NOUN> d a n c e r s _ <PUNCT> 
+_ <NOUN> m e n _ <ADP> i n _ <NOUN> s o m b r e r o s _ <VERB> a r e _ <ADP> b e h i n d _ <DET> a _ <NOUN> m a n _ <ADP> w i t h _ <DET> a _ <NOUN> p h o n e _ <PUNCT> 
+_ <NOUN> m a n _ <VERB> h o l d i n g _ <ADP> u p _ <DET> a _ <ADJ> s m a r t _ <NOUN> p h o n e _ <ADP> w i t h _ <DET> a n _ <NOUN> i m a g e _ <ADP> o f _ <ADJ> m e x i c a n _ <NOUN> d a n c e r s _ <ADP> b e h i n d _ <PRON> h i m _ <PUNCT> 
+_ <DET> a _ <NOUN> c o m m e r c i a l _ <ADP> o f _ <DET> s o m e _ <ADJ> m e x i c a n _ <NOUN> p e o p l e _ <ADP> i n _ <DET> t h e _ <NOUN> b a c k _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <ADP> i n _ <DET> a _ <ADJ> w e t _ <NOUN> s u i t _ <VERB> h o l d i n g _ <DET> a _ <NOUN> s u r f b o a r d _ <ADP> o v e r _ <PRON> h i s _ <NOUN> h e a d _ <PUNCT> 
+_ <DET> a _ <ADJ> b e a r d e d _ <ADJ> y o u n g _ <NOUN> m a n _ <ADP> i n _ <DET> a _ <ADJ> r e d _ <ADJ> w e t _ <NOUN> s u i t _ <NOUN> t o p _ <VERB> c a r r i e s _ <PRON> h i s _ <ADJ> r e d _ <NOUN> s u r f b o a r d _ <ADP> o n _ <PRON> h i s _ <NOUN> h e a d _ <PUNCT> 
+_ <DET> a _ <NOUN> g u y _ <VERB> c a r r i e s _ <PRON> h i s _ <NOUN> s u r f b o a r d _ <ADP> o n _ <PRON> h i s _ <NOUN> h e a d _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> h o l d i n g _ <DET> a _ <NOUN> s u r f b o a r d _ <ADP> o v e r _ <PRON> h i s _ <NOUN> h e a d _ <PUNCT> 
+_ <NOUN> m a n _ <ADP> i n _ <ADJ> r e d _ <VERB> c a r r y i n g _ <DET> a _ <ADJ> r e d _ <NOUN> s u r f _ <NOUN> b o a r d _ <ADP> o v e r _ <PRON> h i s _ <NOUN> h e a d _ <PUNCT> 
+_ <DET> a _ <ADJ> b l a c k _ <CCONJ> a n d _ <ADJ> w h i t e _ <NOUN> p i c t u r e _ <ADP> o f _ <DET> a _ <NOUN> t e d d y _ <NOUN> b e a r _ <PUNCT> 
+_ <DET> a _ <ADJ> b l a c k _ <CCONJ> a n d _ <ADJ> w h i t e _ <NOUN> i m a g e _ <ADP> o f _ <NUM> t w o _ <NOUN> p e o p l e _ <VERB> h o l d i n g _ <DET> a _ <VERB> s t u f f e d _ <NOUN> b e a r _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> p e o p l e _ <VERB> h o l d i n g _ <ADP> u p _ <DET> a _ <ADJ> s m a l l _ <ADJ> w h i t e _ <NOUN> t e d d y _ <NOUN> b e a r _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> p e o p l e _ <VERB> h o l d _ <DET> a _ <VERB> s t u f f e d _ <NOUN> t o y _ <ADP> u p _ <ADV> t o g e t h e r _ <PUNCT> 
+_ <NOUN> a d u l t _ <CCONJ> a n d _ <NOUN> c h i l d _ <NOUN> h a n d s _ <ADP> o n _ <DET> a _ <NOUN> t e d d y _ <NOUN> b e a r _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> d o i n g _ <DET> a _ <NOUN> t r i c k _ <ADP> o n _ <DET> a _ <NOUN> s k a t e b o a r d _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a _ <NOUN> c r o w d _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> f l y i n g _ <ADP> t h r o u g h _ <DET> t h e _ <NOUN> a i r _ <ADP> w h i l e _ <VERB> r i d i n g _ <DET> a _ <NOUN> s k a t e b o a r d _ <PUNCT> 
+_ <DET> a _ <NOUN> m a n _ <VERB> d o e s _ <DET> a _ <NOUN> t r i c k _ <ADP> o n _ <DET> a _ <NOUN> s k a t e b o a r d _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a n _ <NOUN> a u d i e n c e _ <PUNCT> 
+_ <DET> a _ <NOUN> c r o w d _ <VERB> w a t c h e s _ <ADP> a s _ <DET> a _ <NOUN> s k a t e r _ <VERB> d r o p s _ <PRON> h i s _ <NOUN> b o a r d _ <ADP> a t _ <DET> t h e _ <NOUN> t o p _ <ADP> o f _ <DET> a _ <NOUN> r a m p _ <PUNCT> 
+_ <DET> a _ <NOUN> p e r s o n _ <VERB> r i d i n g _ <DET> a _ <NOUN> s k a t e _ <NOUN> b o a r d _ <ADP> a t _ <DET> a _ <NOUN> s k a t e _ <NOUN> p a r k _ <PUNCT> 
+_ <DET> a _ <NOUN> p l a t e _ <ADP> o f _ <NOUN> m e a t _ <PUNCT> , _ <NOUN> v e g e t a b l e s _ <PUNCT> , _ <CCONJ> a n d _ <NUM> t w o _ <ADJ> l a r g e _ <NOUN> s l i c e s _ <ADP> o f _ <NOUN> b r e a d _ <ADP> w i t h _ <DET> a _ <ADJ> r e d _ <NOUN> w i n e _ <NOUN> g l a s s _ <ADJ> n e x t _ <ADP> t o _ <PRON> i t _ <PUNCT> 
+_ <DET> t h e _ <NOUN> m e a l _ <VERB> h a s _ <NOUN> s i d e s _ <ADP> o f _ <ADJ> m i x e d _ <NOUN> v e g e t a b l e s _ <CCONJ> a n d _ <NOUN> b r e a d _ <NOUN> s l i c e s _ <ADP> n e a r _ <DET> a _ <NOUN> g l a s s _ <ADP> o f _ <NOUN> w i n e _ <PUNCT> 
+_ <DET> a _ <NOUN> p l a t e _ <ADP> w i t h _ <NOUN> m e a t _ <PUNCT> , _ <NOUN> b r e a d _ <PUNCT> , _ <CCONJ> a n d _ <NOUN> v e g g i e s _ <PUNCT> , _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <NOUN> w i n e _ <NOUN> g l a s s _ <PUNCT> 
+_ <DET> a _ <NOUN> d i n n e r _ <NOUN> p l a t e _ <VERB> i s _ <ADP> o n _ <DET> a _ <NOUN> p l a c e _ <NOUN> m a t _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <NOUN> g l a s s _ <ADP> o f _ <ADJ> r e d _ <NOUN> w i n e _ <PUNCT> 
+_ <DET> a _ <ADJ> w h i t e _ <NOUN> p l a t e _ <VERB> t o p p e d _ <ADP> w i t h _ <NOUN> m e a t _ <PUNCT> , _ <NOUN> v e g g i e s _ <CCONJ> a n d _ <NOUN> b r e a d _ <PUNCT> 
+_ <DET> a _ <NOUN> v i e w _ <ADP> o f _ <DET> a _ <NOUN> m a n _ <PART> ' s _ <NOUN> u r i n a l _ <ADP> i n s i d e _ <DET> a _ <NOUN> b a t h r o o m _ <VERB> s t a l l _ <PUNCT> 
+_ <DET> a _ <NOUN> b a t h r o o m _ <ADP> w i t h _ <DET> a n _ <NOUN> a u t o _ <NOUN> f l u s h _ <NOUN> u r i n a l _ <PUNCT> 
+_ <DET> a _ <NOUN> w a l l _ <NOUN> u r i n a l _ <ADP> i n _ <DET> a _ <VERB> s t a l l _ <ADP> w i t h _ <DET> a n _ <NOUN> a u t o _ <NOUN> s e n s o r _ <NOUN> f l u s h i n g _ <NOUN> s y s t e m _ <PUNCT> 
+_ <DET> a _ <NOUN> p i c t u r e _ <ADP> o f _ <DET> a _ <ADJ> w h i t e _ <NOUN> t o i l e t _ <ADP> i n _ <DET> t h e _ <NOUN> r e s t _ <NOUN> r o o m _ <PUNCT> 
+_ <DET> a _ <ADJ> u r i n a l _ <NOUN> h a n g i n g _ <ADP> o n _ <DET> a _ <NOUN> w a l l _ <ADP> i n _ <ADP> b e t w e e n _ <NUM> t w o _ <NOUN> s t a l l s _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o c k _ <ADP> i n _ <DET> a _ <NOUN> b a r _ <ADP> w i t h _ <DET> a _ <VERB> s a y i n g _ <ADP> a b o v e _ <PRON> i t _ <ADP> o n _ <DET> a _ <NOUN> s i g n _ <PUNCT> 
+_ <DET> a _ <ADJ> f e w _ <NOUN> p e o p l e _ <VERB> a r e _ <VERB> h a n g i n g _ <ADP> o u t _ <CCONJ> a n d _ <VERB> a p p r e c i a t i n g _ <PRON> t h e i r _ <NOUN> t i m e _ <PUNCT> 
+_ <DET> a _ <NOUN> b a r _ <VERB> i s _ <ADV> f u l l y _ <VERB> s t o c k e d _ <ADP> w i t h _ <NOUN> d r i n k s _ <CCONJ> a n d _ <VERB> i s _ <VERB> d e c o r a t e d _ <ADP> w i t h _ <DET> a _ <NOUN> q u o t e _ <VERB> h a n g i n g _ <ADP> f r o m _ <DET> t h e _ <NOUN> c e i l i n g _ <PUNCT> 
+_ <DET> a _ <NOUN> b a r _ <VERB> f i l l e d _ <ADP> w i t h _ <NOUN> l o t s _ <ADP> o f _ <NOUN> b o t t l e s _ <ADP> o f _ <NOUN> a l c o h o l _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o c k _ <VERB> i s _ <VERB> h a n g i n g _ <ADP> u p _ <ADP> i n _ <DET> a _ <NOUN> b a r _ <PUNCT> 
+_ <DET> a _ <NOUN> s h e e p d o g _ <VERB> p r e p a r e s _ <ADP> t o _ <VERB> g u i d e _ <DET> a _ <NOUN> s h e e p _ <ADP> i n t o _ <DET> a _ <VERB> c o r r a l _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> l a m b s _ <ADP> i n _ <DET> a _ <VERB> f e n c e d _ <ADP> i n _ <NOUN> a r e a _ <ADP> w i t h _ <DET> a _ <NOUN> d o g _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> s h e e p _ <ADP> w i t h _ <DET> a _ <NOUN> d o g _ <ADP> i n _ <DET> a n _ <NOUN> a r e n a _ <PUNCT> 
+_ <DET> a _ <NOUN> d o g _ <VERB> a p p r o a c h e s _ <NUM> t w o _ <NOUN> s h e e p _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <NOUN> o n l o o k e r s _ <PUNCT> 
+_ <DET> a _ <ADJ> b l a c k _ <CCONJ> a n d _ <ADJ> w h i t e _ <NOUN> d o g _ <NOUN> s t a n d i n g _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <NUM> t w o _ <NOUN> s h e e p _ <PUNCT> 
+_ <NOUN> p i z z a _ <NOUN> d o u g h _ <VERB> p r e p p e d _ <CCONJ> a n d _ <VERB> l a i d _ <ADP> o u t _ <ADP> o n _ <DET> a _ <NOUN> t a b l e _ <NOUN> t o p _ <PUNCT> 
+_ <DET> a _ <NOUN> p i l e _ <ADP> o f _ <NOUN> d o u g h _ <VERB> s h a p e d _ <ADP> i n t o _ <DET> a _ <NOUN> p i z z a _ <NOUN> c r u s t _ <ADP> w i t h _ <NOUN> t w i r l s _ <ADP> i n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <NOUN> p i z z a _ <ADJ> s h a p e d _ <NOUN> c i r c l e _ <ADP> o f _ <ADJ> r o u n d _ <NOUN> d o u g h _ <ADP> o n _ <DET> a _ <ADJ> w h i t e _ <NOUN> s u r f a c e _ <PUNCT> 
+_ <DET> t h e _ <NOUN> d o u g h _ <VERB> i s _ <VERB> s h a p e d _ <ADP> i n _ <DET> a _ <NOUN> c i r c l e _ <ADP> o n _ <DET> t h e _ <NOUN> c l o t h _ <PUNCT> 
+_ <DET> a _ <ADJ> c r i m p e d _ <NOUN> p i e _ <NOUN> c r u s t _ <VERB> i s _ <ADP> o n _ <VERB> w a x e d _ <NOUN> p a p e r _ <PUNCT> 
+_ <ADP> o n _ <DET> t h e _ <NOUN> t a b l e _ <VERB> i s _ <DET> a _ <NUM> t h r e e _ <ADJ> t i e r e d _ <NOUN> w e d d i n g _ <NOUN> c a k e _ <PUNCT> , _ <NOUN> w i n e _ <NOUN> g o b l e t s _ <PUNCT> , _ <CCONJ> a n d _ <DET> s o m e _ <NOUN> r o s e s _ <PUNCT> 
+_ <DET> a _ <ADJ> b i g _ <NOUN> w e d d i n g _ <NOUN> c a k e _ <ADP> w i t h _ <NUM> t h r e e _ <ADJ> w h i t e _ <NOUN> s t o r i e s _ <PUNCT> 
+_ <DET> a _ <ADV> v e r y _ <ADJ> l a r g e _ <NOUN> c a k e _ <ADP> w i t h _ <NOUN> f l o w e r s _ <ADP> a r o u n d _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <NOUN> w e d d i n g _ <NOUN> c a k e _ <PRON> t h a t _ <VERB> i s _ <NUM> * _ <NOUN> l a y e r s _ <ADJ> h i g h _ <CCONJ> a n d _ <VERB> h a s _ <NOUN> f l o w e r s _ <ADP> o n _ <PRON> i t _ <PUNCT> 
+_ <DET> a _ <ADJ> l a r g e _ <ADJ> f o u r - t i e r e d _ <VERB> w h i t e d _ <ADJ> f r o s t e d _ <NOUN> c a k e _ <ADP> w i t h _ <ADJ> p u r p l e _ <ADJ> t r i m _ <VERB> d i s p l a y e d _ <PUNCT> 
+_ <DET> a _ <ADJ> r e d _ <VERB> c r o w n e d _ <NOUN> b i r d _ <VERB> p e r c h e d _ <ADP> o n _ <DET> a _ <NOUN> r o c k _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o s e _ <ADP> u p _ <ADP> o f _ <DET> a _ <ADJ> r e d _ <CCONJ> a n d _ <ADJ> b l a c k _ <NOUN> b i r d _ <ADP> o n _ <DET> a _ <NOUN> r o c k _ <PUNCT> 
+_ <DET> a _ <ADJ> r e d _ <VERB> h e a d e d _ <NOUN> b i r d _ <VERB> i s _ <VERB> s t a n d i n g _ <ADP> o n _ <DET> t h e _ <NOUN> r o c k s _ <PUNCT> 
+_ <PRON> t h e r e _ <VERB> i s _ <DET> a _ <ADV> v e r y _ <ADJ> s m a l l _ <NOUN> b i r d _ <PRON> t h a t _ <VERB> i s _ <ADP> o n _ <DET> t h e _ <NOUN> r o c k s _ <PUNCT> 
+_ <DET> a _ <NOUN> b i r d _ <ADP> w i t h _ <DET> a _ <ADJ> r e d _ <NOUN> f a c e _ <VERB> i s _ <VERB> s t a n d i n g _ <ADP> o n _ <DET> a _ <NOUN> r o c k _ <PUNCT> 
+_ <DET> a n _ <ADJ> a d o r a b l e _ <NOUN> c a t _ <VERB> h i d i n g _ <ADP> o u t _ <ADP> i n _ <NOUN> l u g g a g e _ <PRON> t h a t _ <VERB> i s _ <VERB> l e f t _ <ADJ> o p e n _ <PUNCT> 
+_ <DET> a _ <NOUN> p i c t u r e _ <ADP> o f _ <DET> a _ <NOUN> c a t _ <VERB> h i d i n g _ <ADP> i n s i d e _ <DET> a _ <ADJ> f u l l _ <NOUN> s u i t c a s e _ <PUNCT> 
+_ <DET> a _ <NOUN> c a t _ <ADP> w i t h _ <ADJ> b i g _ <NOUN> e y e s _ <VERB> s i t t i n g _ <ADP> i n s i d e _ <DET> a _ <NOUN> s u i t c a s e _ <PUNCT> 
+_ <DET> a _ <NOUN> c a t _ <VERB> p e e k i n g _ <ADP> o u t _ <ADP> f r o m _ <ADP> i n s i d e _ <DET> a _ <ADJ> c l o s e d _ <NOUN> s u i t c a s e _ <PUNCT> 
+_ <DET> a _ <ADJ> w h i t e _ <NOUN> c a t _ <VERB> i s _ <VERB> h i d i n g _ <ADP> i n _ <DET> a _ <NOUN> b a g _ <PUNCT> 
+_ <DET> a n _ <NOUN> e l e p h a n t _ <VERB> w a l k i n g _ <ADP> a c r o s s _ <DET> a _ <NOUN> f i e l d _ <ADP> n e a r _ <DET> a _ <NOUN> f e n c e _ <PUNCT> 
+_ <DET> a n _ <NOUN> e l e p h a n t _ <VERB> w a l k s _ <ADP> a l o n g _ <DET> a _ <NOUN> f e n c e _ <ADP> i n _ <DET> a n _ <VERB> e n c l o s e d _ <NOUN> a r e a _ <PUNCT> 
+_ <PRON> t h e r e _ <VERB> i s _ <DET> a _ <NOUN> e l e p h a n t _ <PRON> t h a t _ <VERB> i s _ <VERB> w a l k i n g _ <ADP> a l o n g _ <DET> a _ <NOUN> f e n c e _ <PUNCT> 
+_ <DET> a n _ <NOUN> e l e p h a n t _ <VERB> i s _ <VERB> s t a n d i n g _ <ADP> i n _ <DET> a _ <ADJ> f e n c e d _ <NOUN> a r e a _ <PUNCT> 
+_ <DET> a _ <ADJ> b i g _ <ADJ> g r a y _ <NOUN> e l e p h a n t _ <ADP> i n _ <DET> a n _ <NOUN> e n c l o s u r e _ <ADP> a t _ <DET> a _ <NOUN> z o o _ <PUNCT> 
+_ <PRON> t h e r e _ <VERB> i s _ <DET> a _ <NOUN> f i r e _ <NOUN> h y d r a n t _ <ADP> i n _ <DET> t h e _ <NOUN> w o o d s _ <ADP> n e x t _ <ADP> t o _ <NOUN> t r e e s _ <PUNCT> 
+_ <DET> a _ <ADJ> w o o d e d _ <NOUN> a r e a _ <ADP> w i t h _ <DET> a _ <NOUN> f i r e _ <NOUN> h y d r a n t _ <ADP> i n _ <DET> t h e _ <NOUN> a r e a _ <PUNCT> 
+_ <DET> a _ <NOUN> f i r e _ <NOUN> h y d r a n t _ <VERB> s i t t i n g _ <ADJ> n e x t _ <ADP> t o _ <DET> a _ <NOUN> t r e e _ <ADP> i n _ <DET> a _ <NOUN> f o r e s t _ <PUNCT> 
+_ <DET> a _ <NOUN> t r e e _ <ADP> i n _ <DET> t h e _ <NOUN> w o o d s _ <ADV> s o m e w h e r e _ <ADP> d u r i n g _ <DET> a _ <ADJ> s u n n y _ <NOUN> d a y _ <PUNCT> 
+_ <DET> a _ <ADJ> t a l l _ <ADJ> r e d _ <NOUN> f i r e _ <NOUN> h y d r a n t _ <ADP> i n _ <DET> t h e _ <NOUN> m i d d l e _ <ADP> o f _ <DET> a _ <ADJ> w o o d e d _ <NOUN> a r e a _ <PUNCT> 
+_ <DET> a _ <NOUN> g i r l _ <VERB> l o o k i n g _ <ADP> a t _ <PRON> h e r s e l f _ <CCONJ> a n d _ <PRON> h e r _ <NOUN> h a i r _ <ADP> i n _ <DET> a _ <NOUN> m i r r o r _ <PUNCT> 
+_ <DET> a _ <NOUN> r e f l e c t i o n _ <ADP> o f _ <DET> a _ <ADJ> y o u n g _ <NOUN> g i r l _ <ADP> i n _ <DET> a _ <NOUN> m i r r o r _ <ADP> b y _ <DET> a _ <NOUN> c u r t a i n _ <PUNCT> 
+_ <DET> a _ <ADJ> y o u n g _ <NOUN> l a d y _ <VERB> i s _ <VERB> p o s i n g _ <CCONJ> a n d _ <VERB> t a k i n g _ <DET> a _ <NOUN> s e l f i e _ <PUNCT> 
+_ <DET> t h e _ <ADJ> y o u n g _ <NOUN> w o m a n _ <VERB> a d m i r e s _ <PRON> h e r s e l f _ <ADP> i n _ <DET> t h e _ <NOUN> b a t h r o o m _ <NOUN> m i r r o r _ <PUNCT> 
+_ <DET> a _ <ADJ> b e a u t i f u l _ <ADJ> y o u n g _ <NOUN> l a d y _ <NOUN> s t a n d i n g _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a _ <NOUN> b a t h r o o m _ <NOUN> m i r r o r _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o s e _ <ADP> u p _ <ADP> o f _ <NOUN> k a l e _ <PUNCT> , _ <NOUN> b r o c c o l i _ <CCONJ> a n d _ <NOUN> c h e r r y _ <NOUN> t o m a t o e s _ <PUNCT> 
+_ <PRON> t h e r e _ <VERB> a r e _ <ADJ> m a n y _ <NOUN> p i e c e s _ <ADP> o f _ <NOUN> b r o c c o l i _ <CCONJ> a n d _ <NOUN> v e g e t a b l e s _ <ADV> h e r e _ <PUNCT> 
+_ <DET> a _ <NOUN> b u n c h _ <ADP> o f _ <ADJ> d i f f e r e n t _ <NOUN> v e g e t a b l e s _ <PRON> t h a t _ <VERB> a r e _ <ADP> o n _ <DET> a _ <NOUN> t a b l e _ <PUNCT> 
+_ <DET> a _ <NOUN> b u n c h _ <ADP> o f _ <ADJ> d i f f e r e n t _ <NOUN> t y p e s _ <ADP> o f _ <NOUN> v e g e t a b l e s _ <ADV> t o g e t h e r _ <PUNCT> 
+_ <NOUN> g r o u p _ <ADP> o f _ <DET> a _ <NOUN> b u n c h _ <ADP> o f _ <NOUN> g r e e n s _ <PUNCT> , _ <NOUN> b r o c c o l i _ <PUNCT> , _ <CCONJ> a n d _ <NOUN> c a r t o n _ <ADP> o f _ <NOUN> e g g s _ <PUNCT> 
+_ <DET> a _ <NOUN> f r u i t _ <VERB> s t a n d _ <DET> t h a t _ <VERB> h a s _ <NOUN> b a n a n a s _ <PUNCT> , _ <NOUN> p a p a y a _ <PUNCT> , _ <CCONJ> a n d _ <NOUN> p l a n t a i n s _ <PUNCT> 
+_ <DET> a _ <NOUN> f r u i t _ <VERB> s t a n d _ <NOUN> d i s p l a y _ <ADP> w i t h _ <NOUN> b a n a n a s _ <CCONJ> a n d _ <NOUN> k i w i _ <PUNCT> 
+_ <DET> a _ <NOUN> s t o r e _ <NOUN> d i s p l a y _ <VERB> f i l l e d _ <ADP> w i t h _ <ADJ> r i p e _ <PUNCT> , _ <ADJ> u n r i p e _ <NOUN> b a n a n a s _ <CCONJ> a n d _ <ADJ> o t h e r _ <NOUN> f r u i t _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> b a n a n a s _ <VERB> s u r r o u n d _ <DET> a _ <ADJ> s m a l l _ <NOUN> d i s p l a y _ <ADP> o f _ <NOUN> k i w i _ <PUNCT> 
+_ <DET> a _ <NOUN> f r u i t _ <VERB> s t a n d _ <ADP> w i t h _ <NOUN> p l a n t a i n s _ <PUNCT> , _ <NOUN> k i w i s _ <PUNCT> , _ <CCONJ> a n d _ <NOUN> b a n a n a s _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> p l a y i n g _ <NOUN> t e n n i s _ <ADP> a g a i n s t _ <DET> a _ <NOUN> b r i c k _ <NOUN> w a l l _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <VERB> h i t t i n g _ <DET> a _ <NOUN> t e n n i s _ <NOUN> b a l l _ <ADP> u p _ <ADP> a g a i n s t _ <DET> a _ <NOUN> b r i c k _ <NOUN> w a l l _ <ADP> w i t h _ <DET> a _ <NOUN> t e n n i s _ <NOUN> r a c k e t _ <PUNCT> 
+_ <PROPN> w o m a n _ <ADP> w i t h _ <NOUN> t e n n i s _ <NOUN> r a c k e t _ <VERB> i s _ <VERB> s t a n d _ <ADP> i n _ <NOUN> f r o n t _ <ADP> o f _ <DET> a _ <NOUN> b r i c k _ <NOUN> w a l l _ <PUNCT> 
+_ <DET> a _ <ADJ> y o u n g _ <NOUN> g i r l _ <VERB> i s _ <VERB> p l a y i n g _ <NOUN> b a l l _ <ADP> o n _ <DET> a _ <NOUN> b r i c k _ <NOUN> w a l l _ <PUNCT> 
+_ <DET> a _ <NOUN> w o m a n _ <PRON> t h a t _ <VERB> i s _ <VERB> s t a n d i n g _ <ADP> w i t h _ <DET> a _ <NOUN> r a c q u e t _ <PUNCT> 
+_ <DET> a _ <NOUN> b o w l _ <ADP> o f _ <NOUN> c e r e a l _ <ADP> w i t h _ <NOUN> m i l k _ <PUNCT> , _ <NOUN> b a n a n a s _ <PUNCT> , _ <NOUN> r a s p b e r r i e s _ <CCONJ> a n d _ <NOUN> b l u e b e r r i e s _ <PUNCT> 
+_ <DET> a _ <NOUN> b o w l _ <ADP> o f _ <ADJ> w h o l e _ <NOUN> w h e a t _ <NOUN> f l a k e _ <NOUN> c e r e a l _ <ADP> w i t h _ <NOUN> b a n a n a s _ <PUNCT> , _ <NOUN> r a s p b e r r i e s _ <CCONJ> a n d _ <NOUN> b l u e b e r r i e s _ <PUNCT> 
+_ <NOUN> c e r e a l _ <NOUN> f l a k e s _ <ADP> w i t h _ <ADJ> f r e s h _ <NOUN> f r u i t _ <ADP> i n _ <DET> a _ <NOUN> b o w l _ <ADP> w i t h _ <NOUN> m i l k _ <PUNCT> 
+_ <NOUN> b e r r i e s _ <PUNCT> , _ <VERB> s l i c e d _ <PUNCT> , _ <NOUN> b a n a n a s _ <PUNCT> , _ <NOUN> m i l k _ <PUNCT> , _ <CCONJ> a n d _ <NOUN> c e r e a l _ <VERB> f i l l _ <DET> t h e _ <NOUN> b o w l _ <PUNCT> 
+_ <DET> a _ <ADJ> w o o d e n _ <NOUN> t a b l e _ <ADP> w i t h _ <DET> a _ <NOUN> b o w l _ <ADP> o f _ <NOUN> f r u i t _ <CCONJ> a n d _ <NOUN> c e r e a l _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> c h i l d r e n _ <ADP> o n _ <DET> a _ <NOUN> s o c c e r _ <NOUN> t e a m _ <VERB> p o s i n g _ <ADP> f o r _ <DET> a _ <NOUN> p i c t u r e _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <ADJ> s m a l l _ <NOUN> c h i l d r e n _ <VERB> w e a r _ <ADJ> b l u e _ <NOUN> s h i r t s _ <CCONJ> a n d _ <VERB> s t a n d _ <ADP> b e h i n d _ <NUM> t w o _ <NOUN> s o c c e r _ <NOUN> b a l l s _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <ADJ> s m a l l _ <NOUN> c h i l d r e n _ <ADP> i n _ <VERB> m a t c h i n g _ <NOUN> s h i r t s _ <ADP> w i t h _ <NUM> t w o _ <NOUN> s o c c e r _ <NOUN> b a l l s _ <PUNCT> 
+_ <DET> a _ <ADJ> s m a l l _ <NOUN> c h i l d _ <PART> ' s _ <NOUN> s o c c e r _ <NOUN> t e a m _ <VERB> p o s i n g _ <ADP> w i t h _ <NOUN> s o c c e r _ <NOUN> b a l l s _ <PUNCT> 
+_ <DET> a _ <NOUN> s o c c e r _ <NOUN> t e a m _ <VERB> c o m p o s e d _ <ADP> o f _ <ADJ> l i t t l e _ <NOUN> g i r l s _ <CCONJ> a n d _ <NOUN> b o y s _ <PUNCT> 
+_ <DET> a _ <NOUN> b a t h r o o m _ <VERB> h a s _ <DET> a _ <NOUN> r a d i a t o r _ <ADP> b y _ <DET> t h e _ <NOUN> w a l l _ <PUNCT> 
+_ <DET> t h e _ <NOUN> b a t h r o o m _ <VERB> s h o w s _ <DET> a _ <NOUN> t o i l e t _ <PUNCT> , _ <NOUN> r a d i a t o r _ <PUNCT> , _ <NOUN> t u b _ <PUNCT> , _ <CCONJ> a n d _ <NOUN> c l o s e t _ <PUNCT> 
+_ <NOUN> b a t h r o o m _ <ADP> w i t h _ <ADJ> t i l e d _ <NOUN> f l o o r _ <PUNCT> , _ <NOUN> r a d i a t o r _ <PUNCT> , _ <NOUN> s h o w e r _ <CCONJ> a n d _ <NOUN> b a t h t u b _ <PUNCT> 
+_ <DET> a _ <NOUN> b a t h r o o m _ <VERB> s h o w i n g _ <DET> a _ <NOUN> s h o w e r _ <VERB> s t a l l _ <NOUN> t u b _ <NOUN> c o m b i n a t i o n _ <ADP> w i t h _ <DET> a _ <ADJ> w h i t e _ <ADJ> c e r a m i c _ <NOUN> f l o o r _ <PUNCT> 
+_ <DET> a _ <ADJ> b a s i c _ <ADJ> w h i t e _ <NOUN> b a t h r o o m _ <PUNCT> , _ <ADP> w i t h _ <NOUN> s h o w e r _ <CCONJ> a n d _ <NOUN> t o i l e t _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> p e o p l e _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <ADJ> s a n d y _ <NOUN> b e a c h _ <ADP> n e x t _ <ADP> t o _ <NOUN> s u r f b o a r d s _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> p e o p l e _ <VERB> s i t _ <ADP> o n _ <DET> t h e _ <NOUN> b e a c h _ <ADP> w i t h _ <NOUN> s u r f b o a r d s _ <ADP> a t _ <PRON> t h e i r _ <NOUN> s i d e s _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> p e o p l e _ <VERB> s i t t i n g _ <ADP> o n _ <DET> t h e _ <NOUN> b e a c h _ <VERB> l o o k i n g _ <ADP> o u t _ <ADP> t o _ <NOUN> s e a _ <ADP> w i t h _ <PRON> t h e i r _ <NOUN> s u r f _ <NOUN> b o a r d s _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> p e o p l e _ <VERB> s i t _ <ADP> i n _ <DET> t h e _ <NOUN> s a n d _ <ADP> w i t h _ <PRON> t h e i r _ <NOUN> s u r f _ <NOUN> b o a r d s _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> p e o p l e _ <VERB> s i t t i n g _ <ADP> o n _ <DET> a _ <NOUN> b e a c h _ <ADP> w i t h _ <NOUN> s u r f _ <NOUN> b o a r d s _ <ADP> n e a r _ <ADP> b y _ <PUNCT> 
+_ <NOUN> c a r s _ <VERB> d r i v i n g _ <ADP> o n _ <DET> t h e _ <NOUN> s t r e e t _ <ADP> n e a r _ <DET> a n _ <NOUN> i n t e r s e c t i o n _ <PUNCT> 
+_ <DET> a n _ <NOUN> i n t e r s e c t i o n _ <VERB> f e a t u r e s _ <DET> a _ <ADJ> d i r e c t i o n a l _ <NOUN> s i g n _ <ADP> t o _ <ADJ> l o c a l _ <NOUN> t o w n s _ <PUNCT> 
+_ <NOUN> c a r s _ <VERB> m o v e _ <ADP> n e a r _ <DET> a n _ <NOUN> i n t e r s e c t i o n _ <VERB> b o r d e r e d _ <ADP> b y _ <NOUN> t r e e s _ <PUNCT> 
+_ <DET> t h e _ <NOUN> t a n _ <NOUN> c a r _ <VERB> i s _ <ADP> i n _ <DET> t h e _ <ADJ> l e f t _ <NOUN> l a n e _ <ADP> o f _ <NOUN> t r a f f i c _ <PUNCT> 
+_ <DET> a _ <ADJ> g r e e n _ <NOUN> v a n _ <PRON> t h a t _ <VERB> i s _ <VERB> d r i v i n g _ <ADP> d o w n _ <DET> a _ <NOUN> s t r e e t _ <PUNCT> 
+_ <DET> a _ <NOUN> c o u p l e _ <ADP> o f _ <NOUN> t r a i n s _ <PRON> t h a t _ <VERB> a r e _ <ADP> b y _ <DET> e a c h _ <ADJ> o t h e r _ <PUNCT> 
+_ <DET> t h e _ <NOUN> s p a c e _ <ADP> b e t w e e n _ <NUM> t w o _ <NOUN> t r a i n s _ <ADP> a s _ <PRON> t h e y _ <VERB> p a s s _ <DET> e a c h _ <ADJ> o t h e r _ <PUNCT> 
+_ <NUM> o n e _ <NOUN> t r a i n _ <VERB> i s _ <VERB> p a s s i n g _ <ADV> v e r y _ <ADV> c l o s e _ <ADP> t o _ <DET> a n o t h e r _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> t r a i n s _ <ADP> n e a r _ <DET> e a c h _ <ADJ> o t h e r _ <ADP> w i t h _ <DET> a _ <NOUN> b r i d g e _ <ADP> i n _ <DET> t h e _ <NOUN> b a c k g r o u n d _ <PUNCT> 
+_ <NUM> t w o _ <ADJ> b r i g h t _ <ADJ> g r e e n _ <NOUN> p a s s e n g e r _ <NOUN> t r a i n s _ <VERB> p a s s _ <ADP> b y _ <ADP> w i t h _ <NOUN> p e o p l e _ <VERB> s t a n d i n g _ <ADP> i n _ <DET> t h e _ <NOUN> d o o r w a y s _ <PUNCT> 
+_ <DET> a n _ <NOUN> i m a g e _ <ADP> o f _ <DET> a _ <NOUN> b o x _ <ADP> o f _ <NOUN> d o n u t s _ <ADP> i n _ <DET> a _ <NOUN> b o x _ <PUNCT> 
+_ <NUM> f o u r _ <NOUN> d o n u t s _ <ADP> i n _ <DET> a _ <NOUN> b o x _ <ADP> w i t h _ <DET> a _ <NOUN> v a r i e t y _ <ADP> o f _ <NOUN> f r o s t i n g s _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <NOUN> d o n u t s _ <VERB> s i t t i n g _ <ADP> i n _ <DET> a _ <NOUN> b o x _ <PUNCT> 
+_ <DET> a _ <NOUN> g r o u p _ <ADP> o f _ <ADJ> d i f f e r e n t _ <NOUN> t y p e s _ <ADP> o f _ <NOUN> d o u g h n u t s _ <ADP> i n _ <DET> a _ <NOUN> b o x _ <PUNCT> 
+_ <DET> a _ <NOUN> c l o s e _ <ADP> u p _ <ADP> o f _ <ADJ> m a n y _ <ADJ> d i f f e r e n t _ <NOUN> k i n d s _ <ADP> o f _ <NOUN> d o u g h n u t s _ <PUNCT> 
+_ <NUM> t w o _ <ADJ> b r o w n _ <NOUN> h o r s e s _ <NOUN> g r a z i n g _ <ADP> i n _ <DET> a _ <VERB> f e n c e d _ <ADP> o f f _ <NOUN> f i e l d _ <PUNCT> 
+_ <NUM> t w o _ <NOUN> h o r s e s _ <VERB> a r e _ <NOUN> g r a z i n g _ <ADP> i n _ <DET> a _ <ADJ> g r e e n _ <NOUN> f i e l d _ <PUNCT> 
+_ <NUM> t w o _ <ADJ> b r o w n _ <NOUN> h o r s e s _ <ADP> i n _ <DET> a _ <NOUN> p a s t u r e _ <NOUN> e a t i n g _ <NOUN> g r a s s _ <PUNCT> 
+_ <DET> t h e _ <NUM> t w o _ <ADJ> b r o w n _ <NOUN> h o r s e s _ <VERB> a r e _ <VERB> e a t i n g _ <DET> t h e _ <NOUN> g r a s s _ <PUNCT> 
+_ <DET> a _ <NOUN> h o r s e _ <VERB> i s _ <VERB> s t a n d i n g _ <ADP> i n _ <DET> a _ <ADJ> g r e e n _ <NOUN> f i e l d _ <PUNCT>

@@ -1,0 +1,1000 @@
+<DET> a <ADJ> short <CCONJ> and <ADJ> <unk> <NOUN> zebra <ADP> in <PRON> it <VERB> *s <ADJ> natural <NOUN> habitat <PUNCT>
+<DET> a <NOUN> zebra <NOUN> standing <ADP> in <DET> a <NOUN> tree <VERB> filled <NOUN> forest <PUNCT>
+<DET> this <NOUN> zebra <VERB> has <ADJ> black <CCONJ> and <ADJ> white <NOUN> strips <CCONJ> and <VERB> is <ADP> in <DET> the <NOUN> woods <PRON> that <VERB> is <ADV> partially <ADJ> shaded <PUNCT>
+<DET> a <NOUN> zebra <VERB> is <VERB> standing <ADP> by <DET> a <NOUN> tree <ADP> with <NOUN> greenery <ADP> behind <PRON> it <PUNCT>
+<DET> a <NOUN> zebra <NOUN> standing <ADJ> next <ADP> to <DET> a <NOUN> tree <ADP> in <DET> a <ADJ> wooded <NOUN> area <PUNCT>
+<DET> a <ADJ> black <CCONJ> and <ADJ> white <NOUN> sign <DET> some <NOUN> trees <NOUN> fence <CCONJ> and <NOUN> buildings <PUNCT>
+<DET> a <NOUN> sign <VERB> is <ADV> partially <VERB> obscured <ADP> by <DET> a <NOUN> tree <PUNCT>
+<DET> a <ADJ> large <ADJ> white <NOUN> museum <NOUN> entrance <NOUN> sign <ADP> in <NOUN> front <ADP> of <DET> a <NOUN> building <PUNCT>
+<DET> a <NOUN> museum <NOUN> sign <VERB> showing <DET> the <ADJ> main <NOUN> entrance <CCONJ> and <NOUN> car <NOUN> park <PUNCT>
+<NUM> two <NOUN> signs <ADP> in <NOUN> front <ADP> of <DET> a <NOUN> gate <ADP> near <DET> a <NOUN> house <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> people <VERB> are <VERB> gathered <ADV> together <ADP> with <PRON> their <NOUN> luggage <PUNCT>
+<NOUN> people <VERB> moving <NOUN> luggage <ADP> on <NOUN> luggage <NOUN> carts <ADP> in <DET> a <ADJ> busy <NOUN> <unk> <PUNCT>
+<DET> a <NOUN> lot <ADP> of <NOUN> people <VERB> pushing <NOUN> carts <ADP> with <NOUN> luggage <ADP> in <PRON> them <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> people <VERB> walking <ADP> on <DET> the <NOUN> side <NOUN> walk <PUNCT>
+<VERB> crowded <NOUN> area <ADP> in <DET> a <NOUN> mall <ADV> where <NOUN> people <VERB> are <VERB> carrying <DET> a <NOUN> lot <ADP> of <NOUN> luggage <PUNCT>
+<DET> a <NOUN> cup <ADP> of <NOUN> coffee <VERB> sitting <ADP> in <NOUN> front <ADP> of <DET> a <NOUN> keyboard <PUNCT>
+<DET> a <NOUN> cup <ADP> of <NOUN> coffee <ADP> with <DET> a <NOUN> keyboard <ADJ> next <ADP> to <PRON> it <PUNCT>
+<PROPN> cup <ADP> of <NOUN> coffee <ADP> on <DET> the <NOUN> desk <ADP> in <NOUN> front <ADP> of <NOUN> keyboard <PUNCT>
+<DET> a <NOUN> cup <ADP> of <NOUN> coffee <VERB> sits <ADJ> next <ADP> to <DET> a <NOUN> keyboard <CCONJ> and <NOUN> mouse <PUNCT>
+<DET> a <NOUN> cup <ADP> of <NOUN> coffee <VERB> sitting <ADP> in <NOUN> front <ADP> of <DET> a <NOUN> keyboard <PUNCT>
+<ADJ> several <NOUN> tables <ADP> with <NOUN> chairs <CCONJ> and <NOUN> umbrellas <ADP> with <NOUN> people <VERB> sitting <ADP> at <DET> some <ADP> of <PRON> them <PUNCT>
+<NOUN> patrons <VERB> have <DET> a <NOUN> meal <ADP> in <DET> an <ADJ> elegant <NOUN> restaurant <PUNCT>
+<DET> a <NOUN> restaurant <VERB> filled <ADP> with <NOUN> umbrella <VERB> covered <NOUN> tables <CCONJ> and <NOUN> people <VERB> sharing <NOUN> meals <PUNCT>
+<NOUN> people <VERB> sitting <ADP> at <NOUN> tables <ADV> together <ADP> inside <ADP> of <DET> a <ADJ> <unk> <NOUN> restaurant <PRON> that <VERB> is <VERB> colored <ADP> in <NOUN> <unk> <CCONJ> and <NOUN> greens <PUNCT>
+<NOUN> diners <VERB> sit <CCONJ> and <VERB> talk <ADP> in <ADV> brightly <VERB> colored <NOUN> chairs <ADP> underneath <NOUN> umbrellas <PUNCT>
+<DET> the <ADJ> large <ADJ> <unk> <NOUN> bird <VERB> is <VERB> looking <ADP> for <DET> some <NOUN> prey <PUNCT>
+<DET> a <ADJ> white <NOUN> bird <VERB> starts <VERB> flying <ADP> from <DET> the <NOUN> water <PUNCT>
+<DET> a <ADJ> colorful <ADJ> large <NOUN> bird <ADP> with <DET> a <ADJ> long <NOUN> beak <VERB> taking <NOUN> flight <PUNCT>
+<DET> a <NOUN> crane <VERB> taking <ADP> off <ADP> into <NOUN> flight <ADP> from <DET> the <NOUN> water <PUNCT>
+<DET> this <VERB> is <DET> an <NOUN> image <ADP> of <DET> a <NOUN> crane <NOUN> landing <ADP> in <NOUN> water <PUNCT>
+<DET> a <NOUN> home <VERB> made <ADP> thomas <DET> the <NOUN> train <NOUN> birthday <NOUN> cake <PUNCT>
+<DET> a <ADJ> large <PROPN> thomas <DET> the <PROPN> tank <PROPN> engine <NOUN> birthday <NOUN> cake <PUNCT>
+<DET> a <NOUN> cake <ADP> in <DET> the <NOUN> shape <ADP> of <DET> a <NOUN> train <PUNCT>
+<DET> a <NOUN> train <NOUN> cake <VERB> sitting <ADP> on <NOUN> top <ADP> of <DET> a <NOUN> metal <NOUN> shelf <PUNCT>
+<DET> a <PROPN> thomas <DET> the <NOUN> train <NOUN> engine <NOUN> model <NOUN> cake <ADP> with <VERB> writing <ADP> on <DET> the <NOUN> platform <PUNCT>
+<DET> a <NOUN> man <VERB> places <DET> a <NOUN> bet <ADP> at <DET> a <VERB> <unk> <NOUN> truck <ADP> in <DET> a <NOUN> parking <NOUN> lot <PUNCT>
+<DET> the <NOUN> people <VERB> are <VERB> using <DET> the <NOUN> kiosk <ADP> on <DET> the <NOUN> <unk> <NOUN> van <PUNCT>
+<NOUN> people <VERB> <unk> <NOUN> items <ADP> from <DET> a <ADJ> green <NOUN> bus <NOUN> outside <PUNCT>
+<DET> a <NOUN> <unk> <NOUN> bus <VERB> is <VERB> parked <ADP> on <DET> the <NOUN> side <ADP> of <DET> a <NOUN> road <PUNCT>
+<DET> a <ADJ> portable <ADJ> green <VERB> <unk> <NOUN> bus <VERB> parked <ADP> on <DET> a <NOUN> street <PUNCT>
+<DET> a <NOUN> view <ADP> from <ADP> inside <DET> a <NOUN> car <VERB> looking <ADP> down <DET> a <NOUN> highway <PUNCT>
+<PROPN> picture <ADP> from <ADP> inside <DET> the <ADJ> front <NOUN> seat <ADP> of <DET> a <NOUN> car <VERB> driving <ADP> down <DET> a <NOUN> highway <PUNCT>
+<DET> a <ADJ> green <ADJ> white <ADJ> yellow <CCONJ> and <ADJ> black <NOUN> sign <CCONJ> and <DET> some <NOUN> cars <PUNCT>
+<DET> a <NOUN> car <VERB> is <VERB> driving <ADP> down <DET> a <ADJ> busy <NOUN> street <PUNCT>
+<DET> a <NOUN> view <ADP> of <NOUN> traffic <ADV> ahead <ADP> from <ADP> inside <DET> a <NOUN> car <PUNCT>
+<PRON> we <VERB> are <VERB> looking <ADP> at <DET> the <NOUN> cover <ADP> of <DET> a <NOUN> soccer <NOUN> magazine <PUNCT>
+<DET> a <NOUN> man <VERB> chasing <DET> a <NOUN> soccer <NOUN> ball <ADP> on <NOUN> top <ADP> of <DET> a <NOUN> field <PUNCT>
+<DET> a <PROPN> <unk> <NOUN> football <NOUN> player <VERB> runs <ADP> for <DET> the <NOUN> ball <PUNCT>
+<DET> a <NOUN> man <VERB> is <VERB> chasing <DET> a <NOUN> soccer <NOUN> ball <ADP> in <DET> a <NOUN> field <PUNCT>
+<DET> the <NOUN> cover <ADP> of <DET> a <NOUN> magazine <ADP> with <DET> a <NOUN> soccer <NOUN> player <ADP> on <DET> the <NOUN> front <PUNCT>
+<ADJ> fresh <NOUN> cut <NOUN> flowers <ADP> in <DET> a <NOUN> glass <ADP> of <NOUN> water <PUNCT>
+<DET> a <NOUN> bouquet <ADP> of <NOUN> flowers <ADP> in <DET> a <ADJ> clear <NOUN> glass <PUNCT>
+<DET> a <NOUN> vase <VERB> filled <ADP> with <ADJ> red <CCONJ> and <ADJ> pink <NOUN> flowers <PUNCT>
+<PROPN> red <CCONJ> and <ADJ> pink <ADJ> fresh <NOUN> flowers <ADP> in <DET> a <NOUN> glass <NOUN> vase <PUNCT>
+<DET> a <NOUN> close-up <ADP> of <NOUN> flowers <CCONJ> and <DET> a <NOUN> glass <NOUN> cup <PUNCT>
+<DET> a <NOUN> close <ADP> up <ADP> of <DET> a <NOUN> train <ADP> on <DET> a <NOUN> track <PUNCT>
+<DET> a <ADJ> large <NOUN> passenger <NOUN> train <VERB> sitting <ADP> on <NOUN> railroad <NOUN> tracks <PUNCT>
+<ADJ> low <NOUN> view <ADP> of <ADJ> small <NOUN> passenger <NOUN> train <VERB> moving <ADP> through <DET> the <NOUN> countryside <PUNCT>
+<DET> a <NOUN> silver <NOUN> train <VERB> riding <ADP> on <DET> a <NOUN> track <ADP> during <NOUN> sunset <NOUN> time <PUNCT>
+<DET> a <NOUN> train <NOUN> engine <VERB> carrying <ADJ> many <NOUN> carts <ADP> down <DET> a <NOUN> track <PUNCT>
+<ADJ> wooly <NOUN> horse <CCONJ> and <NOUN> sheep <NOUN> dog <VERB> face <DET> each <ADJ> other <ADV> down <PUNCT>
+<DET> a <NOUN> horse <CCONJ> and <DET> a <NOUN> dog <VERB> facing <DET> each <ADJ> other <ADP> in <DET> a <ADJ> brown <NOUN> field <ADP> of <NOUN> grass <PUNCT>
+<DET> a <NOUN> horse <VERB> looks <ADP> at <DET> a <NOUN> dog <ADP> along <DET> a <NOUN> tree <VERB> lined <NOUN> fence <PUNCT>
+<DET> a <ADJ> furry <NOUN> horse <ADP> in <DET> a <NOUN> pasture <ADP> with <DET> a <NOUN> dog <PUNCT>
+<DET> a <NOUN> pony <CCONJ> and <DET> a <NOUN> dog <VERB> are <ADJ> outside <ADP> in <DET> the <NOUN> hay <PUNCT>
+<DET> half <NOUN> dozen <NOUN> doughnuts <VERB> displayed <ADP> by <NOUN> worker <ADP> in <NOUN> cardboard <NOUN> box <PUNCT>
+<DET> a <NOUN> lady <ADP> in <DET> a <NOUN> donut <NOUN> shop <VERB> is <VERB> displaying <NOUN> donuts <ADP> in <DET> a <NOUN> box <PUNCT>
+<DET> a <NOUN> girl <VERB> wearing <DET> a <ADJ> krispy <NOUN> kreme <NOUN> hat <ADP> with <NOUN> donuts <PUNCT>
+<DET> a <NOUN> woman <VERB> is <VERB> smiling <ADP> while <VERB> holding <DET> a <NOUN> box <ADP> of <NOUN> doughnuts <PUNCT>
+<DET> a <NOUN> girl <VERB> is <DET> a <PROPN> krispy <PROPN> kreme <NOUN> hat <VERB> holding <NOUN> <unk> <ADP> of <NOUN> donuts <PUNCT>
+<NUM> three <NOUN> cows <VERB> are <VERB> standing <ADP> in <DET> the <NOUN> grass <NOUN> outside <PUNCT>
+<DET> a <NOUN> close <ADP> up <ADP> of <DET> a <NOUN> number <ADP> of <NOUN> cows <ADP> near <NUM> one <DET> another <PUNCT>
+<NUM> three <NOUN> <unk> <VERB> looking <NOUN> standing <ADP> in <DET> a <NOUN> field <VERB> facing <DET> the <NOUN> pictures <NOUN> <unk> <PUNCT>
+<DET> a <NOUN> couple <ADP> of <NOUN> cows <VERB> stand <ADP> on <DET> some <NOUN> grass <PUNCT>
+<DET> a <NOUN> herd <ADP> of <ADJ> black <NOUN> cows <VERB> standing <ADP> on <NOUN> top <ADP> of <DET> a <ADJ> green <NOUN> field <PUNCT>
+<DET> a <NOUN> person <VERB> jumping <ADP> up <ADP> in <DET> the <NOUN> air <ADP> on <DET> a <NOUN> skateboard <PUNCT>
+<DET> a <NOUN> person <ADP> on <DET> a <NOUN> skateboard <VERB> does <DET> an <NOUN> air <NOUN> trick <PUNCT>
+<DET> a <NOUN> man <VERB> flying <ADP> through <DET> the <NOUN> air <ADP> on <NOUN> top <ADP> of <DET> a <NOUN> skateboard <PUNCT>
+<DET> a <ADV> somewhat <ADJ> blurry <NOUN> image <ADP> of <DET> a <ADJ> young <NOUN> man <ADP> in <DET> the <NOUN> air <ADP> on <PRON> his <NOUN> skateboard <PUNCT>
+<DET> a <NOUN> man <ADP> in <ADJ> red <NOUN> shirt <VERB> doing <DET> a <NOUN> trick <ADP> on <NOUN> skateboard <PUNCT>
+<DET> a <NOUN> bathroom <NOUN> area <ADP> with <NOUN> toilet <PUNCT> , <NOUN> sink <CCONJ> and <NOUN> tub <PUNCT>
+<DET> a <ADV> sparsely <ADJ> furnished <NOUN> bathroom <VERB> is <ADV> dimly <VERB> lit <ADP> by <DET> the <NOUN> overhead <NOUN> <unk> <PUNCT>
+<DET> a <NOUN> picture <VERB> taken <ADP> with <DET> a <NOUN> fish <NOUN> bowl <NOUN> lens <PUNCT>
+<DET> a <ADJ> <unk> <NOUN> lens <NOUN> photograph <ADP> of <DET> a <ADJ> residential <NOUN> bathroom <PUNCT>
+<DET> a <NOUN> bathroom <ADP> with <ADJ> white <NOUN> fixtures <CCONJ> and <ADJ> green <NOUN> flooring <PUNCT>
+<NOUN> people <VERB> standing <ADJ> next <ADP> to <NOUN> luggage <NOUN> carts <VERB> loading <NOUN> luggage <ADP> on <DET> an <NOUN> airplane <PUNCT>
+<DET> an <NOUN> airplane <VERB> being <VERB> <unk> <ADP> while <VERB> parked <ADP> at <DET> a <NOUN> gate <ADP> at <DET> the <NOUN> airport <PUNCT>
+<DET> an <NOUN> airport <NOUN> landing <NOUN> strip <CCONJ> and <NOUN> apron <NOUN> area <ADP> with <DET> an <NOUN> airplane <VERB> parked <CCONJ> and <DET> a <NOUN> grounds <NOUN> crew <ADJ> next <ADP> to <NOUN> luggage <NOUN> equipment <PUNCT>
+<DET> a <NOUN> plane <VERB> is <VERB> seen <VERB> being <VERB> loaded <ADP> at <DET> the <NOUN> airport <PUNCT>
+<NOUN> people <VERB> moving <NOUN> luggage <NOUN> carts <ADP> to <VERB> load <ADP> onto <DET> an <NOUN> airplane <PUNCT>
+<DET> the <NOUN> lady <VERB> is <VERB> sitting <ADP> on <DET> the <NOUN> wood <NOUN> bench <PUNCT>
+<DET> a <ADJ> young <ADJ> <unk> <NOUN> girl <VERB> wearing <NOUN> jeans <CCONJ> and <DET> a <ADJ> white <NOUN> t-shirt <PUNCT> , <VERB> sitting <ADP> on <DET> a <NOUN> bench <PUNCT>
+<DET> a <NOUN> woman <VERB> posing <ADP> for <DET> a <NOUN> picture <ADP> without <NOUN> shoes <ADP> on <DET> a <NOUN> park <NOUN> bench <PUNCT>
+<DET> a <NOUN> woman <VERB> posing <ADP> for <DET> the <NOUN> camera <VERB> sitting <ADP> on <DET> a <NOUN> bench <PUNCT>
+<DET> a <NOUN> girl <VERB> is <VERB> sitting <VERB> barefooted <ADP> on <DET> a <NOUN> bench <PUNCT>
+<DET> a <NOUN> cat <VERB> sitting <ADP> on <DET> a <NOUN> chair <ADP> on <NOUN> top <ADP> of <DET> a <ADJ> soft <NOUN> cushion <PUNCT>
+<DET> a <NOUN> cat <VERB> is <VERB> sitting <ADP> on <DET> the <NOUN> couch <VERB> looking <ADP> at <NOUN> something <PUNCT>
+<DET> a <NOUN> cat <VERB> lays <ADP> on <DET> the <NOUN> couch <PUNCT> , <VERB> staring <ADP> at <NOUN> something <ADP> out <ADP> of <NOUN> frame <PUNCT>
+<DET> a <ADJ> striped <NOUN> cat <VERB> sitting <ADP> on <DET> a <ADJ> blue <NOUN> couch <PUNCT>
+<DET> a <ADJ> close <ADP> up <NOUN> image <ADP> of <DET> a <NOUN> cat <VERB> sitting <ADP> on <DET> a <NOUN> couch <PUNCT>
+<DET> a <ADJ> green <NOUN> plant <VERB> growing <ADP> off <ADP> of <DET> a <NOUN> tree <PUNCT>
+<DET> a <NOUN> bunch <ADP> of <NOUN> bananas <VERB> are <ADV> still <ADP> on <DET> the <NOUN> tree <PUNCT>
+<DET> a <NOUN> branch <ADP> of <DET> a <NOUN> banana <NOUN> tree <ADP> with <ADJ> several <NOUN> bunches <ADP> of <NOUN> bananas <VERB> attached <PUNCT>
+<DET> a <ADJ> large <NOUN> bunch <ADP> of <ADJ> unripe <NOUN> bananas <VERB> hang <ADP> from <DET> a <NOUN> tree <PUNCT>
+<DET> a <NOUN> bunch <ADP> of <NOUN> bananas <VERB> hanging <ADP> from <DET> a <NOUN> tree <PUNCT>
+<DET> a <NOUN> person <VERB> taking <DET> a <NOUN> swing <ADP> at <DET> a <NOUN> baseball <PUNCT>
+<DET> a <NOUN> person <VERB> holding <DET> a <NOUN> baseball <NOUN> bat <ADP> during <DET> a <NOUN> baseball <NOUN> game <PUNCT>
+<DET> a <NOUN> softball <NOUN> player <VERB> stands <ADP> at <DET> the <NOUN> plate <ADP> for <DET> the <NOUN> pitch <PUNCT>
+<DET> a <NOUN> woman <VERB> preparing <ADP> to <VERB> swing <DET> a <NOUN> baseball <NOUN> bat <PUNCT>
+<DET> a <NOUN> woman <VERB> wearing <DET> a <NOUN> helmet <CCONJ> and <VERB> holding <ADP> onto <DET> a <NOUN> baseball <NOUN> bat <PUNCT>
+<NOUN> people <VERB> walking <ADP> down <DET> the <NOUN> street <ADP> while <DET> some <NOUN> people <VERB> ride <PRON> their <NOUN> bicycles <PUNCT>
+<NOUN> people <VERB> are <VERB> crossing <DET> an <NOUN> intersection <ADP> with <DET> a <PROPN> <unk> <NOUN> statue <ADP> behind <PRON> them <PUNCT>
+<PRON> i <VERB> like <DET> the <NOUN> statue <ADP> of <DET> the <ADJ> <unk> <NOUN> <unk> <ADP> in <DET> the <NOUN> background <PUNCT>
+<DET> some <NOUN> people <ADP> on <NOUN> bicycles <CCONJ> and <NOUN> others <VERB> walking <ADP> on <DET> a <NOUN> street <CCONJ> and <DET> a <NOUN> statue <PUNCT>
+<NOUN> pedestrians <PUNCT> , <DET> a <NOUN> rider <ADP> on <DET> a <NOUN> scooter <CCONJ> and <ADJ> several <NOUN> bicyclists <VERB> cross <DET> an <NOUN> intersection <ADP> at <DET> a <NOUN> crosswalk <PUNCT>
+<DET> a <NOUN> man <ADP> in <ADJ> white <NOUN> baseball <NOUN> uniform <VERB> throwing <DET> a <NOUN> baseball <ADP> on <NOUN> field <PUNCT>
+<NOUN> man <ADP> in <ADJ> white <CCONJ> and <ADJ> maroon <ADJ> uniform <VERB> pitching <DET> a <NOUN> baseball <PUNCT>
+<DET> a <NOUN> player <VERB> throws <DET> the <NOUN> baseball <ADP> as <ADJ> hard <ADP> as <PRON> he <AUX> can <PUNCT>
+<DET> a <NOUN> pitcher <VERB> has <VERB> thrown <DET> a <NOUN> pitch <CCONJ> and <VERB> is <VERB> shown <ADJ> mid <NOUN> motion <PUNCT>
+<DET> a <NOUN> man <PRON> that <VERB> is <VERB> standing <ADP> on <NOUN> pitchers <NOUN> mound <VERB> throwing <DET> a <NOUN> ball <PUNCT>
+<DET> a <NOUN> man <PRON> that <VERB> is <VERB> holding <DET> a <NOUN> kite <NOUN> standing <ADP> in <DET> the <NOUN> sand <PUNCT>
+<NOUN> man <NOUN> standing <ADP> beneath <ADJ> large <NOUN> sail <ADP> on <NOUN> beach <ADP> with <NOUN> man <VERB> controlling <ADP> from <NOUN> distance <PUNCT>
+<DET> this <VERB> is <DET> a <NOUN> man <CCONJ> and <DET> a <NOUN> woman <ADP> on <DET> a <ADJ> sandy <NOUN> beach <PUNCT>
+<DET> a <NOUN> man <PRON> who <VERB> is <VERB> holding <ADP> up <DET> a <NOUN> parachute <PUNCT>
+<DET> a <NOUN> person <ADP> in <DET> a <ADJ> dry <NOUN> area <ADP> with <DET> a <NOUN> sail <ADJ> high <ADP> in <DET> the <NOUN> sky <PUNCT>
+<DET> a <NOUN> bathroom <NOUN> scene <ADP> with <NOUN> sink <PUNCT> , <NOUN> mirror <PUNCT> , <CCONJ> and <NOUN> toilet <PUNCT>
+<DET> a <NOUN> bathroom <ADP> with <DET> a <PROPN> toilet <PROPN> sink <CCONJ> and <PROPN> window <PUNCT>
+<DET> a <NOUN> porcelain <NOUN> toilet <ADP> in <DET> a <ADJ> large <NOUN> home <NOUN> bathroom <PUNCT>
+<DET> a <ADJ> bare <NOUN> bathroom <VERB> has <DET> a <NOUN> window <ADP> over <DET> the <NOUN> toilet <PUNCT>
+<DET> the <ADJ> tiled <NOUN> bathroom <VERB> has <NOUN> toilet <NOUN> lid <VERB> closed <ADP> with <NOUN> door <ADV> <unk> <PUNCT>
+<DET> an <NOUN> arm <VERB> holds <ADP> out <DET> a <VERB> lit <ADJ> lighter <ADP> toward <DET> a <NOUN> lap <ADJ> top <NOUN> computer <NOUN> screen <VERB> featuring <DET> a <NOUN> man <ADP> with <DET> a <NOUN> cigarette <PUNCT>
+<NOUN> person <VERB> holds <DET> a <VERB> lit <NOUN> cigarette <ADJ> lighter <ADP> to <DET> an <NOUN> image <ADP> of <DET> a <NOUN> man <VERB> holding <DET> a <NOUN> cigarette <ADP> on <DET> a <ADJ> laptop <NOUN> computer <NOUN> screen <PUNCT>
+<DET> a <NOUN> person <VERB> pretending <ADP> to <VERB> light <DET> a <NOUN> man <ADP> on <DET> a <NOUN> laptop <NOUN> screen <PART> *s <NOUN> cigarette <PUNCT>
+<DET> a <NOUN> person <VERB> holding <DET> a <ADJ> lighter <ADP> to <DET> a <NOUN> laptop <NOUN> screen <VERB> pretending <ADP> to <VERB> light <DET> the <NOUN> cigarette <ADP> of <DET> a <NOUN> person <ADP> on <DET> the <NOUN> screen <PUNCT>
+<DET> a <NOUN> person <VERB> holding <DET> a <NOUN> cigarette <ADJ> lighter <ADP> up <ADP> to <DET> the <NOUN> image <ADP> of <DET> a <NOUN> man <NOUN> smoking <ADP> on <DET> a <NOUN> laptop <PUNCT>
+<PROPN> <unk> <ADP> at <NOUN> rest <ADP> on <NOUN> somebody <PART> *s <ADJ> black <CCONJ> and <ADJ> white <NOUN> shoes <PUNCT>
+<DET> a <NOUN> cat <VERB> lounging <ADP> on <NOUN> top <ADP> of <DET> a <NOUN> pair <ADP> of <NOUN> shoes <ADP> on <DET> the <NOUN> floor <PUNCT>
+<DET> a <NOUN> cat <VERB> laying <ADP> down <ADP> on <DET> the <NOUN> ground <ADP> with <DET> some <NOUN> shoes <PUNCT>
+<DET> a <NOUN> cat <VERB> sleeping <ADP> on <NOUN> top <ADP> of <DET> a <NOUN> pair <ADP> of <NOUN> shoes <PUNCT>
+<DET> a <NOUN> cat <VERB> snuggled <ADP> up <ADP> to <DET> a <NOUN> pair <ADP> of <NOUN> shoes <ADP> on <DET> the <NOUN> floor <PUNCT>
+<DET> a <NOUN> chef <NOUN> chops <ADP> up <NOUN> ingredients <ADP> in <DET> a <NOUN> pot <ADP> of <NOUN> stew <PUNCT>
+<NOUN> chef <NOUN> cooking <NOUN> meal <ADP> with <NOUN> scissors <CCONJ> and <NOUN> tongs <ADP> in <NOUN> hand <PUNCT>
+<DET> a <NOUN> man <ADP> in <ADJ> white <NOUN> coat <VERB> preparing <DET> a <NOUN> plate <ADP> of <NOUN> food <PUNCT>
+<DET> a <NOUN> person <NOUN> standing <ADP> over <DET> some <NOUN> pizza <ADP> with <DET> some <NOUN> scissors <PUNCT>
+<DET> a <ADJ> male <NOUN> chef <VERB> making <NOUN> <unk> <ADP> to <NOUN> food <ADP> in <DET> a <NOUN> skillet <PUNCT>
+<ADJ> cute <ADJ> little <NOUN> sheep <VERB> standing <ADP> around <ADP> for <DET> the <NOUN> picture <PUNCT>
+<DET> a <ADJ> white <NOUN> ewe <VERB> is <VERB> standing <ADP> in <DET> a <ADJ> green <NOUN> field <PUNCT>
+<ADV> heavily <VERB> <unk> <NOUN> sheep <NOUN> standing <ADP> on <ADJ> grassy <NOUN> area <ADP> in <ADJ> open <NOUN> field <PUNCT>
+<DET> a <NOUN> sheep <NOUN> standing <ADP> in <DET> a <ADJ> open <NOUN> grass <NOUN> field <PUNCT>
+<DET> a <ADJ> white <NOUN> sheep <ADP> in <ADJ> grassy <NOUN> area <ADP> with <NOUN> trees <ADP> in <NOUN> background <PUNCT>
+<DET> a <NOUN> tube <PRON> that <VERB> is <VERB> laying <ADP> down <ADP> on <DET> a <NOUN> sink <PUNCT>
+<DET> a <NOUN> tube <ADP> of <NOUN> cream <VERB> sitting <ADP> on <NOUN> top <ADP> of <DET> a <NOUN> bathroom <NOUN> sink <PUNCT>
+<DET> a <NOUN> close <ADP> up <ADP> of <NOUN> tooth <NOUN> brush <CCONJ> and <NOUN> tooth <VERB> paste <PUNCT>
+<VERB> open <NOUN> container <VERB> sitting <ADJ> next <ADP> to <DET> a <NOUN> toothbrush <ADP> on <DET> a <NOUN> sink <PUNCT>
+<DET> a <NOUN> toothbrush <ADP> on <DET> the <NOUN> edge <ADP> of <DET> a <NOUN> sink <ADP> with <DET> a <NOUN> tube <ADP> of <VERB> paste <PUNCT>
+<DET> a <NOUN> man <NOUN> surf <VERB> boarding <ADP> down <DET> a <NOUN> hill <ADP> during <DET> the <NOUN> day <PUNCT>
+<DET> a <NOUN> <unk> <VERB> wearing <ADJ> full <VERB> riding <NOUN> gear <VERB> <unk> <ADP> down <DET> a <NOUN> hill <PUNCT>
+<DET> a <NOUN> man <ADP> in <DET> a <VERB> crouched <NOUN> position <ADP> on <DET> a <NOUN> skateboard <PUNCT>
+<NOUN> man <ADP> on <NOUN> skate <NOUN> board <PUNCT> , <VERB> crouching <ADP> down <ADP> as <ADP> if <ADP> to <VERB> <unk> <NOUN> wind <NOUN> drag <PUNCT>
+<DET> a <NOUN> man <VERB> riding <DET> a <NOUN> skateboard <ADP> down <DET> a <NOUN> street <PUNCT>
+<DET> a <NOUN> man <PRON> who <VERB> is <VERB> holding <DET> a <NOUN> comb <CCONJ> and <NOUN> something <ADJ> white <ADP> in <PRON> his <NOUN> hands <PUNCT>
+<DET> a <NOUN> person <VERB> holding <DET> a <NOUN> comb <CCONJ> and <DET> another <NOUN> item <PUNCT>
+<DET> a <NOUN> set <ADP> of <ADJ> black <NOUN> hands <VERB> holding <DET> a <ADJ> black <NOUN> comb <PUNCT>
+<NUM> two <NOUN> hands <VERB> hold <DET> a <NOUN> comb <CCONJ> and <DET> a <ADJ> little <NOUN> piece <ADP> of <NOUN> something <PUNCT>
+<DET> a <NOUN> man <VERB> holding <DET> a <NOUN> piece <ADP> of <ADJ> white <NOUN> paper <ADP> in <PRON> his <NOUN> fingers <PUNCT>
+<DET> a <ADJ> blue <CCONJ> and <ADJ> white <NOUN> plate <ADP> with <NOUN> fruit <DET> an <NOUN> <unk> <NOUN> vegetables <PUNCT>
+<PROPN> orange <NOUN> pieces <VERB> have <VERB> been <VERB> arranged <ADP> on <DET> a <NOUN> platter <PUNCT>
+<DET> a <ADJ> blue <NOUN> glass <NOUN> plate <VERB> topped <ADP> with <NOUN> cheese <CCONJ> and <NOUN> broccoli <PUNCT>
+<DET> a <NOUN> dish <ADP> with <NOUN> broccoli <VERB> decorated <ADP> with <NOUN> orange <ADP> in <DET> the <NOUN> middle <PUNCT>
+<DET> an <NOUN> image <ADP> of <NOUN> broccoli <ADP> on <DET> a <NOUN> plate <ADP> with <NOUN> potatoes <PUNCT>
+<DET> a <NOUN> line <ADP> of <NOUN> people <VERB> checking <ADP> in <PRON> their <NOUN> luggage <ADP> at <DET> an <NOUN> airport <PUNCT>
+<DET> an <NOUN> airport <VERB> has <DET> a <NOUN> crowd <CCONJ> and <DET> a <NOUN> woman <VERB> greeting <DET> a <ADJ> small <NOUN> child <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> people <CCONJ> and <PRON> their <NOUN> luggage <ADP> at <DET> an <NOUN> airport <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> people <ADP> in <DET> a <ADV> very <ADJ> busy <NOUN> hallway <PUNCT>
+<ADJ> various <NOUN> travelers <CCONJ> and <PRON> their <NOUN> luggage <ADP> at <DET> a <ADJ> busy <NOUN> airport <PUNCT>
+<NUM> two <NOUN> giraffes <ADP> in <DET> an <NOUN> enclosure <ADP> with <PRON> their <NOUN> necks <CCONJ> and <NOUN> heads <VERB> touching <PUNCT>
+<NUM> two <NOUN> giraffes <ADP> with <NOUN> heads <VERB> extended <ADP> up <VERB> eating <ADP> from <DET> a <NOUN> tree <PUNCT>
+<ADP> if <PRON> you <VERB> have <DET> some <NOUN> animals <PRON> that <VERB> are <VERB> eating <NOUN> something <ADP> up <DET> a <NOUN> tree <PUNCT>
+<DET> a <NOUN> pair <ADP> of <NOUN> giraffes <VERB> is <VERB> stretching <ADP> up <ADP> to <DET> a <NOUN> limb <ADP> in <ADJ> perfect <NOUN> <unk> <PUNCT>
+<NUM> two <NOUN> giraffes <VERB> are <VERB> standing <NOUN> neck <ADP> to <NOUN> neck <ADP> in <PRON> their <NOUN> pen <ADP> at <DET> the <NOUN> zoo <PUNCT>
+<DET> the <ADJ> large <NOUN> orange <NOUN> umbrella <VERB> is <ADJ> next <ADP> to <DET> the <NOUN> chair <ADP> on <DET> the <NOUN> beach <PUNCT>
+<DET> an <ADJ> orange <NOUN> parasol <ADP> at <DET> the <NOUN> beach <ADJ> unopened <ADP> by <DET> a <NOUN> lounge <NOUN> chair <PUNCT>
+<ADJ> bright <NOUN> orange <NOUN> umbrella <CCONJ> and <ADJ> small <ADJ> white <NOUN> stool <ADP> on <DET> a <ADJ> sandy <NOUN> beach <PUNCT>
+<DET> a <NOUN> beach <NOUN> scene <ADP> with <NOUN> chairs <CCONJ> and <DET> an <NOUN> umbrella <PUNCT>
+<DET> a <ADJ> calm <NOUN> lake <VERB> is <ADP> off <DET> a <NOUN> beach <ADV> where <DET> an <ADJ> orange <NOUN> umbrella <ADP> in <DET> the <ADJ> down <NOUN> position <VERB> sits <ADP> near <DET> a <NOUN> beach <NOUN> chair <PUNCT>
+<NUM> five <NOUN> wine <NOUN> glasses <ADP> with <ADJ> different <VERB> colored <NOUN> wines <ADP> outside <ADP> on <DET> a <NOUN> table <PUNCT>
+<NUM> five <NOUN> glasses <ADP> of <ADJ> different <NOUN> kinds <ADP> of <NOUN> wine <ADP> on <DET> a <NOUN> table <PUNCT>
+<NUM> five <ADJ> different <NOUN> wines <VERB> are <VERB> lined <ADP> up <ADP> in <NOUN> glasses <ADP> on <DET> an <ADJ> outdoor <NOUN> table <PUNCT>
+<NUM> five <NOUN> wine <NOUN> glasses <ADP> with <ADJ> various <NOUN> types <ADP> of <NOUN> wine <VERB> lined <ADP> up <ADP> in <DET> a <NOUN> row <PUNCT>
+<DET> an <ADJ> outdoor <NOUN> table <VERB> is <VERB> lined <ADP> with <NOUN> wine <NOUN> glasses <PUNCT>
+<PRON> there <VERB> are <NOUN> police <NOUN> officers <ADP> on <NOUN> horses <CCONJ> and <DET> a <NOUN> man <VERB> holding <DET> a <NOUN> flag <PUNCT>
+<DET> a <NOUN> man <PRON> who <VERB> is <VERB> holding <DET> a <NOUN> rainbow <VERB> colored <NOUN> flag <PUNCT>
+<PROPN> policemen <ADP> on <NOUN> horses <VERB> are <VERB> lined <ADP> up <VERB> watching <DET> a <NOUN> man <ADP> with <DET> a <NOUN> rainbow <NOUN> flag <PUNCT>
+<PROPN> policemen <VERB> protecting <DET> the <NOUN> <unk> <ADP> of <DET> a <ADJ> gay <NOUN> <unk> <NOUN> parade <PUNCT>
+<PROPN> policemen <ADP> on <NOUN> horses <VERB> sitting <ADP> in <DET> a <NOUN> line <ADP> at <DET> the <NOUN> curb <ADP> of <DET> a <NOUN> street <PUNCT>
+<DET> some <NOUN> motorcyclists <VERB> are <VERB> driving <ADP> down <DET> an <ADJ> empty <NOUN> road <PUNCT>
+<DET> a <NOUN> gang <ADP> of <NOUN> bikers <VERB> driving <ADP> down <DET> a <ADJ> rural <NOUN> country <NOUN> road <PUNCT>
+<DET> a <ADJ> large <NOUN> group <ADP> of <NOUN> motorcycle <NOUN> riders <VERB> drive <ADP> on <DET> a <ADJ> narrow <NOUN> road <PUNCT>
+<DET> a <NOUN> bunch <ADP> of <NOUN> biker <NOUN> <unk> <VERB> begin <VERB> led <ADP> by <NUM> one <ADP> on <DET> a <ADJ> orange <NOUN> bike <PUNCT>
+<DET> a <NOUN> gang <ADP> of <NOUN> bikers <VERB> ride <ADP> down <DET> a <NOUN> street <ADP> on <NOUN> motorcycles <PUNCT>
+<DET> a <NOUN> baseball <NOUN> player <NOUN> swings <PRON> his <NOUN> bat <ADP> at <DET> a <NOUN> ball <PUNCT>
+<DET> a <NOUN> baseball <NOUN> player <VERB> swinging <DET> a <NOUN> baseball <NOUN> bat <ADP> on <DET> a <NOUN> baseball <NOUN> field <PUNCT>
+<DET> a <NOUN> batter <NOUN> swinging <ADP> at <NOUN> something <ADP> with <DET> a <NOUN> catcher <ADP> behind <PRON> him <PUNCT>
+<PRON> there <VERB> is <DET> a <NOUN> baseball <NOUN> player <PRON> who <VERB> *s <ADV> just <VERB> swung <PRON> his <NOUN> bat <PUNCT>
+<DET> a <NOUN> person <VERB> swinging <DET> a <NOUN> baseball <NOUN> bat <ADP> on <DET> a <NOUN> baseball <NOUN> field <PUNCT>
+<NUM> three <NOUN> friends <VERB> are <VERB> getting <ADJ> ready <ADP> to <VERB> ski <ADP> on <DET> a <ADJ> warm <PUNCT> , <ADJ> sunny <NOUN> day <PUNCT>
+<PRON> there <VERB> are <ADJ> several <NOUN> people <VERB> gathered <ADV> here <VERB> talking <ADV> together <PUNCT>
+<NUM> three <NOUN> people <VERB> standing <ADP> near <NUM> one <DET> another <VERB> wearing <NOUN> skis <PUNCT>
+<NUM> three <NOUN> people <ADP> in <DET> the <ADJ> heavy <NOUN> snow <ADP> on <NOUN> skis <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> people <ADP> outside <ADP> on <NOUN> snow <NOUN> skis <PUNCT>
+<DET> a <NOUN> rock <VERB> balanced <ADP> on <DET> another <NOUN> rock <ADP> on <DET> a <NOUN> park <NOUN> bench <PUNCT>
+<PROPN> there <VERB> are <NOUN> rocks <ADP> on <DET> the <NOUN> bench <ADP> outside <PROPN> on <PROPN> it <PUNCT>
+<DET> a <NOUN> park <NOUN> bench <ADP> with <NUM> two <NOUN> stones <VERB> piled <ADP> on <NOUN> top <ADP> of <DET> each <ADJ> other <PUNCT>
+<DET> a <NOUN> set <ADP> of <NOUN> rocks <VERB> are <VERB> balanced <ADP> on <DET> a <NOUN> park <NOUN> bench <PUNCT>
+<DET> a <NOUN> close-up <ADP> of <NUM> two <VERB> stacked <NOUN> rocks <ADP> on <ADP> of <ADJ> green <NOUN> bench <PUNCT>
+<DET> a <NOUN> pile <ADP> of <ADJ> various <NOUN> types <ADP> of <NOUN> scissors <ADP> on <DET> the <NOUN> table <PUNCT>
+<DET> a <NOUN> view <ADP> of <ADJ> many <ADJ> different <NOUN> scissors <ADP> on <NOUN> display <PUNCT>
+<ADJ> many <ADJ> different <NOUN> pairs <ADP> of <NOUN> scissors <VERB> hanging <ADP> on <DET> a <NOUN> wall <ADP> with <NOUN> <unk> <ADP> on <PRON> them <PUNCT>
+<DET> a <NOUN> collection <ADP> of <ADJ> small <NOUN> scissors <VERB> labeled <CCONJ> and <VERB> pinned <ADP> on <DET> a <NOUN> board <PUNCT>
+<DET> a <NOUN> bunch <ADP> of <ADJ> <unk> <NOUN> scissors <VERB> are <VERB> sitting <ADP> on <DET> a <NOUN> table <VERB> labeled <ADP> with <NOUN> tags <PUNCT>
+<DET> a <ADJ> wooden <NOUN> bench <VERB> sits <ADP> in <NOUN> front <ADP> of <DET> a <NOUN> brick <NOUN> wall <PUNCT>
+<DET> a <ADJ> wooden <NOUN> bench <VERB> placed <ADP> in <NOUN> front <ADP> of <DET> a <NOUN> brick <NOUN> wall <PUNCT>
+<DET> a <ADJ> wooden <NOUN> bench <VERB> sitting <ADP> below <NUM> two <NOUN> port <NOUN> holes <PUNCT>
+<DET> a <NOUN> bench <PRON> that <VERB> is <ADP> in <NOUN> front <ADP> of <DET> a <NOUN> brick <NOUN> wall <PUNCT>
+<DET> a <ADJ> wooden <NOUN> bench <VERB> is <VERB> sitting <ADP> in <NOUN> front <ADP> of <DET> a <ADJ> red <NOUN> brick <NOUN> wall <ADP> with <NUM> two <NOUN> holes <ADP> in <PRON> it <PUNCT>
+<NUM> two <NOUN> adults <VERB> preparing <ADP> to <VERB> cook <ADJ> several <ADJ> <unk> <NOUN> pizzas <PUNCT>
+<DET> a <NOUN> woman <NOUN> standing <ADP> in <DET> a <NOUN> kitchen <ADJ> next <ADP> to <NOUN> lots <ADP> of <NOUN> food <PUNCT>
+<NUM> two <NOUN> ladies <ADP> in <DET> a <NOUN> kitchen <ADP> with <DET> some <NOUN> pizzas <PUNCT>
+<DET> the <NOUN> couple <VERB> are <VERB> preparing <DET> a <NOUN> meal <ADV> together <PUNCT>
+<DET> a <NOUN> couple <ADP> in <DET> a <NOUN> kitchen <VERB> making <NOUN> pizzas <ADV> together <PUNCT>
+<DET> a <NOUN> man <VERB> is <VERB> guiding <DET> a <NOUN> horse <ADP> through <DET> a <NOUN> body <ADP> of <NOUN> water <PUNCT>
+<DET> a <NOUN> rider <VERB> takes <PRON> their <NOUN> horse <ADP> through <DET> some <NOUN> water <ADP> at <NOUN> speed <PUNCT>
+<DET> a <NOUN> boy <ADP> on <DET> a <NOUN> horse <VERB> jumps <ADP> across <DET> th <NOUN> water <NOUN> <unk> <PUNCT>
+<DET> a <NOUN> person <CCONJ> and <DET> a <NOUN> horse <NOUN> splash <ADP> through <ADJ> shallow <NOUN> water <PUNCT>
+<DET> a <NOUN> person <PRON> who <VERB> is <ADP> on <DET> a <NOUN> horse <ADP> in <DET> the <NOUN> water <PUNCT>
+<ADJ> several <NOUN> boats <VERB> are <VERB> docked <ADP> under <DET> a <ADJ> tall <NOUN> mountain <PUNCT>
+<DET> a <NOUN> bunch <ADP> of <NOUN> hills <CCONJ> and <DET> a <NOUN> house <VERB> build <ADP> into <NUM> one <ADJ> next <ADP> to <DET> the <NOUN> water <PUNCT>
+<DET> a <NOUN> couple <ADP> of <NOUN> boats <ADP> near <DET> a <ADJ> short <NOUN> line <ADP> near <ADJ> tall <NOUN> mountains <PUNCT>
+<DET> a <NOUN> body <ADP> of <NOUN> water <ADP> with <ADJ> many <NOUN> people <CCONJ> and <NOUN> boats <CCONJ> and <NOUN> mountains <ADP> in <DET> the <NOUN> background <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> raft <NOUN> boats <VERB> sitting <ADP> on <DET> a <NOUN> river <NOUN> side <PUNCT>
+<DET> a <NOUN> bowl <ADP> of <NOUN> oranges <ADP> near <DET> a <NOUN> pillow <CCONJ> and <ADJ> golden <NOUN> decorations <PUNCT>
+<PROPN> bowl <ADP> of <NOUN> fruit <CCONJ> and <DET> a <NOUN> bottle <ADP> of <NOUN> <unk> <ADJ> next <ADP> to <NOUN> gold <NOUN> pillow <CCONJ> and <ADJ> ornamental <NOUN> flowers <PUNCT>
+<ADJ> gilded <NOUN> flowers <PUNCT> , <NOUN> <unk> <NOUN> pillows <PUNCT> , <ADJ> fresh <NOUN> oranges <ADP> in <DET> a <NOUN> glass <NOUN> bowl <PUNCT> , <CCONJ> and <DET> a <NOUN> bottle <ADP> of <NOUN> <unk> <VERB> <unk> <ADJ> <unk> <NOUN> decor <CCONJ> and <NOUN> home <NOUN> accents <PUNCT>
+<NOUN> oranges <ADP> in <DET> a <NOUN> basket <PUNCT> , <DET> a <NOUN> pillow <CCONJ> and <DET> a <NOUN> bottle <ADP> of <NOUN> liquor <PUNCT>
+<NOUN> oranges <VERB> are <ADP> in <DET> a <NOUN> basket <ADP> on <DET> a <NOUN> table <ADJ> next <ADP> to <DET> a <NOUN> liquor <NOUN> bottle <PUNCT>
+<DET> a <NOUN> person <VERB> is <VERB> hanging <ADP> from <DET> a <NOUN> rope <ADP> with <DET> a <NOUN> board <VERB> attached <ADP> to <PRON> his <NOUN> feet <PUNCT>
+<DET> a <NOUN> kite <NOUN> skier <ADP> on <DET> a <ADJ> white <NOUN> board <VERB> is <ADP> in <DET> the <NOUN> air <PUNCT>
+<DET> a <NOUN> person <ADP> with <PRON> his <NOUN> feet <VERB> attached <ADP> to <DET> a <NOUN> wake <NOUN> board <PUNCT> , <VERB> holding <ADP> onto <DET> a <ADJ> para-sailing <VERB> handle <ADP> in <DET> the <NOUN> air <PUNCT>
+<DET> a <NOUN> man <VERB> flying <ADP> through <DET> the <NOUN> air <ADP> while <VERB> riding <DET> a <NOUN> kite <NOUN> board <PUNCT>
+<DET> a <NOUN> person <VERB> windsurfing <ADP> against <DET> a <ADJ> cloudless <ADJ> blue <NOUN> sky <PUNCT>
+<DET> a <NOUN> bus <ADP> with <DET> the <NOUN> number <NUM> <unk> <NUM> <unk> <VERB> is <VERB> driving <ADP> down <DET> the <NOUN> street <PUNCT>
+<NOUN> pictures <ADP> of <DET> a <NOUN> bus <VERB> driving <ADP> down <DET> the <NOUN> street <PUNCT>
+<DET> a <ADJ> red <NOUN> city <NOUN> bus <VERB> driving <ADP> down <DET> a <NOUN> street <PUNCT>
+<ADJ> large <NOUN> bus <VERB> transporting <ADP> on <DET> a <ADJ> open <NOUN> road <ADP> into <DET> a <NOUN> city <PUNCT>
+<DET> a <NOUN> bus <VERB> is <VERB> photographed <VERB> driving <ADP> down <DET> a <NOUN> street <PUNCT>
+<DET> a <ADJ> cute <NOUN> cat <VERB> laying <ADP> on <DET> a <NOUN> rock <ADP> in <DET> the <NOUN> woods <PUNCT>
+<ADJ> adult <NOUN> cat <VERB> sitting <ADP> on <DET> a <NOUN> rock <VERB> surrounded <ADP> by <NOUN> branches <PUNCT>
+<DET> a <ADJ> brown <PUNCT> , <ADJ> black <CCONJ> and <ADJ> white <NOUN> cat <VERB> sits <ADP> on <DET> a <NOUN> rock <ADP> near <DET> a <NOUN> tree <PUNCT>
+<DET> the <NOUN> car <VERB> lies <ADP> on <DET> the <NOUN> rock <ADP> in <DET> the <NOUN> woods <PUNCT>
+<DET> a <NOUN> cat <VERB> laying <ADP> on <DET> a <NOUN> rock <ADP> beside <DET> a <NOUN> tree <PUNCT>
+<DET> a <ADJ> large <ADJ> white <NOUN> couch <ADP> in <DET> a <NOUN> living <NOUN> room <ADP> in <NOUN> front <ADP> of <DET> a <NOUN> tv <PUNCT>
+<VERB> living <NOUN> room <PRON> that <VERB> includes <NOUN> television <PUNCT> , <NOUN> chair <CCONJ> and <ADJ> multiple <NOUN> windows <PUNCT>
+<DET> a <NOUN> living <NOUN> room <NOUN> couch <VERB> facing <DET> a <ADJ> small <NOUN> television <PUNCT>
+<DET> a <NOUN> living <NOUN> room <ADP> with <DET> a <NOUN> tv <DET> a <NOUN> couch <CCONJ> and <DET> a <NOUN> dresser <PUNCT>
+<DET> a <NOUN> living <NOUN> room <ADP> with <NOUN> furniture <CCONJ> and <DET> a <ADJ> small <NOUN> tv <ADP> in <DET> the <NOUN> corner <PUNCT>
+<DET> a <NOUN> team <ADP> of <NOUN> people <NOUN> rowing <DET> a <NOUN> boat <ADP> in <DET> the <NOUN> ocean <PUNCT>
+<DET> a <NOUN> group <ADP> of <NUM> four <NOUN> men <VERB> riding <DET> a <NOUN> <unk> <ADP> across <DET> a <NOUN> river <PUNCT>
+<NUM> four <NOUN> men <NOUN> rowing <DET> a <NOUN> boat <ADP> in <DET> the <ADJ> same <NOUN> rowing <NOUN> clothes <PUNCT>
+<PROPN> crew <NOUN> team <NOUN> rowing <ADJ> yellow <NOUN> craft <ADP> on <ADJ> calm <NOUN> water <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> men <VERB> row <DET> a <NOUN> race <NOUN> boat <ADP> across <DET> the <NOUN> water <PUNCT>
+<DET> a <ADJ> <unk> <VERB> powered <NOUN> tour <NOUN> cart <VERB> passes <DET> a <ADJ> large <ADJ> commercial <NOUN> bus <PUNCT>
+<DET> a <NOUN> transit <NOUN> bus <VERB> parked <ADP> near <DET> a <NOUN> building <ADP> near <DET> a <NOUN> cart <PUNCT>
+<DET> a <ADJ> large <NOUN> bus <VERB> has <ADJ> interesting <NOUN> pictures <ADP> on <PRON> it <PUNCT>
+<DET> a <NOUN> <unk> <ADP> on <DET> a <NOUN> street <ADJ> next <ADP> to <DET> a <NOUN> bus <PUNCT>
+<DET> a <ADJ> big <NOUN> bus <VERB> is <VERB> parked <ADP> as <DET> a <DET> some <NOUN> people <VERB> ride <ADP> by <ADP> in <DET> a <NOUN> cart <PUNCT>
+<PROPN> wildlife <NOUN> grazing <ADP> on <NOUN> grass <ADP> in <ADJ> large <ADJ> fenced <NOUN> area <PUNCT>
+<PRON> there <VERB> are <ADJ> many <NOUN> zebras <VERB> eating <ADP> at <DET> the <NOUN> zoo <ADV> together <PUNCT>
+<NOUN> zebras <VERB> walking <CCONJ> and <NOUN> grazing <ADP> while <PRON> they <VERB> are <VERB> fenced <ADP> in <PUNCT>
+<DET> a <NOUN> couple <ADP> of <DET> the <NOUN> animals <VERB> are <VERB> running <ADP> near <DET> the <NOUN> trees <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> zebras <PRON> that <VERB> are <NOUN> grazing <ADP> in <DET> an <NOUN> enclosure <PUNCT>
+<NOUN> skier <VERB> flying <ADP> off <DET> a <NOUN> ramp <VERB> built <ADP> of <NOUN> snow <ADP> by <DET> a <NOUN> building <PUNCT>
+<DET> a <NOUN> man <VERB> riding <DET> a <NOUN> board <ADP> on <NOUN> top <ADP> of <DET> a <NOUN> pile <ADP> of <NOUN> snow <PUNCT>
+<NOUN> skier <ADP> in <ADJ> orange <NOUN> pants <VERB> jumping <DET> a <ADJ> small <NOUN> jump <PUNCT>
+<DET> a <NOUN> skier <ADP> in <ADJ> mid <NOUN> air <VERB> jumping <DET> a <NOUN> ramp <ADP> in <DET> the <NOUN> snow <PUNCT>
+<DET> a <NOUN> skier <VERB> jumping <ADV> off <ADP> of <DET> a <NOUN> ramp <ADP> in <NOUN> snow <PUNCT>
+<PRON> there <VERB> is <DET> a <NOUN> toy <NOUN> bear <VERB> leaning <ADP> on <DET> a <NOUN> pillow <PUNCT>
+<DET> a <NOUN> mouse <NOUN> figurine <VERB> laying <ADP> down <ADP> on <DET> a <ADJ> miniature <NOUN> bed <PUNCT>
+<DET> a <NOUN> teddy <NOUN> bear <VERB> resting <ADP> on <DET> a <NOUN> pillow <ADP> in <DET> a <NOUN> child <PART> *s <NOUN> bedroom <PUNCT>
+<DET> a <ADJ> small <ADJ> brown <NOUN> bear <VERB> resting <ADP> on <DET> a <NOUN> bed <ADP> with <PRON> it <VERB> *s <NOUN> head <ADP> on <DET> a <NOUN> pillow <PUNCT>
+<DET> a <NOUN> toy <VERB> sits <ADP> on <DET> a <NOUN> toy <NOUN> bed <ADP> in <DET> a <NOUN> toy <NOUN> house <PUNCT>
+<DET> a <NOUN> laptop <ADJ> open <ADP> on <DET> a <NOUN> desk <ADP> with <NOUN> speakers <PUNCT>
+<DET> a <ADJ> laptop <NOUN> computer <VERB> is <VERB> shown <ADP> next <ADP> to <DET> a <NOUN> wall <PUNCT>
+<DET> a <ADJ> laptop <NOUN> computer <VERB> sitting <ADP> on <NOUN> top <ADP> of <DET> a <ADJ> black <NOUN> counter <PUNCT>
+<DET> a <NOUN> wall <NOUN> shelf <ADP> with <ADJ> electronic <NOUN> equipment <ADP> on <PRON> it <PUNCT>
+<DET> a <NOUN> laptop <ADP> on <DET> a <ADJ> pure <ADJ> black <NOUN> table <ADP> with <NOUN> speakers <PUNCT>
+<DET> some <NOUN> kind <ADP> of <NOUN> pole <PRON> that <VERB> has <DET> some <VERB> writing <ADP> on <PRON> it <PUNCT>
+<DET> a <NOUN> parking <NOUN> meter <PRON> that <VERB> has <VERB> been <VERB> drawn <ADP> on <PUNCT>
+<DET> a <NOUN> close <ADP> up <ADP> of <NOUN> graffiti <ADP> on <DET> a <NOUN> parking <NOUN> meter <PUNCT>
+<DET> a <NOUN> cartoon <NOUN> character <VERB> drawn <ADP> on <DET> a <NOUN> parking <NOUN> meter <PUNCT>
+<PROPN> street <NOUN> graffiti <VERB> drawn <ADP> on <DET> a <NOUN> parking <NOUN> meter <ADP> on <DET> a <ADJ> bright <NOUN> day <PUNCT>
+<DET> a <ADJ> decorative <NOUN> plate <VERB> holds <DET> a <ADJ> hot <NOUN> dog <ADP> with <NOUN> toppings <PUNCT>
+<DET> a <ADJ> blue <NOUN> glass <NOUN> plate <ADP> with <DET> a <ADJ> hot <NOUN> dog <VERB> sitting <ADJ> next <ADP> to <DET> a <NOUN> half <VERB> eaten <ADJ> hot <NOUN> dog <PUNCT>
+<NOUN> hotdog <ADP> with <NOUN> mustard <PUNCT> , <NOUN> relish <PUNCT> , <CCONJ> and <NOUN> onions <ADP> on <ADJ> colorful <NOUN> plate <PUNCT>
+<DET> a <ADJ> colorful <NOUN> plate <ADP> with <DET> a <NOUN> hotdog <ADP> on <PRON> it <PUNCT>
+<DET> a <NOUN> plate <ADP> of <NOUN> food <ADJ> next <ADP> to <DET> a <NOUN> bowl <ADP> with <DET> a <NOUN> utensil <ADP> in <PRON> it <PUNCT>
+<ADJ> several <NOUN> zebras <PRON> that <VERB> are <VERB> walking <ADP> along <DET> a <NOUN> dirt <NOUN> path <PUNCT>
+<PRON> there <VERB> are <ADJ> many <NOUN> zebras <VERB> walking <ADP> on <DET> the <NOUN> side <ADP> of <DET> this <NOUN> road <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> zebras <VERB> are <VERB> standing <ADP> on <DET> the <NOUN> side <ADP> of <DET> a <NOUN> dirt <NOUN> road <PUNCT>
+<ADJ> several <NOUN> zebras <VERB> are <VERB> standing <ADP> near <DET> a <NOUN> tree <ADP> in <DET> the <ADJ> wild <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> zebra <NOUN> standing <ADP> on <DET> a <NOUN> dirt <NOUN> road <PUNCT>
+<DET> a <NOUN> couple <ADP> of <ADJ> big <NOUN> <unk> <ADP> of <NOUN> meat <ADP> with <NOUN> foot <ADP> on <NOUN> top <ADP> of <PRON> them <PUNCT>
+<DET> a <NOUN> sandwich <ADP> with <ADJ> various <NOUN> toppings <ADP> next <ADP> to <DET> a <ADJ> sweet <NOUN> potato <PUNCT>
+<DET> a <ADV> very <ADJ> fancy <VERB> looking <NOUN> dish <ADP> of <NOUN> food <ADP> on <DET> a <NOUN> dining <NOUN> table <PUNCT>
+<DET> a <NOUN> table <ADP> with <DET> a <NOUN> bottle <ADP> of <NOUN> wine <CCONJ> and <DET> a <NOUN> plate <ADP> of <NOUN> food <VERB> including <DET> a <ADJ> sweet <NOUN> potato <CCONJ> and <NOUN> pineapple <NOUN> salad <PUNCT>
+<DET> a <ADJ> lovely <NOUN> dinner <CCONJ> and <DET> a <NOUN> bottle <ADP> of <NOUN> wine <PUNCT>
+<DET> a <NOUN> room <ADP> with <DET> a <NOUN> couch <PUNCT> , <NUM> two <NOUN> chairs <PUNCT> , <CCONJ> and <DET> a <NOUN> fireplace <PUNCT>
+<DET> a <NOUN> room <ADP> with <DET> a <NOUN> couch <CCONJ> and <DET> a <NOUN> fire <NOUN> place <ADP> in <PRON> it <PUNCT>
+<DET> a <NOUN> living <NOUN> room <VERB> has <DET> a <NOUN> tile <NOUN> fireplace <PUNCT> , <DET> a <ADJ> black <NOUN> sofa <PUNCT> , <CCONJ> and <DET> a <ADJ> brown <NOUN> table <CCONJ> and <NOUN> chair <NOUN> set <PUNCT>
+<DET> a <NOUN> fire <NOUN> place <VERB> sitting <ADP> in <DET> a <NOUN> living <NOUN> room <ADP> with <NOUN> furniture <PUNCT>
+<DET> a <ADJ> small <NOUN> living <NOUN> room <ADP> with <DET> a <NOUN> fireplace <PUNCT> , <NOUN> sofa <CCONJ> and <DET> a <NOUN> window <PUNCT>
+<NOUN> group <ADP> of <NOUN> people <VERB> standing <ADP> behind <DET> a <ADJ> large <ADJ> white <NOUN> clock <NOUN> face <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> people <VERB> standing <ADP> behind <DET> a <ADJ> giant <NOUN> glass <NOUN> clock <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> people <VERB> looking <ADP> out <ADP> from <NOUN> inside <ADP> of <DET> a <NOUN> clock <NOUN> tower <PUNCT>
+<NOUN> group <ADP> of <NOUN> people <ADP> inside <ADJ> large <NOUN> clock <VERB> looking <ADP> at <NOUN> scenery <PUNCT>
+<DET> a <ADJ> giant <NOUN> clock <NOUN> tower <NOUN> window <VERB> is <VERB> looked <ADP> through <ADP> by <ADJ> many <PUNCT>
+<DET> some <ADJ> purple <NOUN> benches <CCONJ> and <DET> a <NOUN> bird <ADP> on <PRON> it <PUNCT>
+<DET> a <ADJ> small <NOUN> bird <VERB> sitting <ADP> on <DET> the <NOUN> back <ADP> of <DET> a <ADJ> wooden <NOUN> bench <PUNCT>
+<DET> the <ADJ> wooden <NOUN> park <NOUN> benches <VERB> are <VERB> painted <ADJ> dark <ADJ> purple <PUNCT>
+<DET> a <NOUN> bench <ADP> with <DET> a <NOUN> couple <ADP> of <ADJ> purple <NOUN> benches <PUNCT>
+<DET> a <NOUN> bird <VERB> sitting <ADP> on <NOUN> top <ADP> of <DET> a <NOUN> park <NOUN> bench <PUNCT>
+<ADJ> large <ADJ> stainless <NOUN> steel <NOUN> cabinet <NOUN> sink <ADP> in <DET> a <ADJ> large <NOUN> room <ADP> with <DET> a <ADJ> beige <NOUN> tile <NOUN> floor <PUNCT>
+<DET> a <NOUN> kitchen <NOUN> island <ADP> in <DET> the <NOUN> middle <ADP> of <DET> a <NOUN> kitchen <VERB> being <VERB> remodeled <PUNCT>
+<DET> a <NOUN> kitchen <NOUN> sink <ADP> in <DET> a <NOUN> house <PRON> that <VERB> is <ADP> under <NOUN> construction <PUNCT>
+<DET> a <NOUN> kitchen <NOUN> area <VERB> is <VERB> being <VERB> built <ADP> that <VERB> contains <DET> a <ADJ> deep <NOUN> sink <PUNCT> , <DET> a <NOUN> dishwasher <PUNCT> , <CCONJ> and <NOUN> cabinets <PUNCT>
+<DET> a <NOUN> kitchen <NOUN> sink <ADP> with <NUM> two <NOUN> faucets <ADP> in <DET> a <ADJ> large <NOUN> kitchen <PUNCT>
+<NUM> two <NOUN> men <VERB> are <VERB> riding <NOUN> horses <ADP> while <NUM> four <NOUN> others <VERB> are <ADJ> present <PUNCT>
+<NUM> two <NOUN> men <VERB> walking <ADP> with <DET> a <NOUN> row <ADP> of <NOUN> horses <ADP> on <NOUN> sand <PUNCT>
+<NUM> two <NOUN> men <VERB> leading <DET> a <NOUN> pack <ADP> of <NOUN> horses <ADP> in <DET> the <NOUN> sand <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> horses <CCONJ> and <NUM> two <NOUN> riders <VERB> are <VERB> walking <ADP> in <DET> a <NOUN> field <PUNCT>
+<NUM> two <NOUN> individuals <PUNCT> , <DET> each <ADP> on <DET> a <NOUN> horse <PUNCT> , <VERB> leading <NUM> four <ADJ> other <NOUN> horses <PUNCT>
+<DET> a <ADJ> large <NOUN> truck <VERB> is <VERB> parked <ADP> in <DET> a <NOUN> lot <PUNCT>
+<DET> a <NOUN> truck <PRON> that <VERB> is <VERB> sitting <ADP> in <DET> a <NOUN> parking <NOUN> lot <PUNCT>
+<DET> a <ADJ> semi <NOUN> truck <ADP> with <DET> the <ADP> in <NOUN> n <ADP> out <NOUN> logo <ADP> on <DET> the <NOUN> side <ADP> of <PRON> it <PUNCT>
+<DET> a <ADJ> large <NOUN> semi <NOUN> truck <VERB> delivers <NOUN> food <ADP> to <DET> the <NOUN> store <PUNCT>
+<DET> a <ADJ> semi <NOUN> truck <VERB> is <VERB> parked <ADP> beside <ADJ> <unk> <NOUN> restaurant <PUNCT>
+<NUM> two <NOUN> animals <VERB> standing <ADP> in <DET> the <NOUN> grass <ADP> near <NOUN> trees <PUNCT>
+<DET> a <ADJ> black <NOUN> cow <NOUN> standing <ADP> in <DET> a <ADJ> grassy <NOUN> field <PUNCT>
+<DET> a <ADJ> large <ADJ> black <NOUN> bull <NOUN> standing <ADP> in <NOUN> front <ADP> of <NOUN> trees <PUNCT>
+<DET> some <ADJ> big <ADJ> black <NOUN> cows <ADP> in <DET> a <ADJ> grassy <NOUN> field <PUNCT>
+<DET> a <ADJ> black <NOUN> cow <VERB> is <VERB> standing <ADP> in <DET> a <ADJ> grassy <NOUN> field <PUNCT>
+<DET> this <VERB> is <DET> a <NOUN> girl <ADP> with <ADJ> thick <NOUN> plastic <NOUN> glasses <VERB> reading <DET> a <NOUN> book <PUNCT>
+<DET> a <NOUN> girl <VERB> displays <DET> an <NOUN> expression <ADP> on <PRON> her <NOUN> face <PUNCT> , <ADP> while <VERB> sitting <ADP> on <DET> the <NOUN> ground <ADP> with <DET> an <ADJ> open <NOUN> book <ADP> in <NOUN> hand <PUNCT>
+<DET> a <NOUN> woman <VERB> <unk> <DET> a <ADJ> funny <VERB> pose <ADP> while <VERB> holding <DET> a <NOUN> book <PUNCT>
+<DET> a <NOUN> woman <VERB> is <VERB> sitting <ADP> on <DET> the <NOUN> floor <VERB> holding <DET> a <NOUN> book <PUNCT>
+<DET> a <NOUN> woman <VERB> sitting <ADP> on <DET> the <NOUN> floor <VERB> holding <DET> a <NOUN> book <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> people <VERB> flying <NOUN> kites <ADP> on <DET> a <NOUN> hill <ADP> on <DET> a <ADJ> cloudy <NOUN> day <PUNCT>
+<NOUN> people <VERB> gathered <ADP> on <DET> a <NOUN> hill <PUNCT> , <DET> some <VERB> flying <NOUN> kites <PUNCT>
+<NOUN> people <ADP> at <DET> the <NOUN> park <VERB> flying <NOUN> kites <CCONJ> and <VERB> walking <PUNCT>
+<DET> a <NOUN> crowd <ADP> of <NOUN> people <VERB> fly <NOUN> kites <ADP> on <DET> a <NOUN> hill <PUNCT>
+<DET> a <NOUN> crowd <ADP> of <NOUN> people <VERB> flying <NOUN> kites <ADP> in <ADJ> grey <NOUN> cloud <VERB> filled <NOUN> sky <PUNCT>
+<DET> a <NOUN> pizza <VERB> topped <ADP> with <NOUN> lots <ADP> of <NOUN> veggies <CCONJ> and <NOUN> cheese <PUNCT>
+<DET> a <NOUN> photo <ADP> of <ADJ> mixed <NOUN> vegetable <NOUN> soup <ADP> in <DET> a <NOUN> bowl <PUNCT>
+<DET> a <NOUN> pizza <ADP> with <NOUN> tomatoes <NOUN> broccoli <NOUN> cheese <CCONJ> and <ADJ> other <NOUN> toppings <PUNCT>
+<DET> a <NOUN> meal <VERB> covered <ADP> with <DET> a <NOUN> lot <ADP> of <NOUN> broccoli <CCONJ> and <NOUN> tomatoes <PUNCT>
+<DET> a <ADJ> burned <NOUN> pizza <ADP> with <NOUN> tomatoes <PUNCT> , <NOUN> broccoli <CCONJ> and <NOUN> cheese <PUNCT>
+<DET> a <NOUN> streetlight <ADP> in <NOUN> front <ADP> of <DET> a <ADJ> cloudy <NOUN> storm <PUNCT>
+<NUM> three <NOUN> stop <NOUN> lights <VERB> hanging <ADJ> high <ADP> up <ADP> in <DET> the <NOUN> air <PUNCT>
+<NUM> three <NOUN> traffic <NOUN> lights <VERB> hanging <ADP> off <DET> a <NOUN> pole <CCONJ> and <DET> some <NOUN> buildings <PUNCT>
+<PROPN> street <NOUN> traffic <NOUN> light <PRON> that <VERB> is <ADP> on <ADV> <unk> <ADJ> yellow <PUNCT>
+<DET> a <ADJ> yellow <NOUN> traffic <NOUN> light <ADP> with <ADP> over <NOUN> cast <NOUN> skies <ADP> in <DET> the <NOUN> background <PUNCT>
+<DET> a <NOUN> pair <ADP> of <NOUN> elephants <VERB> stand <ADV> together <ADJ> next <ADP> to <DET> a <NOUN> fence <PUNCT>
+<PROPN> baby <NOUN> elephant <VERB> playing <ADP> with <DET> the <ADJ> adult <NUM> one <ADP> at <DET> the <NOUN> zoo <PUNCT>
+<DET> a <NOUN> mother <NOUN> elephant <VERB> letting <PRON> her <NOUN> baby <NOUN> elephant <NOUN> drink <NOUN> milk <PUNCT>
+<DET> a <NOUN> baby <NOUN> elephant <VERB> <unk> <PRON> it <VERB> *s <ADJ> huge <NOUN> parent <ADP> with <PRON> it <VERB> *s <NOUN> trunk <PUNCT>
+<DET> a <NOUN> mama <NOUN> elephant <NOUN> standing <ADP> above <DET> a <ADJ> small <NOUN> elephant <PUNCT>
+<PROPN> young <NOUN> adults <VERB> playing <NOUN> game <ADP> with <NOUN> disc <ADP> on <NOUN> grass <NOUN> field <PUNCT>
+<DET> a <NOUN> girl <VERB> catching <DET> a <NOUN> frisbee <ADP> beside <DET> a <NOUN> soccer <NOUN> net <PUNCT>
+<NUM> two <NOUN> people <VERB> run <ADP> across <DET> the <NOUN> field <ADP> while <VERB> playing <ADP> with <DET> a <PROPN> frisbee <PUNCT>
+<DET> a <NOUN> woman <VERB> running <ADP> towards <DET> a <NOUN> soccer <NOUN> net <ADP> while <VERB> holding <DET> a <ADJ> white <NOUN> frisbee <PUNCT>
+<DET> a <NOUN> woman <VERB> leaning <ADV> forward <ADP> while <VERB> reaching <ADP> out <ADP> for <DET> a <NOUN> frisbee <PUNCT>
+<DET> a <NOUN> kitchen <ADP> with <DET> a <NOUN> refrigerator <DET> a <NOUN> sink <CCONJ> and <DET> a <NOUN> stove <PUNCT>
+<DET> a <NOUN> kitchen <ADP> with <NOUN> lots <ADP> of <NOUN> appliances <VERB> painted <ADV> mostly <ADJ> brown <PUNCT>
+<DET> a <NOUN> kitchen <ADP> with <ADJ> brown <PUNCT> * <ADJ> red <VERB> painted <NOUN> cabinets <PUNCT>
+<DET> a <NOUN> kitchen <VERB> has <ADJ> red <NOUN> cabinets <PUNCT> , <CCONJ> and <ADJ> white <NOUN> appliances <PUNCT>
+<DET> a <NOUN> kitchen <ADP> with <ADJ> red <NOUN> cabinets <PUNCT> , <ADJ> white <NOUN> appliances <PUNCT> , <ADJ> white <NOUN> walls <PUNCT> , <CCONJ> and <DET> a <NOUN> chandelier <PUNCT>
+<NOUN> lunch <VERB> sits <ADP> on <DET> a <ADJ> wooden <NOUN> block <PUNCT> , <ADP> with <NOUN> bread <CCONJ> and <NOUN> meat <PUNCT>
+<ADJ> assorted <NOUN> food <NOUN> items <VERB> displayed <ADP> on <NOUN> butcher <NOUN> block <ADP> in <NOUN> kitchen <PUNCT>
+<DET> a <NOUN> cut <ADP> in <NOUN> half <NOUN> sandwich <ADP> on <DET> a <ADJ> wooden <NOUN> board <PUNCT>
+<DET> a <NOUN> sandwich <VERB> sitting <ADP> on <NOUN> top <ADP> of <DET> a <ADJ> large <ADJ> wooden <NOUN> block <PUNCT>
+<DET> a <NOUN> sandwich <CCONJ> and <ADJ> other <NOUN> foods <VERB> are <ADP> on <DET> a <VERB> cutting <NOUN> board <PUNCT>
+<DET> a <NOUN> man <VERB> riding <DET> a <NOUN> motorcycle <ADP> down <DET> a <NOUN> road <ADP> in <DET> the <NOUN> mountains <PUNCT>
+<DET> a <NOUN> motorcycle <NOUN> rider <NOUN> rides <ADP> by <DET> the <ADJ> blue <NOUN> mountains <PUNCT>
+<DET> a <ADJ> <unk> <NOUN> man <NOUN> rides <PRON> his <NOUN> motorcycle <ADP> on <DET> a <ADJ> mountainous <NOUN> road <PUNCT>
+<DET> a <NOUN> man <ADP> on <DET> a <NOUN> motor <NOUN> bike <VERB> driving <ADP> down <DET> the <NOUN> road <PUNCT>
+<DET> a <NOUN> man <ADP> with <DET> a <NOUN> helmet <VERB> riding <ADP> on <DET> a <NOUN> motorcycle <PUNCT>
+<NUM> one <NOUN> person <NOUN> rides <DET> a <NOUN> skateboard <PUNCT> , <ADP> while <DET> another <NOUN> person <VERB> walks <ADP> alongside <PUNCT> , <VERB> carrying <DET> a <NOUN> skateboard <PUNCT>
+<NUM> two <ADJ> young <NOUN> men <VERB> are <ADJ> outside <PROPN> skateboarding <ADV> together <PUNCT>
+<NUM> two <ADJ> young <NOUN> men <VERB> are <PROPN> skateboarding <ADP> on <DET> the <NOUN> street <PUNCT>
+<NUM> two <NOUN> men <ADP> with <NOUN> skateboards <ADP> while <NUM> one <VERB> is <VERB> riding <PUNCT>
+<DET> a <NOUN> couple <ADP> of <ADJ> young <NOUN> boys <ADP> with <NOUN> skateboards <VERB> pass <DET> a <NOUN> city <NOUN> bus <PUNCT>
+<DET> the <NOUN> sign <ADP> that <VERB> reads <PUNCT> * <PROPN> alameda <PROPN> street <PUNCT> * <VERB> is <ADJ> next <ADP> to <DET> the <NOUN> stop <NOUN> light <PUNCT>
+<DET> a <NOUN> close <ADP> up <ADP> of <DET> a <NOUN> street <NOUN> sign <ADP> against <DET> a <ADJ> clear <ADJ> blue <NOUN> sky <PUNCT>
+<DET> a <NOUN> street <NOUN> sign <NOUN> reading <PUNCT> * <PROPN> alameda <PROPN> street <PUNCT> * <VERB> is <VERB> shown <PUNCT> , <ADP> with <DET> a <NOUN> skyscraper <ADP> in <DET> the <NOUN> background <PUNCT>
+<DET> a <NOUN> stop <NOUN> light <ADP> with <DET> a <ADJ> modern <ADJ> attached <NOUN> street <NOUN> sign <PUNCT>
+<PRON> there <VERB> is <DET> a <NOUN> treat <NOUN> sign <VERB> says <NOUN> alameda <NOUN> street <PUNCT>
+<DET> a <NOUN> bowl <VERB> filled <ADP> with <ADJ> ripe <NOUN> bananas <ADP> next <ADP> to <NOUN> apples <CCONJ> and <NOUN> oranges <PUNCT>
+<DET> a <NOUN> table <ADP> with <ADJ> different <NOUN> fruit <PUNCT> , <VERB> including <NOUN> apples <PUNCT> , <NOUN> oranges <CCONJ> and <NOUN> bananas <PUNCT>
+<NOUN> bananas <PUNCT> , <NOUN> oranges <CCONJ> and <NOUN> apples <VERB> are <ADP> in <NOUN> shades <ADP> of <ADJ> yellow <CCONJ> and <ADJ> orange <PUNCT>
+<DET> a <NOUN> close <ADP> up <ADP> of <NOUN> bananas <PUNCT> , <NOUN> apples <CCONJ> and <NOUN> oranges <PUNCT>
+<PROPN> picture <ADP> of <ADJ> multiple <NOUN> apples <PUNCT> , <NOUN> oranges <CCONJ> and <NOUN> bananas <ADV> together <PUNCT>
+<DET> a <NOUN> river <NOUN> close <ADP> to <DET> a <NOUN> city <ADP> with <DET> a <NOUN> clock <ADP> on <DET> the <NOUN> tower <PUNCT>
+<DET> a <NOUN> view <ADP> of <PROPN> london <ADP> with <DET> the <PUNCT> * <ADJ> big <PROPN> ben <PUNCT> * <NOUN> clock <NOUN> tower <ADP> in <DET> the <NOUN> background <PUNCT>
+<DET> a <ADJ> nighttime <NOUN> view <ADP> of <DET> a <NOUN> clock <NOUN> tower <ADP> across <DET> a <NOUN> river <PUNCT>
+<ADJ> big <PROPN> ben <VERB> stands <ADJ> tall <ADP> over <DET> a <NOUN> body <ADP> of <NOUN> water <PUNCT>
+<DET> the <ADJ> big <PROPN> ben <NOUN> clock <NOUN> tower <VERB> sitting <ADP> over <DET> a <NOUN> bridge <ADP> in <PROPN> london <PUNCT>
+<DET> a <ADJ> residential <NOUN> bathroom <ADP> with <DET> the <NOUN> shower <ADP> over <DET> the <NOUN> tub <PUNCT>
+<DET> a <ADJ> white <NOUN> toilet <CCONJ> and <DET> a <NOUN> sink <ADP> in <DET> a <NOUN> bathroom <PUNCT>
+<PROPN> white <VERB> tiled <NOUN> shower <ADP> in <ADJ> white <ADJ> walled <NOUN> bathroom <ADP> in <NOUN> home <PUNCT>
+<DET> a <NOUN> bathroom <ADP> with <DET> a <NOUN> towel <VERB> draped <ADP> across <DET> the <NOUN> bathtub <PUNCT> , <DET> a <NOUN> toilet <PUNCT> , <NOUN> sink <CCONJ> and <NOUN> mirror <PUNCT>
+<DET> an <ADJ> attractive <NOUN> bathroom <ADP> with <DET> the <NOUN> shower <NOUN> area <VERB> tiled <ADP> with <ADJ> white <NOUN> tile <CCONJ> and <DET> a <ADJ> black <ADJ> mosaic <NOUN> stripe <PUNCT>
+<DET> a <NOUN> bird <VERB> is <VERB> walking <ADP> on <NOUN> top <ADP> of <DET> a <NOUN> laptop <NOUN> keyboard <PUNCT>
+<DET> a <ADJ> gray <CCONJ> and <ADJ> white <NOUN> bird <NOUN> standing <ADP> on <DET> the <NOUN> keyboard <ADP> of <DET> a <NOUN> laptop <PUNCT>
+<DET> a <NOUN> bird <PRON> who <VERB> is <VERB> sitting <ADP> on <DET> a <NOUN> computer <NOUN> keyboard <PUNCT>
+<DET> a <NOUN> bird <VERB> stands <ADP> on <NOUN> top <ADP> of <DET> a <NOUN> laptop <NOUN> keyboard <PUNCT>
+<DET> a <NOUN> close <ADP> up <ADP> of <DET> a <NOUN> bird <ADP> on <DET> a <NOUN> laptop <PUNCT>
+<DET> a <NOUN> couple <ADP> of <NOUN> giraffes <VERB> are <VERB> standing <ADP> in <DET> a <NOUN> pin <PUNCT>
+<NUM> two <NOUN> giraffes <NUM> one <VERB> walking <ADP> in <NOUN> front <ADP> of <DET> another <ADP> by <DET> some <NOUN> rocks <PUNCT>
+<NUM> two <NOUN> giraffes <ADP> in <DET> an <NOUN> enclosure <VERB> walking <ADP> around <ADP> near <NOUN> trees <PUNCT>
+<NUM> two <NOUN> giraffes <VERB> are <VERB> looking <ADP> at <NOUN> something <ADP> in <DET> the <NOUN> distance <PUNCT>
+<NOUN> pair <ADP> of <NOUN> giraffes <VERB> approaching <NOUN> wall <ADP> of <PRON> their <NOUN> enclosure <PUNCT>
+<DET> a <NOUN> close <ADP> up <ADP> of <DET> a <NOUN> cat <VERB> laying <ADP> on <DET> a <NOUN> pillow <PUNCT>
+<DET> a <NOUN> cat <VERB> laying <ADP> on <DET> a <NOUN> pillow <ADP> on <DET> a <NOUN> desk <PUNCT>
+<DET> a <ADJ> black <CCONJ> and <ADJ> white <NOUN> cat <VERB> is <VERB> lying <ADP> on <DET> a <ADJ> green <NOUN> pillow <PUNCT>
+<ADJ> black <CCONJ> and <ADJ> white <NOUN> cat <VERB> laying <ADP> on <DET> a <ADJ> green <NOUN> pillow <PUNCT>
+<DET> a <ADJ> black <CCONJ> and <ADJ> white <NOUN> cat <VERB> is <VERB> laying <ADP> on <DET> a <ADJ> green <NOUN> pillow <ADP> on <NOUN> top <ADP> of <DET> a <NOUN> desk <PUNCT>
+<DET> a <NOUN> photo <ADP> of <DET> the <NOUN> ocean <ADP> from <DET> a <NOUN> ship <NOUN> window <PUNCT>
+<PROPN> view <ADP> of <NOUN> water <ADP> from <ADJ> inside <NOUN> boat <ADP> near <NOUN> bed <NOUN> window <PUNCT>
+<VERB> sleeping <NOUN> cabin <ADP> on <DET> a <NOUN> boat <ADP> on <DET> the <NOUN> water <VERB> close <ADP> to <NOUN> shore <PUNCT>
+<DET> a <NOUN> boat <ADP> with <DET> a <NOUN> bed <VERB> set <ADP> by <DET> a <NOUN> set <ADP> of <NOUN> windows <PUNCT>
+<DET> a <NOUN> view <ADP> of <DET> the <NOUN> water <ADP> from <ADP> inside <DET> a <NOUN> boat <PUNCT>
+<DET> some <NOUN> dessert <CCONJ> and <NOUN> toppings <VERB> are <ADP> in <DET> a <ADJ> blue <NOUN> plastic <NOUN> bowl <PUNCT>
+<DET> a <ADJ> blue <NOUN> plate <VERB> filled <ADP> with <NOUN> marshmallows <PUNCT> , <NOUN> chocolate <NOUN> chips <CCONJ> and <NOUN> banana <PUNCT>
+<DET> a <NOUN> bowl <ADP> of <NOUN> banana <PART> *s <PUNCT> , <NOUN> <unk> <PUNCT> , <NOUN> chocolate <NOUN> chips <PUNCT> , <CCONJ> and <NOUN> <unk> <PUNCT>
+<NOUN> bananas <PUNCT> , <NOUN> <unk> <PUNCT> , <NOUN> chocolate <NOUN> chips <CCONJ> and <VERB> sprinkles <ADP> in <DET> a <NOUN> bowl <PUNCT>
+<DET> a <NOUN> bowl <ADJ> full <ADP> of <NOUN> marshmallows <PUNCT> , <NOUN> chocolate <PUNCT> , <CCONJ> and <ADJ> other <ADJ> delicious <VERB> treats <PUNCT>
+<DET> a <NOUN> stove <NOUN> top <VERB> made <ADP> of <NOUN> glass <ADP> with <DET> an <NOUN> oven <ADP> below <PUNCT>
+<NUM> two <NOUN> metal <NOUN> tins <NOUN> rest <ADP> on <DET> a <NOUN> stove <ADJ> top <NOUN> oven <PUNCT>
+<DET> a <ADJ> black <NOUN> stove <ADP> with <NUM> two <NOUN> ovens <VERB> build <ADP> into <PRON> it <PUNCT>
+<NUM> two <NOUN> pans <VERB> are <ADP> on <DET> the <NOUN> burners <ADP> of <DET> a <ADJ> black <NOUN> stove <PUNCT>
+<DET> a <NOUN> close <ADP> up <ADP> of <DET> a <NOUN> stove <ADP> with <NUM> two <NOUN> pots <PUNCT>
+<DET> a <ADJ> <unk> <VERB> stall <ADP> with <DET> a <NOUN> toilet <CCONJ> and <DET> a <NOUN> urinal <PUNCT>
+<DET> a <DET> all <ADJ> white <NOUN> bathroom <ADP> with <DET> the <NOUN> toilet <NOUN> seat <ADV> up <PUNCT>
+<DET> a <NOUN> toilet <CCONJ> and <DET> a <NOUN> sink <ADP> next <ADP> to <DET> each <ADJ> other <PUNCT>
+<DET> a <ADJ> white <NOUN> toilet <VERB> sitting <ADJ> next <ADP> to <DET> a <ADJ> white <NOUN> sink <PUNCT>
+<DET> a <ADJ> small <NOUN> bathroom <ADP> with <NOUN> toilet <CCONJ> and <NOUN> sink <ADP> in <PRON> it <PUNCT>
+<DET> a <NOUN> <unk> <NOUN> container <ADP> on <DET> a <NOUN> pull <ADP> out <NOUN> shelf <ADP> in <NOUN> front <ADP> of <DET> a <NOUN> microwave <PUNCT>
+<DET> a <NOUN> microwave <VERB> has <DET> a <ADJ> little <NOUN> board <VERB> coming <ADP> out <ADP> from <ADP> underneath <PUNCT>
+<DET> a <NOUN> dish <ADP> in <NOUN> front <ADP> of <DET> a <NOUN> toaster <NOUN> oven <PUNCT>
+<DET> a <ADJ> large <ADJ> white <NOUN> bowl <VERB> sits <ADP> on <DET> a <NOUN> slide <ADP> out <NOUN> shelf <ADP> under <DET> a <NOUN> microwave <PUNCT>
+<DET> a <NOUN> tray <VERB> extends <ADP> from <ADP> below <DET> a <NOUN> microwave <ADV> where <DET> a <NOUN> dish <VERB> sits <PUNCT>
+<DET> a <ADJ> blue <NOUN> bed <ADP> in <DET> a <ADJ> large <NOUN> home <NOUN> bedroom <PUNCT>
+<DET> a <NOUN> bedroom <ADP> with <VERB> built <ADP> in <NOUN> bookshelves <VERB> is <VERB> pictured <PUNCT>
+<DET> a <ADJ> large <NOUN> bed <VERB> sits <ADJ> unoccupied <ADP> in <DET> a <ADJ> spacious <NOUN> room <ADP> in <DET> the <NOUN> morning <NOUN> light <PUNCT>
+<NOUN> bedroom <ADP> with <DET> all <ADJ> wooden <NOUN> wall <CCONJ> and <VERB> shelving <ADP> with <ADJ> outdoor <NOUN> deck <PUNCT>
+<DET> a <NOUN> room <ADP> with <ADJ> natural <PUNCT> , <ADJ> unfinished <PUNCT> , <ADJ> pale <NOUN> wood <NOUN> walls <CCONJ> and <VERB> built <ADP> in <NOUN> shelves <PUNCT> , <ADV> also <VERB> has <VERB> curtained <VERB> sliding <NOUN> doors <PRON> that <VERB> open <ADP> onto <DET> a <NOUN> patio <ADP> with <DET> a <NOUN> lounge <NOUN> chair <PUNCT> , <DET> a <ADJ> big <ADJ> double <NOUN> bed <ADP> with <DET> a <ADJ> blue <NOUN> blanket <PUNCT> , <CCONJ> and <ADJ> various <VERB> framed <NOUN> photos <CCONJ> and <NOUN> books <PUNCT>
+<NUM> two <NOUN> students <VERB> sitting <ADP> at <ADJ> different <NOUN> tables <ADP> on <NOUN> laptops <PUNCT>
+<NUM> two <NOUN> students <NOUN> study <ADP> on <NUM> two <ADJ> separate <NOUN> bench <NOUN> tables <PUNCT>
+<NUM> two <NOUN> people <VERB> sitting <ADP> at <NUM> two <ADJ> different <NOUN> benches <CCONJ> both <VERB> operating <NOUN> laptops <PUNCT>
+<DET> these <NUM> two <NOUN> students <VERB> are <VERB> sitting <ADP> in <NOUN> front <ADP> of <DET> a <NOUN> laptop <PUNCT>
+<NOUN> tow <NOUN> children <VERB> sit <ADP> at <ADJ> wooden <NOUN> benches <ADP> while <VERB> using <PRON> their <NOUN> laptops <PUNCT>
+<DET> a <NOUN> giraffe <NOUN> standing <ADP> with <NOUN> rocks <CCONJ> and <NOUN> trees <ADP> in <DET> the <NOUN> background <PUNCT>
+<DET> a <NOUN> giraffe <VERB> walking <ADP> on <DET> a <NOUN> dirt <NOUN> path <ADP> in <DET> an <NOUN> exhibit <NOUN> enclosure <PUNCT>
+<DET> a <NOUN> giraffe <VERB> is <VERB> walking <ADP> along <DET> a <ADJ> paved <NOUN> walkway <PUNCT>
+<NUM> one <NOUN> giraffe <ADP> in <DET> the <NOUN> foreground <ADP> with <NUM> two <NOUN> giraffes <ADP> in <DET> the <NOUN> background <PUNCT>
+<DET> a <NOUN> giraffe <NOUN> standing <ADP> on <DET> a <NOUN> dirt <NOUN> road <ADP> along <DET> the <NOUN> side <ADP> of <DET> a <NOUN> stone <NOUN> enclosure <PUNCT>
+<DET> a <NOUN> bunch <ADP> of <ADJ> green <NOUN> vegetables <ADP> on <DET> a <NOUN> table <ADP> along <ADP> with <DET> some <NOUN> <unk> <PUNCT>
+<ADJ> many <ADJ> different <NOUN> types <ADP> of <NOUN> leafy <NOUN> vegetables <ADP> on <DET> a <NOUN> table <PUNCT>
+<DET> a <NOUN> table <VERB> topped <ADP> with <NOUN> vegetables <CCONJ> and <DET> a <NOUN> cook <NOUN> book <PUNCT>
+<ADJ> several <NOUN> leafy <ADJ> green <NOUN> vegetables <VERB> are <VERB> displayed <ADP> on <DET> a <NOUN> table <PUNCT>
+<PROPN> carrots <PUNCT> , <NOUN> onions <CCONJ> and <ADJ> other <NOUN> vegetables <ADP> on <NOUN> top <ADP> of <DET> a <NOUN> table <PUNCT>
+<DET> a <NOUN> table <ADP> with <ADJ> various <NOUN> leafy <NOUN> greens <CCONJ> and <NOUN> vegetables <ADP> on <PRON> it <PUNCT>
+<DET> a <NOUN> person <ADP> with <DET> a <NOUN> helmet <ADP> on <DET> a <NOUN> vehicle <ADP> in <DET> the <NOUN> grass <PUNCT>
+<DET> a <NOUN> man <ADP> in <DET> a <NOUN> uniform <VERB> is <ADP> on <DET> a <NUM> four <NOUN> wheeler <PUNCT>
+<DET> the <NOUN> police <NOUN> man <VERB> is <VERB> riding <DET> a <ADJ> green <NOUN> <unk> <PUNCT>
+<DET> a <NOUN> person <ADP> on <DET> an <NOUN> atv <ADP> near <DET> a <NOUN> bunch <ADP> of <NOUN> trees <PUNCT>
+<DET> a <NOUN> man <VERB> riding <ADP> on <DET> the <NOUN> back <ADP> of <DET> an <NOUN> atv <PUNCT>
+<DET> a <NOUN> person <ADP> on <DET> some <NOUN> skis <NOUN> rides <ADP> on <DET> some <NOUN> grass <PUNCT>
+<DET> a <NOUN> woman <NOUN> water <VERB> boarding <ADP> in <DET> a <NOUN> lake <ADP> near <NOUN> land <PUNCT>
+<DET> a <NOUN> person <VERB> riding <NOUN> skis <ADP> on <DET> a <ADJ> grassy <NOUN> field <PUNCT>
+<NOUN> someone <VERB> wearing <DET> a <ADJ> white <NOUN> helmet <PUNCT> , <DET> a <ADJ> black <ADJ> wet <NOUN> suit <CCONJ> and <NOUN> water <NOUN> skis <ADP> in <ADJ> blue <NOUN> water <PUNCT>
+<DET> a <NOUN> person <VERB> riding <ADP> on <NOUN> top <ADP> of <DET> a <NOUN> board <ADP> on <ADJ> green <NOUN> grass <PUNCT>
+<DET> a <NOUN> kitchen <PRON> that <VERB> has <DET> a <NOUN> stove <PUNCT> , <NOUN> refrigerator <PUNCT> , <CCONJ> and <NOUN> table <ADP> in <PRON> it <PUNCT>
+<DET> a <ADJ> big <ADJ> stainless <NOUN> steel <NOUN> refrigerator <DET> a <NOUN> stove <CCONJ> and <DET> a <NOUN> table <CCONJ> and <VERB> <unk> <PUNCT>
+<DET> a <NOUN> picture <ADP> of <DET> a <NOUN> kitchen <ADP> with <DET> a <ADJ> large <NOUN> refrigerator <PUNCT>
+<DET> a <NOUN> kitchen <PRON> that <VERB> has <DET> a <NOUN> stove <CCONJ> and <DET> a <NOUN> icebox <ADP> in <PRON> it <PUNCT>
+<NOUN> kitchen <ADP> with <NOUN> hardwood <NOUN> floor <CCONJ> and <ADJ> modern <NOUN> fridge <PUNCT>
+<DET> a <NOUN> giraffe <VERB> putting <PRON> its <NOUN> head <ADP> near <DET> some <NOUN> onlookers <ADP> at <DET> the <NOUN> zoo <PUNCT>
+<NUM> three <NOUN> people <VERB> are <VERB> standing <ADP> near <DET> a <ADJ> tall <NOUN> giraffe <PART> *s <NOUN> head <PUNCT>
+<NUM> two <NOUN> men <CCONJ> and <DET> a <NOUN> woman <NOUN> people <VERB> interacting <ADP> with <DET> a <NOUN> giraffe <PUNCT>
+<NUM> three <NOUN> people <VERB> stand <ADP> in <NOUN> front <ADP> of <DET> the <NOUN> giraffe <NOUN> zoo <NOUN> section <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> tourists <VERB> looking <ADP> at <DET> a <NOUN> giraffe <ADP> in <ADP> in <DET> a <NOUN> zoo <PUNCT>
+<DET> a <ADJ> small <NOUN> copper <NOUN> vase <ADP> with <DET> some <NOUN> flowers <ADP> in <PRON> it <PUNCT>
+<DET> a <NOUN> vase <ADP> with <NOUN> flowers <VERB> sitting <ADP> beside <DET> a <NOUN> window <PUNCT>
+<DET> a <NOUN> vase <ADJ> full <ADP> of <ADJ> purple <CCONJ> and <ADJ> white <NOUN> flowers <PUNCT>
+<NOUN> flowers <ADP> in <DET> a <NOUN> vase <VERB> sitting <ADP> on <DET> a <NOUN> window <NOUN> seal <PUNCT>
+<DET> a <ADJ> single <NOUN> vase <ADP> with <ADJ> white <CCONJ> and <ADJ> purple <NOUN> <unk> <PUNCT>
+<DET> a <NOUN> car <VERB> is <VERB> reflected <ADP> in <DET> the <NOUN> glass <ADP> of <DET> a <NOUN> microwave <NOUN> oven <PUNCT>
+<DET> a <ADJ> white <NOUN> car <VERB> driving <ADP> past <DET> a <NOUN> building <ADP> with <PRON> it <VERB> *s <NOUN> reflection <ADP> in <DET> a <NOUN> microwave <NOUN> door <PUNCT>
+<DET> the <NOUN> reflection <ADP> of <DET> a <NOUN> car <ADP> in <DET> the <NOUN> window <ADP> of <DET> a <NOUN> building <PUNCT>
+<DET> a <NOUN> car <VERB> is <VERB> seen <ADP> in <DET> the <NOUN> reflection <ADP> of <DET> the <NOUN> microwave <PUNCT>
+<NOUN> reflection <ADP> of <DET> a <NOUN> car <ADP> off <DET> the <NOUN> face <ADP> of <DET> a <ADJ> black <NOUN> microwave <PUNCT>
+<PRON> there <VERB> is <DET> a <NOUN> delta <NOUN> plane <VERB> sitting <ADP> at <DET> the <ADJ> terminal <PUNCT>
+<DET> a <NOUN> close <ADP> up <ADP> of <DET> a <PROPN> delta <NOUN> airplane <ADP> at <DET> a <ADJ> terminal <PUNCT>
+<DET> an <NOUN> airplane <ADP> at <DET> the <NOUN> terminal <ADP> of <DET> an <NOUN> airport <PUNCT>
+<DET> a <PROPN> delta <NOUN> aircraft <VERB> is <VERB> parked <ADP> at <DET> a <ADJ> terminal <ADP> while <NOUN> maintenance <NOUN> men <VERB> <unk> <ADP> to <PRON> it <PUNCT>
+<NUM> two <NOUN> people <ADP> near <DET> an <NOUN> airplane <ADP> at <DET> an <NOUN> airport <PUNCT>
+<NUM> three <NOUN> urinals <VERB> mounted <ADP> to <DET> a <NOUN> wall <ADP> with <ADJ> white <ADJ> little <NOUN> <unk> <PUNCT>
+<NUM> three <NOUN> urinals <ADJ> next <ADP> to <DET> each <ADJ> other <ADP> in <DET> a <NOUN> bathroom <PUNCT>
+<DET> a <ADJ> white <ADJ> tiled <ADJ> public <NOUN> restroom <ADP> with <NUM> three <NOUN> urinals <PUNCT>
+<NUM> three <NOUN> urinals <VERB> are <ADP> in <DET> the <PROPN> public <PROPN> rest <PROPN> room <PUNCT>
+<DET> the <NOUN> men <PART> *s <NOUN> restroom <VERB> has <ADJ> white <NOUN> tiles <ADP> on <DET> the <NOUN> wall <PUNCT>
+<DET> a <ADJ> large <NOUN> clock <NOUN> tower <ADP> with <NUM> three <NOUN> bells <ADP> up <NOUN> top <PUNCT>
+<DET> a <ADJ> large <NOUN> clock <VERB> is <ADP> on <NOUN> top <DET> a <DET> a <NOUN> building <PUNCT>
+<DET> an <ADJ> old <NOUN> clock <NOUN> tower <ADP> with <NOUN> roman <NOUN> numerals <CCONJ> and <NOUN> bells <PUNCT>
+<DET> an <ADJ> old <PUNCT> , <VERB> stained <ADJ> elaborate <NOUN> roman <ADJ> <unk> <NOUN> clock <ADP> on <DET> a <ADJ> clear <NOUN> day <PUNCT>
+<DET> a <ADJ> little <NOUN> tower <ADP> with <DET> a <ADJ> fancy <NOUN> clock <ADP> on <PRON> it <PUNCT>
+<NUM> two <NOUN> people <VERB> riding <NOUN> skate <NOUN> boards <ADP> near <NUM> one <DET> another <PUNCT>
+<NUM> two <NOUN> skateboarders <VERB> riding <PRON> their <NOUN> boards <ADP> on <DET> a <NOUN> sidewalk <PUNCT>
+<NUM> two <NOUN> skateboarders <VERB> are <VERB> riding <ADP> on <DET> a <VERB> <unk> <NOUN> walkway <PUNCT>
+<DET> a <NOUN> couple <ADP> of <NOUN> people <PRON> that <VERB> are <VERB> riding <ADP> around <ADP> on <DET> some <NOUN> <unk> <PUNCT>
+<DET> a <NOUN> couple <ADP> of <NOUN> people <VERB> are <VERB> riding <ADP> on <NOUN> skateboards <ADP> outside <PUNCT>
+<DET> a <ADJ> little <NOUN> girl <NOUN> rides <ADV> backwards <ADP> in <DET> a <NOUN> shopping <NOUN> cart <VERB> wearing <NOUN> sunglasses <PUNCT>
+<DET> a <ADJ> little <NOUN> girl <VERB> sitting <ADP> in <DET> a <NOUN> cart <VERB> wearing <NOUN> sunglasses <PUNCT>
+<DET> a <ADJ> small <NOUN> girl <VERB> sitting <ADP> in <DET> a <NOUN> cart <ADP> at <DET> the <NOUN> airport <PUNCT>
+<DET> an <NOUN> infant <NOUN> girl <VERB> sitting <ADP> in <DET> a <NOUN> shopping <NOUN> cart <PUNCT>
+<DET> a <ADJ> pretty <ADJ> young <NOUN> girl <VERB> sitting <ADP> in <DET> a <NOUN> luggage <NOUN> cart <ADJ> next <ADP> to <DET> a <NOUN> bag <ADP> of <NOUN> luggage <PUNCT>
+<NOUN> salad <PUNCT> , <NOUN> milk <PUNCT> , <ADJ> orange <NOUN> slices <CCONJ> and <ADJ> french <NOUN> bread <NOUN> pizza <PUNCT>
+<DET> a <NOUN> bunch <ADP> of <NOUN> types <ADP> of <NOUN> food <PRON> that <VERB> are <VERB> sitting <ADP> on <DET> a <NOUN> plate <PUNCT>
+<DET> a <NOUN> plate <ADP> of <NOUN> food <VERB> including <NOUN> pizza <PUNCT> , <NOUN> salad <PUNCT> , <NOUN> fruit <CCONJ> and <NOUN> milk <VERB> is <VERB> seen <PUNCT>
+<DET> a <ADJ> big <NOUN> plate <VERB> filled <ADP> with <DET> some <ADJ> tasty <VERB> looking <NOUN> food <PUNCT>
+<PROPN> white <NOUN> plate <ADP> with <NOUN> fruit <CCONJ> and <NOUN> pizza <VERB> sitting <ADP> on <NOUN> top <ADP> of <PRON> it <PUNCT>
+<PROPN> banana <VERB> slices <VERB> added <ADP> to <DET> a <NOUN> bowl <ADP> of <NOUN> cereal <PUNCT>
+<NOUN> cream <ADP> of <NOUN> wheat <CCONJ> and <NOUN> milk <ADP> in <DET> a <ADJ> blue <NOUN> bowl <ADP> with <ADJ> sliced <NOUN> bananas <ADP> as <DET> a <VERB> topping <PUNCT>
+<DET> a <NOUN> bowl <NOUN> food <VERB> containing <NOUN> milk <PUNCT> , <NOUN> granola <CCONJ> and <NOUN> bananas <PUNCT>
+<DET> a <ADJ> blue <NOUN> bowl <ADP> with <NOUN> bananas <CCONJ> and <NOUN> oatmeal <CCONJ> and <NOUN> milk <PUNCT>
+<DET> a <ADJ> blue <NOUN> bowl <ADP> with <NOUN> <unk> <PUNCT> , <NOUN> <unk> <PUNCT> , <CCONJ> and <NOUN> bananas <PUNCT>
+<PRON> there <VERB> is <DET> a <NOUN> window <ADV> directly <ADP> above <DET> the <NOUN> kitchen <NOUN> sink <PUNCT>
+<DET> this <NOUN> image <VERB> is <ADP> of <DET> a <NOUN> kitchen <NOUN> sink <CCONJ> and <NOUN> oven <PUNCT>
+<PROPN> view <ADP> of <DET> a <NOUN> stove <ADJ> next <ADP> to <DET> a <ADJ> stainless <NOUN> kitchen <NOUN> sink <ADP> under <DET> a <NOUN> window <PUNCT>
+<DET> a <NOUN> kitchen <ADP> with <DET> a <NOUN> stove <CCONJ> and <DET> a <NOUN> sink <PUNCT>
+<DET> a <NOUN> metal <NOUN> sink <ADP> next <ADP> to <DET> a <ADJ> white <ADJ> top <NOUN> oven <PUNCT>
+<DET> a <NOUN> boy <CCONJ> and <DET> a <NOUN> girl <VERB> making <PRON> their <ADJ> own <NOUN> pizzas <PUNCT>
+<DET> a <ADJ> little <NOUN> girl <VERB> is <VERB> preparing <NOUN> food <ADP> at <DET> a <NOUN> table <PUNCT>
+<DET> a <NOUN> couple <ADP> of <ADJ> little <NOUN> girls <PRON> that <VERB> are <VERB> making <DET> some <NOUN> food <PUNCT>
+<DET> a <ADJ> young <NOUN> girl <VERB> eating <NOUN> food <ADP> from <DET> a <NOUN> box <PUNCT>
+<NOUN> children <VERB> making <PRON> their <ADJ> own <ADJ> personal <NOUN> pizzas <ADP> with <ADJ> different <NOUN> toppings <PUNCT>
+<NUM> two <NOUN> giraffe <NOUN> standing <ADJ> next <ADP> to <DET> each <ADJ> other <ADP> in <DET> a <NOUN> field <PUNCT>
+<DET> the <NUM> two <NOUN> giraffes <VERB> are <VERB> standing <ADJ> next <ADP> to <DET> each <ADJ> other <NOUN> outside <PUNCT>
+<NUM> two <NOUN> giraffes <VERB> standing <ADJ> next <ADP> to <DET> each <ADJ> other <ADP> in <DET> a <VERB> holding <NOUN> pen <PUNCT>
+<DET> a <NOUN> giraffe <CCONJ> and <DET> a <NOUN> baby <NOUN> giraffe <NOUN> standing <ADP> in <DET> an <NOUN> enclosure <PUNCT>
+<DET> a <NOUN> giraffe <VERB> examining <DET> the <NOUN> back <ADP> of <DET> another <NOUN> giraffe <PUNCT>
+<NUM> three <NOUN> people <VERB> are <VERB> kicking <ADP> around <DET> an <ADJ> orange <NOUN> ball <PUNCT>
+<NUM> * <NOUN> people <ADP> in <DET> a <NOUN> dirt <NOUN> field <VERB> playing <NOUN> soccer <PUNCT>
+<DET> a <NOUN> couple <ADP> of <NOUN> people <VERB> are <VERB> kicking <DET> a <NOUN> ball <ADP> in <DET> a <NOUN> field <PUNCT>
+<NUM> three <NOUN> people <VERB> playing <NOUN> ball <NOUN> game <ADP> on <ADJ> sandy <NOUN> ground <PUNCT>
+<NUM> three <NOUN> people <VERB> are <VERB> playing <ADP> with <DET> a <ADJ> red <NOUN> kick <NOUN> ball <PUNCT>
+<DET> a <ADJ> black <DET> an <ADJ> white <NOUN> <unk> <ADP> of <DET> a <ADV> very <ADJ> old <NOUN> bus <PUNCT>
+<DET> an <ADJ> old <ADJ> black <CCONJ> and <ADJ> white <NOUN> picture <ADP> of <DET> a <NOUN> bus <CCONJ> and <NOUN> homes <ADP> in <DET> the <NOUN> background <PUNCT>
+<DET> a <ADJ> large <NOUN> truck <VERB> parked <ADP> on <DET> a <NOUN> city <NOUN> street <PUNCT>
+<DET> a <ADJ> black <CCONJ> and <ADJ> white <NOUN> photo <ADP> of <DET> a <NOUN> child <NOUN> standing <ADP> near <DET> a <NOUN> bus <PUNCT>
+<DET> a <NOUN> youth <VERB> waits <ADP> for <DET> an <ADJ> older <NOUN> bus <ADP> in <DET> a <NOUN> neighborhood <PUNCT>
+<NUM> two <NOUN> pieces <ADP> of <NOUN> fruit <VERB> lay <ADP> on <DET> a <NOUN> plate <PUNCT>
+<DET> a <ADJ> large <NOUN> grape <ADJ> <unk> <NOUN> cut <ADP> into <NOUN> pieces <ADP> on <DET> a <NOUN> plate <PUNCT>
+<DET> a <NOUN> grape <NOUN> fruit <VERB> sliced <ADP> in <NOUN> half <ADP> on <DET> a <NOUN> plate <PUNCT>
+<NUM> two <NOUN> halves <ADP> of <NOUN> grapefruit <ADP> on <DET> a <NOUN> plate <ADP> on <DET> a <NOUN> table <PUNCT>
+<DET> a <NOUN> plate <ADP> with <DET> a <NOUN> grapefruit <NOUN> cut <ADP> in <NOUN> half <PUNCT>
+<DET> a <NOUN> tennis <NOUN> player <VERB> sitting <ADP> on <DET> the <NOUN> <unk> <ADP> as <DET> a <NOUN> <unk> <VERB> <unk> <PRON> his <NOUN> foot <PUNCT>
+<DET> a <NOUN> man <VERB> examines <DET> a <NOUN> players <NOUN> <unk> <ADP> at <DET> a <NOUN> tennis <NOUN> match <PUNCT>
+<ADP> outside <ADP> of <DET> a <NOUN> tennis <NOUN> court <VERB> are <DET> a <NOUN> man <VERB> kneeling <ADP> down <ADP> while <DET> another <NOUN> man <VERB> is <ADP> in <DET> a <NOUN> seat <VERB> sitting <ADP> up <ADJ> high <CCONJ> and <DET> a <NOUN> tennis <NOUN> player <ADP> in <ADJ> blue <VERB> is <VERB> having <PRON> their <NOUN> foot <VERB> wrapped <PUNCT>
+<DET> some <NOUN> tennis <NOUN> players <NOUN> fans <CCONJ> and <DET> a <NOUN> judge <ADP> on <DET> a <NOUN> court <PUNCT>
+<DET> a <NOUN> tennis <NOUN> player <ADP> on <DET> a <NOUN> table <ADP> on <DET> the <NOUN> court <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> guys <VERB> playing <ADP> with <DET> the <NOUN> wii <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> men <VERB> sitting <CCONJ> and <VERB> watching <NUM> two <VERB> playing <NOUN> games <ADP> on <DET> a <NOUN> tv <PUNCT>
+<NUM> two <NOUN> men <VERB> are <VERB> playing <DET> a <NOUN> game <ADP> with <NOUN> controllers <ADP> in <DET> a <NOUN> living <NOUN> room <PUNCT>
+<ADJ> several <NOUN> guys <ADP> in <DET> a <NOUN> living <NOUN> room <VERB> watching <DET> a <NOUN> video <NOUN> game <PUNCT>
+<DET> some <NOUN> friends <VERB> are <VERB> having <NOUN> fun <VERB> playing <DET> a <NOUN> game <ADP> on <DET> a <NOUN> video <NOUN> game <NOUN> console <PUNCT>
+<DET> a <NOUN> woman <VERB> riding <ADP> on <DET> a <NOUN> surf <NOUN> board <ADP> through <DET> the <NOUN> water <PUNCT>
+<DET> a <NOUN> surfer <VERB> laying <ADP> on <DET> a <NOUN> surf <NOUN> board <VERB> riding <DET> the <NOUN> top <ADP> of <DET> a <NOUN> wave <PUNCT>
+<DET> a <NOUN> woman <VERB> riding <DET> a <NOUN> wave <ADP> on <NOUN> top <ADP> of <DET> a <NOUN> surfboard <PUNCT>
+<ADV> only <NUM> three <NOUN> quarters <ADP> of <DET> the <NOUN> surfers <NOUN> body <VERB> shows <ADP> on <DET> the <NOUN> surfboard <PUNCT>
+<DET> a <ADJ> young <NOUN> person <VERB> laying <ADP> down <ADP> on <DET> a <NOUN> surfboard <VERB> riding <DET> a <NOUN> wave <PUNCT>
+<ADJ> thin <NOUN> crust <NOUN> pizza <ADP> with <NOUN> meat <CCONJ> and <NOUN> vegetable <ADP> on <ADJ> wooden <NOUN> <unk> <PUNCT>
+<DET> a <NOUN> closeup <ADP> of <DET> a <NOUN> pizza <ADP> on <DET> a <ADJ> wooden <NOUN> tray <PUNCT>
+<NOUN> part <ADP> of <DET> a <NOUN> pizza <VERB> is <VERB> displayed <VERB> showing <PRON> it <VERB> *s <NOUN> toppings <PUNCT>
+<DET> a <ADJ> partial <NOUN> view <ADP> of <DET> a <ADJ> thin <NOUN> crust <NOUN> pizza <ADP> with <NOUN> asparagus <PUNCT>
+<DET> a <NOUN> close-up <ADP> of <DET> a <NOUN> pizza <ADP> with <NOUN> ham <CCONJ> and <NOUN> spinach <PUNCT>
+<DET> a <NOUN> man <VERB> playing <NOUN> tennis <ADP> with <PRON> his <NOUN> racket <VERB> raised <ADP> to <VERB> receive <DET> the <NOUN> ball <PUNCT>
+<NOUN> man <NOUN> playing <NOUN> tennis <ADP> with <NOUN> tennis <NOUN> racket <ADP> on <NOUN> court <PUNCT>
+<DET> a <NOUN> man <ADP> in <NOUN> <unk> <NOUN> shirt <CCONJ> and <ADJ> white <NOUN> shorts <VERB> playing <NOUN> tennis <PUNCT>
+<DET> a <NOUN> man <ADP> on <DET> a <NOUN> court <NOUN> standing <ADP> with <DET> a <NOUN> tennis <NOUN> racket <PUNCT>
+<DET> a <NOUN> man <ADP> with <DET> a <NOUN> racket <VERB> stands <ADP> on <DET> a <NOUN> court <PUNCT>
+<DET> a <NOUN> bathroom <ADP> with <DET> a <NOUN> bathtub <PUNCT> , <DET> a <NOUN> toilet <PUNCT> , <CCONJ> and <DET> a <NOUN> sink <PUNCT>
+<DET> a <NOUN> bathroom <VERB> covered <ADP> with <ADJ> beige <NOUN> tiles <CCONJ> and <DET> a <ADJ> fancy <NOUN> sink <PUNCT>
+<DET> a <NOUN> tile <NOUN> bathroom <ADP> with <DET> a <NOUN> toilet <PUNCT> , <NOUN> sink <CCONJ> and <NOUN> bath <NOUN> tub <PUNCT>
+<DET> a <NOUN> bathroom <PRON> that <VERB> has <DET> a <NOUN> sink <ADP> in <DET> a <NOUN> window <NOUN> sill <PUNCT>
+<DET> a <NOUN> bathroom <ADP> with <DET> a <ADJ> white <NOUN> toilet <ADP> next <ADP> to <DET> a <ADJ> white <NOUN> bath <NOUN> tub <PUNCT>
+<NOUN> <unk> <VERB> await <DET> a <NOUN> train <ADP> at <DET> an <ADJ> outdoor <NOUN> station <PUNCT>
+<DET> a <NOUN> train <VERB> going <ADP> down <DET> a <NOUN> track <ADP> while <NOUN> people <VERB> are <VERB> standing <ADP> at <DET> a <NOUN> train <NOUN> platform <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> people <CCONJ> and <DET> a <NOUN> train <ADP> on <DET> a <NOUN> steel <NOUN> track <PUNCT>
+<DET> a <NOUN> train <ADP> on <DET> a <NOUN> track <ADP> beside <DET> a <NOUN> group <ADP> of <NOUN> people <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> people <ADP> at <DET> a <NOUN> train <NOUN> station <ADP> with <DET> a <VERB> passing <NOUN> train <PUNCT>
+<NUM> three <NOUN> giraffes <VERB> are <VERB> standing <ADV> together <ADP> near <DET> the <NOUN> grass <PUNCT>
+<NUM> three <NOUN> giraffes <VERB> are <ADJ> next <ADP> to <DET> a <NOUN> cage <ADP> of <ADJ> green <NOUN> food <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> giraffe <NOUN> standing <ADJ> next <ADP> to <DET> each <ADJ> other <PUNCT>
+<DET> a <NOUN> couple <ADP> of <NOUN> giraffes <VERB> are <VERB> standing <ADP> outside <ADV> together <PUNCT>
+<DET> a <NOUN> giraffe <CCONJ> and <PRON> her <NUM> two <NOUN> babies <VERB> sanding <ADJ> next <ADP> to <DET> a <NOUN> hay <NOUN> feeder <PUNCT>
+<DET> a <NOUN> pair <ADP> of <NOUN> people <VERB> riding <ADP> on <DET> a <NOUN> bike <PUNCT> , <ADP> down <DET> a <NOUN> street <PUNCT>
+<DET> the <NOUN> bicyclist <VERB> is <ADJ> busy <VERB> riding <ADP> down <DET> the <NOUN> brick <VERB> lined <NOUN> street <PUNCT>
+<NUM> two <NOUN> people <VERB> walking <ADP> down <DET> the <NOUN> street <NUM> one <ADP> of <PRON> which <VERB> is <VERB> riding <DET> a <ADJ> pink <NOUN> bike <PUNCT>
+<DET> a <NOUN> person <VERB> walks <ADJ> next <ADP> to <DET> a <NOUN> person <PRON> who <VERB> is <NOUN> biking <ADP> down <DET> a <NOUN> city <NOUN> street <PUNCT>
+<DET> a <NOUN> woman <VERB> walking <ADJ> next <ADP> to <DET> a <NOUN> man <VERB> riding <DET> a <ADJ> pink <NOUN> bike <PUNCT>
+<DET> an <ADJ> old <NOUN> kitchen <PRON> that <VERB> has <ADJ> dim <NOUN> lighting <PUNCT>
+<DET> some <NOUN> pots <CCONJ> and <NOUN> pans <PRON> that <VERB> are <ADP> in <DET> a <NOUN> room <PUNCT>
+<DET> a <NOUN> shelf <ADP> with <ADJ> many <NOUN> items <ADP> on <PRON> it <ADJ> next <ADP> to <DET> a <NOUN> table <ADP> with <NOUN> pots <CCONJ> and <NOUN> bowl <PUNCT>
+<DET> a <NOUN> room <ADJ> full <ADP> of <NOUN> pots <CCONJ> and <NOUN> pans <ADP> on <ADJ> wooden <NOUN> shelves <PUNCT>
+<DET> a <NOUN> photo <ADP> of <DET> an <ADJ> old <NOUN> kitchen <ADP> with <NOUN> pots <CCONJ> and <NOUN> pans <ADV> everywhere <PUNCT>
+<NUM> three <NOUN> stop <NOUN> signs <ADP> in <DET> the <NOUN> middle <ADP> of <DET> a <NOUN> street <PUNCT>
+<DET> a <NOUN> street <NOUN> sign <VERB> is <ADJ> prominent <ADP> in <NOUN> front <ADP> of <DET> a <NOUN> building <PUNCT>
+<PROPN> street <NOUN> signs <VERB> hanging <ADP> from <DET> a <NOUN> pole <ADP> in <DET> the <NOUN> city <PUNCT>
+<DET> a <NOUN> street <NOUN> pole <ADP> with <DET> some <NOUN> signs <VERB> sitting <ADP> on <PRON> them <PUNCT>
+<DET> a <NOUN> sign <ADP> that <VERB> says <DET> no <ADJ> left <NOUN> turns <ADP> except <NOUN> cycles <ADP> above <DET> a <NOUN> street <NOUN> sign <PUNCT>
+<DET> a <NOUN> man <VERB> flying <DET> a <NOUN> kite <ADP> at <DET> the <NOUN> beach <ADP> near <DET> the <NOUN> ocean <PUNCT>
+<DET> an <NOUN> image <ADP> of <DET> a <NOUN> man <VERB> walking <ADP> on <DET> the <NOUN> sand <PUNCT>
+<DET> an <ADJ> old <NOUN> man <VERB> is <VERB> flying <PRON> his <NOUN> kite <ADP> in <DET> the <NOUN> middle <ADP> of <DET> no <ADV> where <PUNCT>
+<DET> a <NOUN> person <VERB> flying <DET> a <NOUN> kite <ADP> on <ADJ> wet <NOUN> sand <PUNCT>
+<DET> a <NOUN> person <VERB> flying <DET> a <NOUN> kite <ADP> in <ADJ> sandy <PUNCT> , <ADJ> <unk> <NOUN> area <PUNCT>
+<DET> a <NOUN> utility <NOUN> truck <VERB> is <VERB> parked <ADP> in <DET> the <NOUN> street <ADP> beside <NOUN> traffic <NOUN> cones <PUNCT>
+<NOUN> traffic <NOUN> cones <ADP> at <DET> the <NOUN> entrance <ADP> of <DET> a <NOUN> lot <ADV> where <PRON> there <VERB> is <NOUN> construction <PUNCT>
+<DET> a <NOUN> bunch <ADP> of <ADJ> orange <NOUN> cones <VERB> sitting <ADP> in <DET> the <NOUN> road <PUNCT>
+<DET> a <NOUN> construction <NOUN> truck <VERB> is <ADP> in <NOUN> front <ADP> of <DET> the <ADJ> huge <NOUN> building <PUNCT>
+<DET> a <NOUN> street <ADP> with <ADJ> orange <NOUN> cones <CCONJ> and <DET> a <NOUN> work <NOUN> truck <ADP> on <PRON> it <PUNCT>
+<NUM> two <NOUN> books <VERB> are <VERB> placed <ADP> on <NOUN> pillows <ADP> on <DET> a <ADJ> tidy <NOUN> bed <PUNCT>
+<DET> a <NOUN> bed <ADP> with <NUM> two <NOUN> books <CCONJ> and <NOUN> pillows <ADP> on <PRON> it <PUNCT>
+<DET> a <NOUN> bed <PRON> that <VERB> has <NUM> two <NOUN> books <ADP> on <NUM> two <ADJ> different <NOUN> pillows <PUNCT>
+<ADJ> several <NOUN> pillows <CCONJ> and <NOUN> books <VERB> are <ADP> on <DET> this <NOUN> bed <PUNCT>
+<DET> a <NOUN> couple <ADP> of <NOUN> books <VERB> are <VERB> placed <ADP> on <DET> the <NOUN> bed <PUNCT>
+<DET> a <NOUN> bunch <ADP> of <NOUN> things <VERB> are <ADP> outside <ADP> of <DET> a <ADJ> clean <ADJ> white <NOUN> home <PUNCT>
+<DET> a <NOUN> bike <PRON> that <VERB> *s <VERB> leaning <ADP> against <DET> a <NOUN> cement <NOUN> wall <PUNCT>
+<DET> a <NOUN> bike <VERB> is <VERB> leaning <ADP> against <DET> a <NOUN> wall <ADP> with <DET> a <NOUN> fence <ADP> near <DET> the <NOUN> street <PUNCT>
+<PRON> there <VERB> is <DET> a <ADJ> blue <NOUN> bike <VERB> leaning <ADP> up <ADP> against <DET> the <NOUN> wall <PUNCT>
+<DET> a <NOUN> bike <VERB> sits <ADP> up <ADP> against <DET> a <ADJ> concrete <NOUN> wall <PUNCT>
+<DET> a <ADJ> delicious <VERB> looking <NOUN> homemade <NOUN> pizza <VERB> looks <ADP> to <VERB> be <VERB> topped <ADP> with <ADJ> fresh <NOUN> mozzarella <PUNCT> , <ADJ> fresh <NOUN> basil <PUNCT> , <NOUN> tomatoes <CCONJ> and <NOUN> mushrooms <PUNCT>
+<DET> a <ADJ> loaded <NOUN> pizza <ADP> with <DET> an <NOUN> assortment <ADP> of <NOUN> vegetable <CCONJ> and <NOUN> cheese <PUNCT>
+<DET> a <NOUN> hand <VERB> is <VERB> taking <DET> a <NOUN> piece <ADP> of <NOUN> pizza <NOUN> thats <ADP> on <DET> a <ADJ> white <NOUN> plate <PUNCT>
+<ADJ> small <ADJ> personal <NOUN> pizza <VERB> sitting <ADP> on <DET> a <NOUN> paper <NOUN> plate <PUNCT>
+<DET> a <NOUN> person <VERB> picking <DET> a <NOUN> piece <ADP> of <NOUN> pizza <ADP> from <DET> the <NOUN> pie <PUNCT>
+<DET> a <NOUN> phone <VERB> laying <ADP> on <NOUN> top <ADP> of <DET> a <NOUN> cat <VERB> sitting <ADP> on <DET> a <NOUN> table <PUNCT>
+<DET> a <VERB> sleeping <NOUN> cat <VERB> listening <ADP> to <DET> an <NOUN> mp* <NOUN> player <ADP> with <NOUN> <unk> <ADP> while <ADP> on <DET> the <NOUN> phone <PUNCT>
+<DET> a <NOUN> car <VERB> is <VERB> laying <ADP> with <DET> a <NOUN> phone <ADP> on <PRON> it <PUNCT>
+<DET> a <NOUN> cat <VERB> has <NOUN> headphones <ADP> in <PRON> its <NOUN> ear <ADP> while <VERB> curled <ADP> around <DET> the <NOUN> cellphone <PUNCT>
+<DET> a <ADJ> small <NOUN> cat <NOUN> sleeps <ADP> while <DET> a <NOUN> cell <NOUN> phone <VERB> rests <ADP> against <PRON> it <PUNCT>
+<DET> this <NOUN> stop <NOUN> sign <VERB> is <ADP> in <DET> a <ADJ> different <NOUN> language <CCONJ> but <PRON> its <NOUN> <unk> <VERB> is <ADJ> <unk> <PUNCT>
+<DET> a <ADJ> red <NOUN> stop <NOUN> sign <ADP> in <DET> a <ADJ> foreign <NOUN> country <PUNCT>
+<DET> a <NOUN> stop <NOUN> sign <ADP> on <DET> a <NOUN> street <NOUN> corner <ADP> with <DET> a <NOUN> building <ADP> in <DET> the <NOUN> background <PUNCT>
+<DET> a <ADJ> french <NOUN> stop <NOUN> sign <ADP> on <DET> a <NOUN> street <NOUN> corner <PUNCT>
+<DET> a <NOUN> stop <NOUN> sign <VERB> is <ADP> at <DET> the <NOUN> corner <ADP> of <DET> the <NOUN> street <PUNCT>
+<DET> a <ADJ> large <NOUN> train <VERB> is <VERB> sitting <ADP> inside <DET> a <NOUN> train <NOUN> station <PUNCT>
+<DET> a <ADJ> white <ADJ> yellow <CCONJ> and <ADJ> blue <NOUN> train <ADP> at <DET> an <ADJ> empty <NOUN> train <NOUN> station <PUNCT>
+<DET> a <NOUN> train <VERB> is <NOUN> scene <ADP> in <DET> the <NOUN> station <ADP> with <DET> no <NOUN> people <ADP> around <PUNCT>
+<DET> a <NOUN> train <VERB> is <VERB> shown <ADP> on <DET> the <NOUN> inside <ADP> of <DET> a <NOUN> station <PUNCT>
+<DET> a <NOUN> train <VERB> is <VERB> moving <ADP> through <DET> a <NOUN> train <NOUN> station <PUNCT>
+<DET> a <ADJ> blue <NOUN> motorcycle <VERB> parked <ADP> on <DET> a <NOUN> sidewalk <ADJ> next <ADP> to <DET> a <NOUN> street <PUNCT>
+<DET> a <ADJ> blue <CCONJ> and <ADJ> silver <NOUN> motorcycle <VERB> parked <ADP> on <DET> the <NOUN> sidewalk <PUNCT>
+<DET> a <VERB> broken <ADP> down <ADJ> blue <NOUN> motorcycle <VERB> is <ADP> on <DET> the <NOUN> pavement <PUNCT>
+<DET> an <ADJ> older <PROPN> harley <PROPN> davidson <NOUN> motorcycle <ADP> in <ADJ> blue <NOUN> outside <PUNCT> . <PUNCT>
+<DET> a <ADJ> blue <NOUN> motorcycle <VERB> is <VERB> parked <ADP> on <DET> a <NOUN> side <NOUN> walk <PUNCT>
+<DET> an <NOUN> office <NOUN> space <ADP> with <DET> a <NOUN> computer <NOUN> monitor <CCONJ> and <NOUN> lap <NOUN> top <PUNCT>
+<DET> a <NOUN> desk <ADP> with <DET> a <NOUN> computer <PUNCT> , <NOUN> laptop <CCONJ> and <NOUN> cell <NOUN> phone <ADP> on <PRON> it <PUNCT>
+<NOUN> laptop <CCONJ> and <NOUN> monitor <VERB> displayed <ADP> on <ADJ> white <NOUN> desk <ADP> in <ADJ> small <NOUN> area <PUNCT>
+<DET> a <NOUN> desk <VERB> is <VERB> shown <ADP> with <NUM> two <NOUN> computers <ADP> by <DET> a <NOUN> window <PUNCT>
+<NOUN> lap <ADJ> top <NOUN> computer <CCONJ> and <NOUN> monitor <ADP> on <DET> a <NOUN> desk <ADP> with <ADJ> assorted <NOUN> papers <CCONJ> and <NOUN> devices <PUNCT>
+<DET> an <ADJ> open <NOUN> living <NOUN> room <VERB> has <DET> a <NOUN> wicker <VERB> rocking <NOUN> chair <PUNCT>
+<DET> this <VERB> is <DET> a <NOUN> living <NOUN> room <ADP> with <NOUN> furniture <CCONJ> and <NOUN> rugs <PUNCT>
+<DET> a <NOUN> room <VERB> cluttered <ADP> with <ADJ> old <NOUN> furniture <CCONJ> and <ADJ> old <NOUN> rugs <PUNCT>
+<VERB> living <NOUN> room <ADJ> full <ADP> of <ADJ> different <NOUN> vintage <NOUN> furniture <CCONJ> and <NOUN> television <PUNCT>
+<DET> a <NOUN> bunch <ADP> of <ADJ> different <NOUN> couches <CCONJ> and <NOUN> chairs <PRON> that <VERB> are <ADP> on <DET> a <NOUN> carpet <PUNCT>
+<DET> a <NOUN> woman <VERB> jumping <DET> a <ADJ> brown <NOUN> horse <ADP> over <DET> a <NOUN> jump <ADP> in <DET> a <NOUN> field <PUNCT>
+<DET> a <NOUN> jockey <VERB> riding <DET> a <NOUN> horse <VERB> jumping <DET> a <NOUN> hurdle <PUNCT>
+<DET> a <NOUN> jockey <VERB> riding <DET> a <NOUN> horse <VERB> jumping <DET> an <NOUN> obstacle <PUNCT>
+<ADJ> equestrian <VERB> jumping <DET> a <NOUN> horse <ADP> over <DET> a <NOUN> rail <ADP> with <NOUN> spectators <VERB> looking <ADP> on <PUNCT>
+<DET> a <NOUN> rider <VERB> jumping <DET> a <NOUN> show <NOUN> horse <ADP> over <DET> a <NOUN> pole <PUNCT>
+<ADP> inside <ADP> of <DET> a <NOUN> subway <CCONJ> or <NOUN> tram <ADP> with <ADJ> blue <NOUN> seats <PUNCT>
+<NOUN> rows <ADP> of <ADJ> empty <NOUN> seats <VERB> are <VERB> viewed <ADP> from <ADP> inside <DET> a <NOUN> train <PUNCT>
+<DET> a <NOUN> train <NOUN> car <PRON> that <VERB> is <ADJ> empty <ADP> with <NOUN> lots <ADP> of <ADJ> blue <NOUN> seats <PUNCT>
+<ADJ> blue <NOUN> passenger <NOUN> seats <ADP> on <DET> a <NOUN> train <CCONJ> or <NOUN> subway <NOUN> car <PUNCT>
+<ADJ> several <NOUN> bench <NOUN> seats <VERB> lined <ADP> up <ADP> in <DET> the <NOUN> car <ADP> of <DET> a <NOUN> vehicle <PUNCT>
+<DET> a <NOUN> train <PRON> that <VERB> is <ADP> on <DET> a <NOUN> rail <NOUN> road <NOUN> track <PUNCT>
+<DET> the <NOUN> passenger <NOUN> train <VERB> is <VERB> pulling <ADJ> grey <NOUN> train <NOUN> cars <PUNCT>
+<DET> a <ADJ> green <PUNCT> , <ADJ> red <PUNCT> , <ADJ> white <CCONJ> and <ADJ> blue <NOUN> train <ADP> in <ADP> on <DET> the <NOUN> train <NOUN> track <PUNCT>
+<DET> a <NOUN> train <VERB> driving <ADP> down <DET> the <NOUN> tracks <ADP> near <NOUN> trees <PUNCT>
+<DET> a <NOUN> train <PRON> that <VERB> is <VERB> sitting <ADP> on <DET> the <NOUN> tracks <PUNCT>
+<DET> this <ADJ> white <NOUN> bowl <VERB> has <ADJ> several <NOUN> pieces <ADP> of <NOUN> fruit <ADP> in <PRON> it <PUNCT>
+<NOUN> apples <NOUN> pear <CCONJ> and <NOUN> orange <ADP> in <ADJ> white <NOUN> fruit <NOUN> bowl <PUNCT>
+<PRON> there <VERB> is <DET> a <NOUN> bowl <ADP> of <ADJ> fresh <NOUN> fruit <ADP> on <DET> the <NOUN> table <PUNCT>
+<DET> a <NOUN> bowl <ADP> of <DET> a <NOUN> lot <ADP> of <ADJ> different <NOUN> fruit <ADP> in <PRON> it <PUNCT>
+<DET> a <ADJ> white <NOUN> bowl <VERB> filled <ADP> with <ADJ> different <NOUN> types <ADP> of <NOUN> fruit <PUNCT>
+<DET> an <NOUN> image <ADP> of <DET> a <ADJ> <unk> <NOUN> year <NOUN> birthday <NOUN> cake <PUNCT>
+<DET> a <NOUN> birthday <NOUN> cake <ADP> with <DET> a <NOUN> cell <NOUN> phone <ADP> on <PRON> it <VERB> is <VERB> being <VERB> lit <PUNCT>
+<NOUN> someone <NOUN> lights <DET> the <ADJ> other <NOUN> candles <ADP> on <DET> the <NOUN> cake <PUNCT>
+<DET> a <NOUN> sheet <NOUN> cake <VERB> sitting <ADP> on <NOUN> top <ADP> of <DET> a <NOUN> table <ADP> with <VERB> lit <NOUN> candles <PUNCT>
+<DET> a <NOUN> birthday <NOUN> cake <ADP> with <NOUN> candles <CCONJ> and <DET> a <NOUN> cell <NOUN> phone <PUNCT>
+<DET> a <NOUN> sign <ADP> for <ADJ> handicapped <NOUN> parking <ADP> with <NOUN> mountains <ADP> in <DET> the <NOUN> background <PUNCT>
+<DET> a <NOUN> sign <VERB> is <ADP> on <DET> a <NOUN> pole <ADP> near <DET> the <NOUN> grass <PUNCT>
+<DET> a <ADJ> small <NOUN> sign <ADP> on <DET> a <ADJ> wooden <NOUN> post <VERB> indicating <NOUN> handicap <NOUN> <unk> <PUNCT>
+<DET> a <NOUN> close <ADP> up <ADP> of <DET> a <NOUN> street <NOUN> sign <ADP> with <DET> a <NOUN> mountain <ADP> in <DET> the <NOUN> background <PUNCT>
+<DET> a <NOUN> sign <VERB> has <DET> a <ADJ> blue <NOUN> circle <ADP> with <DET> a <ADJ> red <NOUN> rim <CCONJ> and <ADJ> red <ADJ> diagonal <NOUN> line <ADP> through <PRON> it <ADP> near <DET> a <NOUN> park <NOUN> area <PUNCT>
+<ADJ> messy <NOUN> room <ADP> with <DET> a <NOUN> pile <ADP> of <NOUN> things <ADP> in <DET> the <NOUN> middle <ADP> of <NOUN> floor <PUNCT>
+<DET> a <ADJ> messy <NOUN> living <NOUN> room <ADJ> complete <ADP> with <DET> a <NOUN> couch <CCONJ> and <NOUN> television <PUNCT>
+<VERB> cleaning <CCONJ> and <NOUN> repair <NOUN> items <VERB> laid <ADP> out <ADP> on <DET> the <NOUN> living <NOUN> room <NOUN> floor <PUNCT>
+<DET> a <NOUN> picture <ADP> of <DET> a <NOUN> couch <ADP> in <DET> a <NOUN> room <PUNCT>
+<DET> a <NOUN> wood <VERB> <unk> <VERB> living <NOUN> room <ADP> with <NOUN> cleaning <NOUN> items <ADP> in <PRON> it <PUNCT>
+<DET> a <ADJ> small <NOUN> child <ADP> in <ADJ> grassy <NOUN> area <ADP> with <DET> a <ADJ> yellow <NOUN> frisbee <PUNCT>
+<DET> a <ADJ> little <NOUN> baby <NOUN> boy <VERB> playing <ADP> with <DET> a <NOUN> frisbee <ADP> in <DET> the <NOUN> park <PUNCT>
+<DET> a <ADV> very <ADJ> young <NOUN> child <VERB> bending <ADP> down <ADP> to <VERB> pick <ADP> up <DET> a <PROPN> frisbee <PUNCT>
+<DET> a <ADJ> young <NOUN> boy <VERB> picking <ADP> up <DET> a <NOUN> frisbee <ADP> in <DET> the <NOUN> grass <PUNCT>
+<DET> a <NOUN> toddler <ADP> in <DET> the <NOUN> park <VERB> picking <ADP> up <DET> a <NOUN> frisbee <PUNCT>
+<DET> a <ADJ> large <NOUN> lizard <VERB> sitting <ADP> on <NOUN> stone <NOUN> steps <ADP> with <NUM> three <NOUN> birds <PUNCT>
+<DET> an <NOUN> <unk> <CCONJ> and <NUM> three <NOUN> pigeons <VERB> sitting <ADP> on <NOUN> cement <NOUN> steps <PUNCT>
+<DET> the <ADJ> large <NOUN> lizard <VERB> is <ADP> on <DET> the <NOUN> steps <ADP> near <DET> the <NOUN> birds <PUNCT>
+<DET> an <NOUN> <unk> <CCONJ> and <NUM> two <NOUN> birds <VERB> are <VERB> sitting <ADP> on <ADJ> several <NOUN> steps <PUNCT>
+<DET> a <NOUN> lizard <CCONJ> and <DET> some <NOUN> bird <VERB> sitting <ADP> on <DET> some <NOUN> steps <PUNCT>
+<NUM> two <NOUN> men <VERB> taste <NOUN> <unk> <DET> a <NOUN> <unk> <PART> *s <NOUN> wine <ADV> directly <ADP> from <DET> the <NOUN> barrels <PUNCT>
+<NOUN> men <NOUN> talking <CCONJ> and <NOUN> tasting <NOUN> wine <ADP> near <NOUN> stacks <ADP> of <NOUN> wine <NOUN> barrels <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> men <VERB> smile <ADP> as <PRON> they <VERB> stand <ADP> among <NOUN> wine <NOUN> barrels <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> men <VERB> sitting <ADP> in <DET> a <NOUN> wine <NOUN> <unk> <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> men <VERB> are <VERB> drinking <NOUN> wine <ADP> near <NOUN> wine <NOUN> barrels <PUNCT>
+<DET> a <NOUN> couple <ADP> of <NOUN> giraffe <NOUN> standing <ADJ> next <ADP> to <DET> each <ADJ> other <PUNCT>
+<DET> a <NOUN> couple <ADP> of <NOUN> giraffe <PART> *s <NOUN> standing <ADP> in <DET> a <NOUN> sand <NOUN> lot <PUNCT>
+<NOUN> pair <ADP> of <NOUN> giraffes <VERB> scratching <NOUN> heads <CCONJ> and <NOUN> necks <VERB> using <ADJ> wooden <NOUN> posts <ADP> in <NOUN> back <ADP> of <NOUN> building <PUNCT>
+<NUM> two <NOUN> giraffe <NOUN> standing <ADP> near <DET> a <NOUN> fence <CCONJ> and <DET> a <ADJ> green <NOUN> building <PUNCT>
+<DET> the <NUM> two <NOUN> giraffes <VERB> are <ADJ> curious <ADP> about <PRON> what <VERB> is <ADP> beyond <DET> the <NOUN> fence <PUNCT>
+<DET> a <NOUN> man <PRON> that <VERB> is <VERB> flying <DET> a <ADJ> small <NOUN> kite <PUNCT>
+<DET> a <NOUN> person <NOUN> standing <ADP> in <DET> the <NOUN> grass <VERB> flying <DET> a <NOUN> kite <PUNCT>
+<DET> a <ADJ> small <NOUN> kid <VERB> plays <ADP> with <DET> a <NOUN> kite <ADP> in <DET> a <NOUN> field <PUNCT>
+<DET> a <ADJ> young <NOUN> person <NOUN> standing <ADP> in <DET> a <NOUN> field <ADP> of <ADJ> tall <NOUN> grass <VERB> flying <DET> a <NOUN> kite <PUNCT>
+<ADJ> african <ADJ> american <NOUN> man <VERB> flies <DET> a <NOUN> kite <ADP> in <DET> a <NOUN> field <PUNCT>
+<PROPN> view <ADP> in <DET> the <NOUN> mirror <ADP> of <NUM> one <NOUN> bus <ADP> of <DET> the <NOUN> front <ADP> of <DET> another <PUNCT>
+<DET> a <NOUN> school <NOUN> bus <NOUN> mirror <VERB> reflecting <DET> the <NOUN> front <ADP> of <DET> the <NOUN> bus <PUNCT>
+<DET> a <NOUN> convex <NOUN> mirror <VERB> shows <DET> the <ADJ> <unk> <NOUN> front <ADP> of <DET> a <NOUN> school <NOUN> bus <ADP> that <PRON> it <VERB> is <VERB> <unk> <ADP> to <PUNCT>
+<DET> the <NOUN> mirror <ADP> of <DET> the <NOUN> bus <VERB> is <ADP> near <DET> a <NOUN> gas <NOUN> station <PUNCT>
+<DET> the <NOUN> reflection <ADP> of <DET> a <NOUN> bus <ADP> in <DET> a <NOUN> bus <PART> *s <NOUN> side <NOUN> mirror <ADP> with <DET> another <NOUN> bus <CCONJ> and <DET> a <NOUN> gas <NOUN> price <NOUN> sign <ADP> in <DET> the <NOUN> background <PUNCT>
+<DET> a <ADJ> small <NOUN> kid <VERB> holding <ADP> on <ADP> to <DET> a <NOUN> stop <NOUN> sign <PUNCT>
+<DET> a <ADJ> young <NOUN> boy <NOUN> <unk> <ADP> to <DET> a <ADJ> public <NOUN> stop <NOUN> sign <PUNCT>
+<DET> a <ADJ> little <NOUN> boy <NOUN> standing <ADP> under <DET> a <ADJ> red <NOUN> stop <NOUN> sign <PUNCT>
+<DET> a <ADJ> little <NOUN> boy <VERB> is <VERB> holding <ADP> on <ADP> to <DET> a <NOUN> stop <NOUN> sign <PUNCT>
+<DET> a <NOUN> kid <VERB> holding <DET> a <NOUN> sign <PROPN> board <ADP> in <DET> a <PROPN> street <PUNCT>
+<DET> a <ADJ> white <NOUN> toilet <ADP> in <DET> a <NOUN> bathroom <ADJ> next <ADP> to <DET> a <NOUN> trash <NOUN> can <PUNCT>
+<DET> a <NOUN> toilet <VERB> is <VERB> shown <ADP> with <DET> the <NOUN> lid <ADP> up <PUNCT>
+<DET> a <NOUN> toilet <VERB> is <VERB> seen <ADP> from <ADP> above <ADP> with <DET> the <NOUN> lid <ADP> up <PUNCT>
+<PROPN> public <NOUN> toilet <ADP> with <DET> the <NOUN> lid <ADV> up <CCONJ> and <DET> a <NOUN> garbage <AUX> can <ADV> nearby <PUNCT>
+<DET> a <ADJ> small <ADJ> public <NOUN> bathroom <ADP> with <DET> the <NOUN> seat <ADP> up <PUNCT>
+<DET> a <NOUN> keyboard <DET> a <NOUN> mouse <CCONJ> and <DET> a <NOUN> monitor <VERB> sitting <ADP> on <DET> a <NOUN> desk <PUNCT>
+<DET> a <NOUN> computer <ADP> with <DET> a <ADJ> large <NOUN> monitor <VERB> sits <ADP> on <DET> a <NOUN> table <PUNCT>
+<DET> a <NOUN> computer <NOUN> monitor <VERB> sitting <ADP> on <DET> a <NOUN> desk <ADP> with <DET> a <NOUN> keyboard <CCONJ> and <NOUN> mouse <PUNCT>
+<DET> a <ADJ> blue <NOUN> screen <ADP> on <DET> a <NOUN> monitor <ADP> on <DET> a <NOUN> desk <PUNCT>
+<DET> a <NOUN> desktop <NOUN> computer <VERB> sitting <ADP> on <NOUN> top <ADP> of <DET> a <ADJ> wooden <NOUN> desk <PUNCT>
+<DET> a <NOUN> boy <VERB> is <VERB> taking <DET> a <NOUN> bite <ADP> from <DET> a <NOUN> sandwich <PUNCT>
+<DET> the <NOUN> man <VERB> is <VERB> enjoying <DET> the <ADJ> large <ADJ> cheesy <NOUN> sandwich <PUNCT>
+<DET> a <NOUN> person <VERB> sitting <ADP> in <DET> a <NOUN> restaurant <PUNCT> , <VERB> eating <DET> a <NOUN> sandwich <PUNCT>
+<DET> a <NOUN> man <ADP> in <NOUN> glasses <VERB> is <VERB> eating <DET> a <NOUN> sandwich <PUNCT>
+<DET> a <ADJ> teenage <NOUN> boy <ADP> in <DET> a <NOUN> food <NOUN> court <VERB> eating <DET> a <NOUN> sandwich <PUNCT>
+<DET> a <NOUN> man <VERB> swinging <DET> a <NOUN> tennis <NOUN> racket <VERB> wearing <DET> a <ADJ> blue <NOUN> shirt <PUNCT>
+<DET> a <NOUN> man <VERB> hitting <DET> a <NOUN> tennis <NOUN> ball <ADP> above <PRON> his <NOUN> head <PUNCT>
+<DET> a <ADJ> male <NOUN> tennis <NOUN> player <ADP> in <DET> a <ADJ> blue <NOUN> shirt <VERB> is <VERB> playing <NOUN> tennis <PUNCT>
+<DET> a <NOUN> man <VERB> holding <DET> a <NOUN> tennis <NOUN> racquet <ADP> on <DET> a <NOUN> court <PUNCT>
+<DET> a <NOUN> man <VERB> playing <NOUN> tennis <VERB> preparing <ADP> to <VERB> return <DET> a <NOUN> ball <VERB> coming <ADV> down <ADP> at <PRON> him <PUNCT>
+<DET> the <NOUN> television <CCONJ> and <NOUN> computers <VERB> are <VERB> left <ADP> on <ADP> in <DET> the <NOUN> room <PUNCT>
+<DET> an <NOUN> office <ADP> with <NUM> two <NOUN> monitors <ADP> on <DET> a <NOUN> desk <CCONJ> and <NOUN> tv <ADP> on <DET> the <NOUN> counter <PUNCT>
+<PRON> there <VERB> are <DET> a <NOUN> lot <ADP> of <NOUN> electronics <ADP> in <DET> this <NOUN> room <PUNCT>
+<DET> a <NOUN> room <ADP> with <DET> a <NOUN> desk <CCONJ> and <NOUN> dresser <VERB> holding <DET> a <NOUN> tv <PUNCT>
+<DET> a <ADJ> large <ADJ> flat <NOUN> screen <NOUN> tv <VERB> sitting <ADP> in <DET> a <NOUN> room <ADJ> next <ADP> to <DET> a <NOUN> desk <PUNCT>
+<DET> a <NOUN> <unk> <ADP> of <DET> a <NOUN> man <ADP> in <NOUN> chef <PART> *s <NOUN> attire <VERB> holding <DET> a <NOUN> pizza <PUNCT>
+<DET> a <NOUN> chef <NOUN> statue <VERB> holds <DET> a <ADJ> fake <NOUN> pizza <CCONJ> and <DET> a <NOUN> sign <ADP> with <DET> a <NOUN> message <ADP> on <PRON> it <PUNCT>
+<DET> a <NOUN> statue <ADP> of <DET> a <NOUN> man <VERB> holding <DET> a <NOUN> pizza <CCONJ> and <DET> a <NOUN> sign <PUNCT>
+<DET> a <NOUN> statue <ADP> of <DET> a <NOUN> chef <VERB> holding <ADP> up <DET> a <NOUN> pizza <PUNCT>
+<PROPN> <unk> <VERB> is <DET> a <NOUN> statue <ADP> of <DET> a <NOUN> man <VERB> holding <DET> a <NOUN> pizza <PUNCT>
+<DET> a <NOUN> man <VERB> sits <ADP> upon <DET> an <VERB> overlook <ADP> while <DET> a <NOUN> sailboat <VERB> travels <ADP> in <DET> the <NOUN> background <PUNCT>
+<DET> a <NOUN> person <VERB> sitting <ADP> in <DET> a <NOUN> chair <ADP> with <DET> the <NOUN> ocean <ADP> in <NOUN> front <ADP> of <PRON> them <PUNCT>
+<DET> a <NOUN> man <ADP> on <DET> a <NOUN> stone <NOUN> terrace <ADP> on <ADJ> large <NOUN> body <ADP> of <NOUN> water <PUNCT>
+<DET> a <NOUN> man <VERB> sitting <ADP> on <DET> a <NOUN> bench <ADP> on <DET> a <NOUN> stone <NOUN> balcony <VERB> overlooking <DET> the <NOUN> ocean <PUNCT>
+<NOUN> man <VERB> sitting <ADP> on <NOUN> bench <ADP> at <ADJ> elevated <NOUN> observation <NOUN> area <VERB> overlooking <NOUN> waterway <PUNCT>
+<DET> a <ADJ> tall <NOUN> giraffe <VERB> standing <ADJ> next <ADP> to <DET> a <NOUN> tree <VERB> surrounded <ADP> by <DET> a <NOUN> crowd <ADP> of <NOUN> people <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> people <VERB> watch <DET> a <NOUN> giraffe <VERB> eat <ADP> from <DET> a <NOUN> tree <PUNCT>
+<DET> a <NOUN> crowd <ADP> of <NOUN> people <VERB> watching <DET> the <NOUN> giraffe <ADP> at <DET> the <NOUN> zoo <PUNCT>
+<DET> a <NOUN> crowd <VERB> watches <ADP> as <NOUN> giraffes <VERB> graze <DET> the <NOUN> tree <NOUN> tops <ADP> at <DET> the <NOUN> zoo <PUNCT>
+<DET> the <NOUN> giraffes <VERB> are <VERB> standing <ADP> by <DET> the <NOUN> people <ADP> outside <NOUN> eating <PUNCT>
+<PRON> there <VERB> is <DET> a <NOUN> lot <ADP> of <ADJ> ash <VERB> coming <ADP> out <ADP> of <DET> the <NOUN> <unk> <PUNCT>
+<DET> some <NOUN> horseback <NOUN> riders <VERB> <unk> <DET> a <NOUN> snow <VERB> capped <NOUN> mountain <PUNCT>
+<DET> a <ADJ> snowy <NOUN> hill <VERB> surrounded <ADP> by <DET> some <NOUN> clouds <PUNCT>
+<DET> an <ADJ> open <NOUN> field <ADP> with <DET> a <NOUN> mountain <ADP> in <DET> the <NOUN> background <PUNCT>
+<DET> a <NOUN> snow <VERB> covered <NOUN> mountain <PRON> that <VERB> *s <VERB> surrounded <ADP> by <NOUN> clouds <PUNCT>
+<PROPN> white <CCONJ> and <ADJ> black <NOUN> cow <VERB> stands <ADP> over <ADJ> dead <NOUN> grass <ADP> by <DET> a <NOUN> river <PUNCT>
+<DET> a <NOUN> cow <ADP> with <ADJ> small <NOUN> horns <VERB> standing <ADP> near <DET> the <NOUN> water <PART> *s <NOUN> edge <PUNCT>
+<DET> a <NOUN> cow <VERB> sitting <ADP> on <DET> the <NOUN> bank <ADP> of <DET> a <NOUN> water <NOUN> area <ADP> with <NOUN> birds <VERB> sitting <ADP> on <DET> the <NOUN> ground <PUNCT>
+<DET> a <ADJ> black <CCONJ> and <ADJ> white <NOUN> cow <CCONJ> and <DET> some <ADJ> white <NOUN> birds <CCONJ> and <NOUN> water <PUNCT>
+<DET> a <ADJ> brown <NOUN> cow <NOUN> standing <ADP> on <NOUN> top <ADP> of <DET> a <ADJ> dry <NOUN> grass <VERB> covered <NOUN> field <PUNCT>
+<DET> some <NOUN> tins <PRON> that <VERB> have <ADJ> various <NOUN> food <NOUN> items <ADP> in <PRON> them <PUNCT>
+<DET> this <VERB> is <ADJ> various <NOUN> food <VERB> sitting <ADP> on <DET> a <NOUN> table <PUNCT>
+<DET> a <NOUN> bunch <ADP> of <NOUN> food <VERB> sitting <ADP> in <DET> a <NOUN> bunch <ADP> of <NOUN> metal <NOUN> pots <PUNCT>
+<DET> an <NOUN> arrangement <ADP> of <NOUN> fruits <CCONJ> and <NOUN> vegetables <ADP> in <NOUN> metal <NOUN> dishes <ADP> on <DET> a <NOUN> table <PUNCT>
+<NUM> three <NOUN> metal <NOUN> pans <VERB> filled <ADP> with <ADJ> different <NOUN> types <ADP> of <NOUN> food <PUNCT>
+<DET> a <NOUN> woman <ADP> with <DET> a <NOUN> microphone <VERB> holds <DET> a <NOUN> board <ADP> with <NOUN> circle <NOUN> designs <ADP> in <NOUN> front <ADP> of <ADJ> <unk> <NOUN> tables <PUNCT>
+<DET> a <NOUN> woman <VERB> is <VERB> holding <DET> a <NOUN> piece <ADP> of <NOUN> art <CCONJ> and <DET> a <NOUN> microphone <PUNCT>
+<DET> a <NOUN> woman <VERB> holding <DET> some <ADJ> green <NOUN> object <ADP> with <DET> a <NOUN> bottle <ADP> of <NOUN> water <ADP> on <DET> the <NOUN> table <PUNCT>
+<DET> a <NOUN> woman <ADP> with <DET> a <NOUN> microphone <VERB> holding <DET> an <NOUN> image <PUNCT>
+<DET> a <NOUN> woman <VERB> holding <DET> a <ADJ> wooden <NOUN> piece <ADP> of <NOUN> art <ADJ> next <ADP> to <DET> a <NOUN> laptop <PUNCT>
+<DET> a <NOUN> sandwich <ADP> on <DET> a <ADJ> white <NOUN> plate <ADP> with <DET> a <NOUN> knife <CCONJ> and <NOUN> fork <PUNCT>
+<DET> a <NOUN> salad <ADP> on <DET> a <NOUN> plate <ADP> with <DET> a <NOUN> piece <ADP> of <NOUN> bread <PUNCT> , <NOUN> fork <CCONJ> and <NOUN> knife <PUNCT>
+<DET> a <NOUN> salad <NOUN> sandwich <VERB> <unk> <DET> a <NOUN> plate <ADP> with <DET> another <NOUN> salad <VERB> sitting <ADP> alongside <PUNCT>
+<DET> a <ADJ> delicious <VERB> looking <NOUN> salad <ADP> with <NOUN> tuna <CCONJ> and <NOUN> bread <PUNCT>
+<NUM> two <ADJ> large <NOUN> salads <ADP> on <ADJ> white <NOUN> plates <ADP> with <DET> a <NOUN> slice <ADP> of <NOUN> bread <PUNCT>
+<DET> a <NOUN> man <VERB> is <VERB> riding <ADP> on <NOUN> skiis <ADP> up <DET> a <ADJ> snowy <NOUN> mountain <PUNCT>
+<DET> a <NOUN> guy <VERB> wearing <DET> a <ADJ> blue <NOUN> shirt <VERB> is <NOUN> skiing <PUNCT>
+<DET> a <NOUN> man <VERB> riding <NOUN> skis <ADP> across <NOUN> snow <VERB> covered <NOUN> ground <PUNCT>
+<DET> a <NOUN> man <ADP> on <NOUN> skis <ADP> on <DET> a <ADJ> cross <NOUN> country <NOUN> course <PUNCT>
+<DET> a <NOUN> man <ADP> on <NOUN> skis <VERB> makes <DET> a <VERB> <unk> <NOUN> face <PUNCT>
+<ADJ> many <NOUN> people <VERB> sitting <ADP> on <DET> a <NOUN> field <ADP> with <NUM> two <NOUN> people <VERB> sanding <PUNCT>
+<DET> the <NOUN> <unk> <VERB> are <VERB> waiting <NOUN> <unk> <DET> the <NOUN> party <ADP> to <VERB> begin <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> people <PRON> that <VERB> are <VERB> sitting <ADP> in <DET> the <NOUN> grass <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> people <VERB> relaxing <ADP> in <DET> the <NOUN> grass <ADP> on <DET> a <ADJ> sunny <NOUN> day <PUNCT>
+<ADJ> many <NOUN> people <VERB> <unk> <ADP> in <DET> the <NOUN> sun <ADP> at <DET> a <NOUN> park <PUNCT>
+<DET> a <NOUN> home <NOUN> bathroom <ADP> with <NOUN> <unk> <NOUN> tile <CCONJ> and <NOUN> tub <PUNCT>
+<DET> a <NOUN> bathroom <ADP> with <NOUN> tile <CCONJ> and <DET> a <NOUN> shower <VERB> is <VERB> shown <PUNCT>
+<DET> the <ADJ> fresh <VERB> <unk> <ADP> around <DET> a <NOUN> bath <NOUN> tub <ADP> in <DET> a <NOUN> bathroom <PUNCT>
+<DET> a <NOUN> bath <NOUN> tub <VERB> sitting <ADJ> next <ADP> to <DET> a <NOUN> window <PUNCT>
+<DET> a <ADV> very <ADJ> small <CCONJ> and <ADJ> old <VERB> styled <NOUN> rest <NOUN> room <ADP> with <NOUN> tile <NOUN> walls <PUNCT>
+<DET> a <NOUN> man <VERB> riding <DET> an <NOUN> elephant <ADP> by <DET> some <NOUN> trees <PUNCT>
+<DET> a <NOUN> person <VERB> riding <DET> an <NOUN> elephant <ADP> in <DET> a <NOUN> forest <PUNCT>
+<DET> a <NOUN> man <VERB> riding <DET> an <NOUN> elephant <ADP> through <DET> a <NOUN> forest <VERB> filled <ADP> with <NOUN> trees <PUNCT>
+<DET> a <NOUN> person <PRON> that <VERB> is <ADP> on <NOUN> top <ADP> of <DET> an <NOUN> elephant <PUNCT>
+<DET> a <NOUN> man <NOUN> rides <DET> a <ADJ> large <NOUN> elephant <PRON> that <VERB> holds <DET> a <NOUN> branch <PUNCT>
+<ADJ> small <NOUN> kitchen <ADP> with <ADJ> white <NOUN> appliances <CCONJ> and <ADJ> white <NOUN> cabinets <PUNCT>
+<DET> a <NOUN> room <ADP> with <DET> a <ADJ> wooden <NOUN> floor <CCONJ> and <DET> no <NOUN> furniture <ADP> in <NOUN> view <VERB> leads <ADP> into <DET> a <NOUN> hallway <PRON> that <VERB> is <VERB> painted <ADJ> yellow <CCONJ> and <VERB> features <DET> a <ADJ> white <NOUN> stove <PUNCT>
+<DET> the <NOUN> hallway <VERB> has <ADJ> dark <ADJ> hard <NOUN> wood <ADP> for <NOUN> floors <PUNCT>
+<DET> a <NOUN> stove <VERB> is <ADP> in <DET> a <NOUN> kitchen <ADJ> next <ADP> to <DET> an <ADJ> empty <NOUN> room <PUNCT>
+<DET> a <ADJ> empty <NOUN> living <NOUN> room <ADP> with <ADJ> hard <NOUN> wood <NOUN> flooring <PUNCT>
+<DET> a <NOUN> group <ADP> of <NOUN> people <VERB> are <VERB> playing <NOUN> wii <ADP> in <DET> the <NOUN> living <NOUN> room <PUNCT>
+<NOUN> group <ADP> of <NOUN> children <CCONJ> and <NOUN> adults <VERB> playing <DET> a <NOUN> video <NOUN> game <PUNCT>
+<DET> a <NOUN> girl <VERB> is <VERB> playing <DET> a <NOUN> game <NOUN> system <ADP> while <ADJ> other <NOUN> kids <VERB> look <ADP> on <PUNCT>
+<DET> the <NOUN> girl <ADP> in <DET> a <ADJ> pink <NOUN> sweater <VERB> is <VERB> playing <DET> a <NOUN> video <NOUN> game <PUNCT>
+<ADJ> several <NOUN> children <VERB> watch <ADP> while <DET> a <NOUN> girl <ADP> in <DET> a <ADJ> pink <NOUN> sweatshirt <VERB> plays <ADP> with <DET> a <PROPN> wii <ADJ> remote <ADP> while <DET> another <NOUN> person <ADP> with <DET> a <ADJ> little <NOUN> girl <ADP> on <PRON> their <NOUN> lap <NOUN> <unk> <ADP> in <DET> a <NOUN> chair <ADP> in <DET> the <NOUN> background <PUNCT>
+<NUM> two <NOUN> women <VERB> have <DET> a <NOUN> mirror <CCONJ> and <ADJ> <unk> <NOUN> instrument <PUNCT>
+<PRON> there <VERB> is <DET> a <NOUN> lady <VERB> checking <DET> another <NOUN> lady <PART> *s <NOUN> teeth <PUNCT>
+<VERB> wearing <ADJ> black <PUNCT> , <NUM> two <NOUN> women <VERB> stand <ADP> while <NUM> one <VERB> holds <DET> a <NOUN> toothbrush <ADJ> next <ADP> to <DET> the <ADJ> other <PART> *s <NOUN> mouth <PUNCT>
+<NUM> two <NOUN> women <VERB> standing <ADJ> next <ADP> to <DET> each <ADJ> other <ADP> while <VERB> holding <ADP> up <DET> a <NOUN> mirror <PUNCT>
+<DET> a <NOUN> woman <VERB> holds <DET> a <NOUN> mirror <CCONJ> and <NOUN> tool <ADV> up <ADP> to <DET> a <NOUN> woman <PART> *s <NOUN> mouth <PUNCT>
+<NUM> two <NOUN> animals <VERB> laying <ADP> in <DET> the <NOUN> grass <ADP> near <DET> each <ADJ> other <PUNCT>
+<DET> a <NOUN> couple <ADP> of <NOUN> cows <VERB> sit <ADP> on <DET> some <NOUN> grass <PUNCT>
+<NUM> two <ADJ> white <NOUN> cattle <VERB> laying <ADP> on <DET> a <ADJ> grassy <NOUN> field <ADP> in <DET> the <ADJ> daytime <PUNCT>
+<NUM> two <ADJ> white <NOUN> cows <VERB> lying <ADP> down <ADP> in <DET> a <NOUN> field <PUNCT>
+<DET> a <NOUN> bull <CCONJ> and <DET> a <NOUN> cow <NOUN> lie <ADP> in <DET> a <NOUN> field <PUNCT>
+<DET> a <NOUN> living <NOUN> room <VERB> filled <ADP> with <NOUN> furniture <CCONJ> and <DET> a <NOUN> window <PUNCT>
+<DET> a <NOUN> living <NOUN> room <NOUN> scene <ADP> with <DET> a <NOUN> couch <CCONJ> and <DET> a <NOUN> television <PUNCT>
+<DET> a <NOUN> living <NOUN> room <NOUN> area <ADP> with <DET> some <NOUN> couches <CCONJ> and <DET> a <NOUN> television <PUNCT>
+<DET> a <NOUN> photograph <ADP> of <DET> a <ADJ> messy <NOUN> living <NOUN> room <ADP> in <DET> a <NOUN> home <PUNCT>
+<DET> a <NOUN> living <NOUN> room <VERB> filled <ADP> with <ADJ> brown <NOUN> furniture <PUNCT>
+<DET> a <ADJ> <unk> <CCONJ> and <ADJ> <unk> <NOUN> living <NOUN> room <VERB> shows <DET> a <NOUN> <unk> <ADP> of <DET> a <NOUN> glass <ADJ> front <NOUN> door <ADP> through <DET> the <NOUN> <unk> <PUNCT>
+<DET> a <NOUN> living <NOUN> room <PRON> that <VERB> has <DET> some <NOUN> couches <CCONJ> and <NOUN> tables <ADP> in <PRON> it <PUNCT>
+<DET> the <NOUN> room <VERB> has <ADJ> red <NOUN> walls <ADP> with <DET> a <ADJ> blue <NOUN> chair <PUNCT>
+<DET> a <NOUN> living <NOUN> room <ADP> with <DET> the <NOUN> walls <VERB> painted <ADJ> <unk> <NOUN> color <PUNCT>
+<DET> the <NOUN> room <VERB> has <ADJ> red <NOUN> wall <PUNCT> , <ADJ> white <NOUN> carpet <CCONJ> and <VERB> matching <NOUN> furniture <PUNCT>
+<DET> a <NOUN> car <ADP> with <DET> a <NOUN> kayak <ADP> on <NOUN> top <ADP> of <PRON> it <VERB> parked <ADP> along <DET> a <NOUN> street <PUNCT>
+<DET> a <NOUN> car <ADP> with <DET> an <ADJ> inflatable <NOUN> raft <ADP> on <ADJ> top <NOUN> drives <ADP> down <DET> the <NOUN> street <PUNCT>
+<DET> the <NOUN> street <NOUN> intersection <ADP> at <PROPN> <unk> <PROPN> view <CCONJ> and <PROPN> lake <PROPN> drive <PUNCT>
+<DET> a <NOUN> <unk> <NOUN> sign <ADP> with <DET> a <NOUN> car <VERB> parked <ADV> nearby <PUNCT>
+<NUM> two <NOUN> street <NOUN> signs <PRON> that <VERB> are <ADP> on <DET> a <NOUN> street <NOUN> corner <PUNCT>
+<DET> a <NOUN> tv <VERB> sitting <ADP> on <NOUN> top <ADP> of <DET> a <ADJ> wooden <NOUN> shelf <PUNCT>
+<DET> a <NOUN> television <CCONJ> and <DET> a <NOUN> bed <ADP> in <DET> a <ADJ> small <NOUN> room <PUNCT>
+<DET> a <ADJ> small <NOUN> room <ADP> with <DET> a <NOUN> bed <CCONJ> and <NOUN> tv <ADP> on <DET> the <NOUN> wall <PUNCT>
+<VERB> sleeping <NOUN> quarters <ADP> with <DET> a <ADJ> small <NOUN> bed <CCONJ> and <NOUN> television <PUNCT>
+<DET> a <NOUN> bet <ADP> against <DET> a <NOUN> wall <ADP> with <DET> a <ADJ> small <NOUN> tv <ADP> on <DET> a <NOUN> shelf <ADP> at <DET> the <NOUN> foot <PUNCT>
+<DET> a <NOUN> <unk> <NOUN> baseball <NOUN> player <VERB> taking <DET> a <NOUN> swing <ADP> at <DET> a <NOUN> ball <PUNCT>
+<DET> the <NOUN> batter <VERB> has <ADV> just <VERB> hit <DET> the <NOUN> baseball <ADP> with <DET> the <NOUN> bat <PUNCT>
+<DET> a <NOUN> man <ADP> with <DET> a <NOUN> bat <NOUN> swings <ADP> at <DET> the <NOUN> base <PUNCT>
+<DET> a <NOUN> baseball <NOUN> player <VERB> has <PRON> his <NOUN> bat <VERB> outstretched <ADP> on <DET> the <NOUN> field <PUNCT>
+<DET> a <NOUN> baseball <NOUN> player <VERB> swinging <PRON> his <NOUN> bat <ADP> to <VERB> hit <DET> a <NOUN> baseball <PUNCT>
+<DET> a <ADJ> pregnant <NOUN> woman <VERB> laying <ADP> in <NOUN> bed <VERB> reading <DET> a <NOUN> book <PUNCT>
+<DET> a <ADJ> pregnant <NOUN> woman <VERB> laying <ADP> in <NOUN> bed <VERB> reading <DET> a <NOUN> book <PUNCT>
+<DET> a <ADJ> pregnant <NOUN> woman <ADP> in <NOUN> bed <VERB> reading <DET> a <NOUN> book <PUNCT>
+<DET> a <ADJ> pregnant <NOUN> woman <VERB> laying <ADP> in <NOUN> bed <VERB> reading <DET> a <NOUN> book <PUNCT>
+<DET> a <ADJ> pregnant <NOUN> woman <VERB> is <ADP> in <NOUN> bed <VERB> reading <DET> a <ADJ> large <NOUN> book <PUNCT>
+<DET> an <VERB> opened <ADJ> laptop <NOUN> computer <VERB> sitting <ADP> in <DET> a <NOUN> suitcase <PUNCT>
+<DET> a <ADJ> laptop <NOUN> computer <VERB> is <VERB> sitting <ADP> in <DET> a <NOUN> piece <ADP> of <NOUN> luggage <PUNCT>
+<DET> a <NOUN> laptop <PRON> that <VERB> is <ADJ> open <CCONJ> and <VERB> sitting <ADP> in <DET> an <ADJ> open <NOUN> piece <ADP> of <NOUN> luggage <PUNCT>
+<DET> an <ADJ> open <NOUN> laptop <VERB> sitting <ADP> in <DET> an <ADJ> open <NOUN> suitcase <PUNCT>
+<DET> the <ADJ> black <NOUN> laptop <VERB> is <ADP> inside <ADP> of <DET> an <ADJ> open <NOUN> luggage <NOUN> bag <PUNCT>
+<DET> a <NOUN> man <PRON> that <VERB> is <VERB> laying <ADP> down <ADP> on <DET> a <NOUN> hospital <NOUN> bed <ADP> with <NOUN> <unk> <PUNCT>
+<DET> the <NOUN> man <ADP> with <NOUN> <unk> <ADP> on <PRON> his <NOUN> face <VERB> is <ADP> in <DET> a <NOUN> hospital <NOUN> bed <VERB> attached <ADP> to <NOUN> wires <PUNCT>
+<DET> a <NOUN> man <VERB> laying <ADP> in <DET> a <NOUN> hospital <NOUN> bed <ADV> <unk> <VERB> injured <PUNCT>
+<VERB> injured <NOUN> man <VERB> lying <ADP> in <NOUN> bed <ADP> with <ADJ> medical <NOUN> <unk> <VERB> attached <PUNCT>
+<DET> a <NOUN> man <VERB> laying <ADP> in <DET> a <NOUN> bed <ADP> with <NOUN> <unk> <VERB> attached <ADP> to <PRON> his <NOUN> check <CCONJ> and <NOUN> mouth <PUNCT>
+<DET> a <NOUN> airplane <PRON> that <VERB> is <ADP> on <DET> a <NOUN> runway <ADP> by <DET> some <NOUN> grass <PUNCT>
+<DET> an <NOUN> airplane <ADP> on <DET> the <NOUN> runway <ADP> of <DET> an <NOUN> airport <PUNCT>
+<DET> a <NOUN> airplane <VERB> sitting <ADP> on <DET> a <NOUN> runway <ADP> at <DET> a <ADJ> small <NOUN> airport <PUNCT>
+<DET> a <ADJ> large <NOUN> jetliner <VERB> sitting <ADP> on <NOUN> top <ADP> of <DET> an <NOUN> airport <NOUN> runway <PUNCT>
+<DET> a <NOUN> plane <VERB> riding <ADP> down <DET> a <NOUN> runway <ADP> of <DET> an <NOUN> airport <PUNCT>
+<DET> a <NOUN> animal <NOUN> standing <ADP> in <DET> some <NOUN> snow <ADJ> next <ADP> to <DET> a <NOUN> wire <NOUN> fence <PUNCT>
+<PRON> there <VERB> is <DET> a <NOUN> sheep <ADP> behind <DET> a <NOUN> fence <NOUN> standing <ADP> in <DET> the <NOUN> snow <PUNCT>
+<DET> a <NOUN> sheep <NOUN> standing <ADP> on <DET> a <ADJ> snowy <NOUN> ground <ADP> with <ADV> very <ADJ> long <NOUN> horns <PUNCT>
+<DET> a <PROPN> goat <ADJ> next <ADP> to <DET> a <NOUN> fence <ADP> in <DET> the <NOUN> cold <PUNCT>
+<DET> a <NOUN> sheep <NOUN> standing <ADP> with <PRON> his <ADP> behind <ADP> to <DET> a <NOUN> fence <ADP> in <DET> the <NOUN> snow <PUNCT>
+<DET> a <NOUN> cat <VERB> sitting <ADP> on <DET> the <NOUN> hood <ADP> of <DET> a <NOUN> car <PUNCT>
+<DET> an <ADJ> orange <NOUN> cat <VERB> sitting <ADP> in <DET> the <NOUN> middle <ADP> of <DET> a <NOUN> car <NOUN> hood <PUNCT>
+<ADJ> large <NOUN> cat <VERB> laying <ADP> down <ADV> asleep <ADP> on <NOUN> top <ADP> of <DET> a <NOUN> car <PUNCT>
+<DET> a <ADJ> large <NOUN> orange <NOUN> cat <VERB> sleeps <ADP> on <DET> the <NOUN> hood <ADP> of <DET> a <NOUN> car <PUNCT>
+<DET> an <ADJ> orange <NOUN> cat <VERB> sleeping <ADP> on <DET> the <NOUN> hood <ADP> of <DET> a <NOUN> car <PUNCT>
+<DET> a <NOUN> couch <ADP> with <ADJ> various <ADJ> colorful <NOUN> pillows <PUNCT> , <DET> a <ADJ> blue <NOUN> curtain <PUNCT> , <NOUN> artwork <PUNCT> , <DET> a <NOUN> lamp <CCONJ> and <DET> a <NOUN> mirror <PUNCT>
+<DET> the <ADJ> blue <CCONJ> and <ADJ> purple <NOUN> room <VERB> looks <ADV> very <ADJ> comfortable <PUNCT>
+<DET> a <NOUN> living <NOUN> room <ADP> with <DET> a <ADJ> blue <CCONJ> and <ADJ> white <NOUN> wall <NOUN> paper <VERB> surround <DET> a <ADJ> purple <CCONJ> and <ADJ> white <NOUN> couch <PUNCT>
+<DET> a <ADJ> colorful <NOUN> couch <VERB> resting <ADP> on <DET> the <NOUN> floor <ADJ> next <ADP> to <DET> the <NOUN> wall <PUNCT>
+<DET> a <NOUN> picture <VERB> hangs <ADP> over <DET> a <ADJ> large <NOUN> couch <VERB> covered <ADP> with <NOUN> pillows <PUNCT>
+<DET> a <ADJ> empty <NOUN> ocean <NOUN> surf <ADP> with <DET> a <NOUN> parachute <ADP> in <DET> the <NOUN> background <PUNCT>
+<DET> a <NOUN> <unk> <VERB> is <VERB> surfing <ADJ> rough <NOUN> waves <ADP> on <DET> a <ADJ> foggy <NOUN> day <PUNCT>
+<DET> a <NOUN> person <NOUN> sailing <ADP> over <DET> a <NOUN> ocean <ADP> on <DET> a <NOUN> glider <PUNCT>
+<DET> a <NOUN> kite <VERB> is <VERB> flying <ADJ> high <ADP> above <DET> the <ADJ> choppy <NOUN> waves <ADP> as <DET> the <NOUN> surfer <NOUN> cuts <ADP> through <DET> the <NOUN> waves <PUNCT>
+<DET> a <ADJ> lone <NOUN> kite <NOUN> surfer <VERB> riding <DET> the <NOUN> waves <ADP> on <DET> a <ADJ> stormy <NOUN> sea <PUNCT>
+<DET> a <NOUN> man <VERB> talking <ADP> on <DET> a <NOUN> phone <ADP> while <DET> a <NOUN> man <VERB> takes <PRON> his <NOUN> picture <PUNCT>
+<DET> a <NOUN> man <PRON> that <VERB> is <VERB> taking <DET> a <NOUN> picture <ADP> of <DET> a <NOUN> guy <ADP> on <DET> a <NOUN> phone <PUNCT>
+<DET> a <NOUN> man <VERB> kneeling <ADP> with <DET> a <NOUN> camera <PUNCT> , <VERB> taking <DET> a <NOUN> picture <ADP> of <DET> a <NOUN> man <ADP> with <DET> a <NOUN> phone <PUNCT>
+<DET> a <NOUN> man <VERB> is <VERB> kneeling <VERB> taking <DET> a <NOUN> picture <ADP> of <DET> a <NOUN> man <ADP> on <DET> the <NOUN> phone <PUNCT>
+<NUM> one <NOUN> man <VERB> is <VERB> <unk> <DET> another <PRON> who <VERB> is <ADP> on <DET> the <NOUN> phone <PUNCT>
+<DET> a <NOUN> person <ADP> on <DET> a <NOUN> beach <VERB> flying <DET> a <NOUN> kite <PUNCT>
+<DET> a <NOUN> woman <ADP> on <DET> a <NOUN> beach <VERB> flying <DET> a <NOUN> kite <PUNCT>
+<DET> a <NOUN> person <VERB> is <VERB> flying <DET> a <NOUN> kite <ADP> on <DET> a <NOUN> beach <PUNCT>
+<PRON> there <VERB> is <DET> a <NOUN> man <ADP> on <DET> the <NOUN> beach <PRON> that <VERB> is <VERB> flying <DET> a <NOUN> kite <PUNCT>
+<DET> a <NOUN> person <VERB> flying <DET> a <NOUN> kite <ADP> over <NOUN> water <ADP> on <DET> a <ADJ> cloudy <NOUN> day <PUNCT>
+<NOUN> ducks <VERB> are <VERB> walking <ADP> through <DET> the <NOUN> grass <ADP> near <DET> a <NOUN> parking <NOUN> lot <PUNCT>
+<NUM> four <NOUN> ducks <VERB> are <ADP> in <DET> a <ADJ> grassy <NOUN> island <ADP> of <DET> a <NOUN> parking <NOUN> lot <ADP> with <PRON> their <NOUN> heads <ADV> down <PUNCT>
+<NUM> three <NOUN> geese <VERB> walk <ADP> along <DET> a <NOUN> median <ADP> in <DET> a <NOUN> parking <NOUN> lot <PUNCT>
+<DET> some <NOUN> birds <NOUN> grass <ADP> on <DET> a <NOUN> patch <ADP> of <NOUN> grass <PUNCT>
+<NUM> three <NOUN> geese <VERB> eating <ADP> out <ADP> of <DET> a <NOUN> parking <NOUN> lot <ADJ> grassy <NOUN> field <PUNCT>
+<PROPN> teddy <NOUN> bear <CCONJ> and <NOUN> box <ADJ> next <ADP> to <VERB> waste <NOUN> bin <PUNCT>
+<VERB> stuffed <NOUN> toys <VERB> sit <ADJ> next <ADP> to <DET> a <NOUN> garbage <NOUN> bin <PUNCT>
+<DET> a <NOUN> teddy <NOUN> bear <ADP> on <DET> the <NOUN> curb <ADJ> next <ADP> to <DET> a <NOUN> dumpster <PUNCT>
+<VERB> stuffed <NOUN> teddy <NOUN> bear <VERB> sitting <ADJ> next <ADP> to <NOUN> garbage <AUX> can <ADP> on <DET> the <NOUN> side <ADP> of <DET> the <NOUN> road <PUNCT>
+<DET> a <NOUN> teddy <NOUN> bear <VERB> sitting <ADP> on <DET> the <NOUN> ground <ADJ> next <ADP> to <DET> a <NOUN> garbage <NOUN> container <PUNCT>
+<DET> a <NOUN> train <NOUN> station <ADP> in <DET> the <NOUN> process <ADP> of <NOUN> construction <PUNCT>
+<DET> a <ADJ> back <NOUN> <unk> <PRON> that <VERB> is <ADJ> next <ADP> to <DET> a <NOUN> pile <ADP> of <NOUN> dirt <PUNCT>
+<DET> a <NOUN> tractor <NOUN> digging <ADP> up <NOUN> dirt <ADP> near <DET> a <NOUN> train <NOUN> track <PUNCT>
+<DET> the <ADJ> other <NOUN> side <ADP> of <DET> the <NOUN> track <ADP> at <DET> a <NOUN> train <NOUN> station <VERB> is <ADP> under <NOUN> construction <PUNCT>
+<DET> an <NOUN> <unk> <PUNCT> , <VERB> stop <NOUN> sign <CCONJ> and <NOUN> rail <NOUN> line <PUNCT>
+<DET> a <ADJ> pretty <NOUN> woman <ADP> in <DET> a <ADJ> white <NOUN> bikini <VERB> holding <DET> a <NOUN> surfboard <ADP> over <PRON> her <NOUN> head <PUNCT>
+<DET> a <NOUN> surfer <VERB> carries <PRON> her <NOUN> surfboard <ADP> on <DET> the <NOUN> beach <PUNCT>
+<DET> a <NOUN> woman <ADP> in <DET> a <NUM> two <NOUN> piece <NOUN> bathing <NOUN> suit <VERB> carrying <DET> a <NOUN> surf <NOUN> board <ADP> over <PRON> her <NOUN> head <PUNCT>
+<DET> a <NOUN> woman <VERB> carrying <DET> a <NOUN> surfboard <ADP> over <PRON> her <NOUN> head <ADP> on <DET> the <NOUN> beach <PUNCT>
+<DET> an <ADJ> attractive <ADJ> young <NOUN> woman <VERB> carries <DET> a <NOUN> surfboard <ADP> over <PRON> her <NOUN> head <ADP> at <DET> a <NOUN> beach <PUNCT>
+<DET> a <ADJ> large <NOUN> freight <NOUN> train <VERB> driving <ADP> along <DET> a <ADJ> lush <ADJ> green <NOUN> forest <PUNCT>
+<DET> a <NOUN> picture <ADP> of <NOUN> <unk> <ADP> with <NUM> one <NOUN> <unk> <ADP> with <DET> a <NOUN> train <ADP> on <PRON> it <PUNCT>
+<DET> this <VERB> is <DET> an <NOUN> image <ADP> of <DET> a <NOUN> train <ADP> on <NOUN> tracks <PUNCT>
+<DET> an <ADJ> overhead <NOUN> view <ADP> of <DET> a <NOUN> railroad <NOUN> track <ADP> with <DET> a <NOUN> train <NOUN> passing <ADP> by <PUNCT>
+<DET> an <NOUN> image <ADP> of <DET> a <NOUN> train <VERB> running <ADP> down <DET> the <NOUN> track <PUNCT>
+<DET> a <NOUN> person <VERB> walking <ADP> in <DET> the <NOUN> sand <ADP> in <DET> a <ADJ> low <NOUN> tide <NOUN> beach <PUNCT>
+<DET> a <NOUN> person <ADP> with <DET> a <NOUN> surfboard <VERB> walks <ADP> along <DET> a <NOUN> beach <PUNCT>
+<NOUN> water <VERB> is <VERB> washing <ADV> <unk> <ADP> on <ADP> to <DET> the <NOUN> sand <PUNCT>
+<DET> a <NOUN> man <VERB> is <VERB> carrying <DET> a <NOUN> surfboard <ADP> on <DET> the <NOUN> beach <PUNCT>
+<DET> the <ADJ> <unk> <VERB> has <NOUN> tracks <ADP> of <NOUN> footprints <CCONJ> and <DET> a <NOUN> figure <PRON> which <VERB> appears <ADP> to <VERB> be <ADJ> cross <PUNCT>
+<DET> a <ADJ> large <NOUN> group <ADP> of <NOUN> sheep <VERB> are <ADP> in <DET> the <ADJ> rural <NOUN> road <PUNCT>
+<DET> a <ADJ> large <NOUN> herd <ADP> of <NOUN> sheep <VERB> crossing <ADP> over <DET> a <NOUN> dirt <NOUN> roadway <PUNCT>
+<DET> a <NOUN> herd <ADP> of <NOUN> sheep <VERB> running <ADP> down <DET> a <NOUN> hill <ADP> from <DET> a <NOUN> road <PUNCT>
+<DET> a <NOUN> man <ADP> on <NOUN> horse <ADV> back <CCONJ> and <DET> a <NOUN> truck <VERB> watching <DET> a <NOUN> herd <ADP> of <NOUN> sheep <VERB> cross <DET> a <NOUN> road <PUNCT>
+<DET> a <ADJ> large <NOUN> group <ADP> of <NOUN> sheep <VERB> moving <ADP> down <DET> a <NOUN> hill <PUNCT>
+<DET> a <NOUN> tower <ADP> with <DET> a <NOUN> clock <ADP> on <DET> all <NUM> four <NOUN> sides <ADP> of <PRON> it <PUNCT>
+<DET> a <NOUN> clock <VERB> sits <ADP> at <DET> the <NOUN> top <ADP> of <DET> a <NOUN> tan <CCONJ> and <ADJ> gray <NOUN> tower <PUNCT>
+<DET> a <NOUN> building <PRON> that <VERB> has <DET> a <NOUN> tower <ADP> like <NOUN> structure <ADP> with <DET> a <NOUN> clock <ADP> on <PRON> it <PUNCT>
+<DET> a <NOUN> clock <NOUN> face <ADP> on <DET> a <NOUN> tower <ADP> of <DET> a <NOUN> building <PUNCT>
+<DET> a <ADJ> big <NOUN> building <ADP> with <DET> a <NOUN> clock <VERB> built <ADP> inside <DET> the <NOUN> top <ADP> of <PRON> it <PUNCT>
+<DET> a <NOUN> boy <NOUN> slides <ADP> along <DET> a <NOUN> rail <ADP> on <PRON> his <NOUN> skateboard <PUNCT>
+<DET> a <NOUN> man <VERB> is <VERB> doing <NOUN> skateboard <NOUN> tricks <ADP> on <DET> a <NOUN> metal <NOUN> railing <PUNCT>
+<DET> a <ADJ> young <NOUN> man <VERB> riding <DET> a <NOUN> skateboard <ADP> on <DET> a <NOUN> hand <NOUN> rail <PUNCT>
+<DET> a <NOUN> skateboard <NOUN> rider <ADP> on <NOUN> top <ADP> of <DET> a <NOUN> handrail <ADP> by <DET> a <NOUN> path <ADP> in <DET> the <NOUN> city <PUNCT>
+<DET> a <NOUN> skateboarder <VERB> doing <DET> a <NOUN> trick <ADP> on <DET> a <NOUN> rail <PUNCT>
+<DET> a <NOUN> man <VERB> is <ADV> nearly <ADV> sideways <ADP> while <VERB> racing <DET> a <NOUN> motorcycle <ADP> around <DET> a <NOUN> track <PUNCT>
+<DET> a <NOUN> person <VERB> leaning <ADP> down <ADP> on <DET> a <NOUN> motorcycle <ADP> as <PRON> they <VERB> ride <ADP> on <DET> a <NOUN> track <PUNCT>
+<DET> a <NOUN> person <VERB> is <VERB> leaning <ADJ> low <ADP> on <PRON> their <NOUN> motorcycle <ADP> on <DET> the <NOUN> tracks <PUNCT>
+<DET> a <NOUN> man <VERB> riding <DET> no <DET> a <NOUN> motorcycle <ADP> down <DET> a <NOUN> race <NOUN> tracks <PUNCT>
+<DET> a <NOUN> man <ADP> with <DET> a <NOUN> helmet <VERB> is <VERB> riding <DET> a <NOUN> motorcycle <ADP> on <PRON> it <VERB> *s <NOUN> side <PUNCT>
+<DET> a <NOUN> boy <NOUN> scout <VERB> wearing <DET> a <PROPN> frisbee <ADP> on <PRON> his <NOUN> face <PUNCT>
+<NOUN> person <ADP> in <DET> a <ADJ> <unk> <NOUN> shirt <ADP> with <DET> a <ADJ> white <NOUN> frisbee <ADP> on <PRON> their <NOUN> face <ADP> in <DET> a <NOUN> park <PUNCT>
+<DET> this <VERB> is <DET> a <NOUN> picture <ADP> of <DET> a <PROPN> frisbee <VERB> stuck <ADP> to <DET> a <NOUN> guys <VERB> face <PUNCT>
+<DET> a <NOUN> man <VERB> sitting <ADP> down <ADP> with <DET> a <PROPN> frisbee <ADP> on <PRON> his <NOUN> face <PUNCT>
+<DET> a <NOUN> person <VERB> sitting <NOUN> outdoors <ADP> with <DET> a <PROPN> frisbee <ADP> in <NOUN> front <ADP> of <PRON> their <NOUN> face <PUNCT>
+<DET> a <NOUN> person <ADP> with <DET> a <NOUN> backpack <VERB> riding <DET> a <NOUN> snowboard <ADP> down <DET> a <NOUN> mountain <NOUN> side <PUNCT>
+<DET> the <NOUN> person <VERB> is <VERB> coming <ADP> down <DET> the <NOUN> hill <ADP> on <DET> a <NOUN> snowboard <PUNCT>
+<DET> a <NOUN> man <NOUN> skiing <ADP> down <DET> a <NOUN> snow <VERB> covered <NOUN> mountain <PUNCT>
+<DET> a <NOUN> man <VERB> riding <NOUN> skis <ADP> down <DET> a <NOUN> snow <VERB> covered <NOUN> slope <PUNCT>
+<PRON> there <VERB> is <NUM> one <VERB> snowboarding <VERB> going <ADP> down <DET> the <NOUN> hill <PUNCT>
+<DET> a <NOUN> table <VERB> holds <DET> a <NOUN> cheese <NOUN> pizza <CCONJ> and <NOUN> condiments <ADP> on <DET> a <ADJ> checkered <NOUN> tablecloth <PUNCT>
+<DET> an <ADJ> <unk> <NOUN> pizza <VERB> sitting <ADP> on <DET> a <NOUN> table <ADP> with <DET> a <NOUN> plaid <NOUN> table <NOUN> cloth <PUNCT>
+<DET> the <ADJ> small <ADJ> personal <NOUN> pizza <VERB> is <ADP> on <DET> a <NOUN> kitchen <NOUN> counter <PUNCT>
+<DET> a <ADJ> large <NOUN> cheese <NOUN> pizza <ADP> atop <DET> a <ADJ> wooden <VERB> cutting <NOUN> board <PUNCT>
